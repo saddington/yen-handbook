@@ -27,5 +27,3 @@ To be filled in... soon...
 #### John Saddington - Product
 
 John was co-founder of The Iron Yard before an acquisition by Apollo Global in June, 2015. Before that, he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie (wannabe) vlogger.
-
-#### Peter Saddington - Product
