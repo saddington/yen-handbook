@@ -15,8 +15,8 @@ Get your overview, right here.
 Our values are simple and straight-forward, liberally
 
 1. **Humility** - Stay humble as there is always room to grow.
-2. **Continuous Improvement** - Measure, iterate, and execute. "You can't improve what you don't measure." - [Jeff](https://www.recode.net/2016/8/5/12377644/technology-startup-investment-advice-scale-slower)
-3. **Customer Success** - This value drives everything we do: Help our customer succeed. Consequently, we succeed when our customer's do.
+2. **Continuous Improvement** - 
+3. **Do the Work**
 
 ## Our Story
 
@@ -30,4 +30,5 @@ John was co-founder of The Iron Yard before an acquisition by Apollo Global in J
 
 #### Peter Saddington - Product
 
-'''
+
+Add here.

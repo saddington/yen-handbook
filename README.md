@@ -7,7 +7,7 @@ But we know, after having built a few companies previously, that the consistent 
 
 In short, we want to walk-the-walk and not just talk-the-talk when it comes to organizational health!
 
-Consequently, this WIP ("Work in Progress") repository will contain most (but certaintly not all) of the current organizational policies that we use at Pinpoint. It's not perfect just as the founders of Pinpoint are not perfect. Rather, we want it to be an open dialogue and representation of who we are today and who we want to be in the future. It's the starting block rather than the finish line.
+Consequently, this WIP ("Work in Progress") repository will contain most (but certaintly not all) of the current organizational policies that we use at Yen. It's not perfect just as the founders of Yen are not perfect. Rather, we want it to be an open dialogue and representation of who we are today and who we want to be in the future. It's the starting block rather than the finish line.
 
 Feel free to use this repository for your own needs, fork it, share it, and even consider making a pull request if you see something that doesn't look right. We welcome all feedback and suggestions so the more the merrier!
 
@@ -24,13 +24,12 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 ## Table of Contents
 
 1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) - Mission, Values, Staff
-2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) - Getting Started @ Pinpoint
+2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) - Getting Started @ Yen
 2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
 3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md) - A "**Must-Read**"
-4. [Team Pins](https://github.com/pinpt/handbook/blob/master/4-pins.md) - A Little Intentional Culture
-5. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md) - A Curated List of Posts, Tools, and More
-6. [Growth](https://github.com/pinpt/growth) - How We Communicate Who We Are
+4. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md) - A Curated List of Posts, Tools, and More
+5. [Growth](https://github.com/pinpt/growth) - How We Communicate Who We Are
 
-## Work @ Pinpoint
+## Work @ Yen
 
 Right now, we're not hiring. :thumbsup: Stay tuned!
