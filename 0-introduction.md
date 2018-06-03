@@ -2,13 +2,14 @@ Get your overview, right here.
 
 **Table of Contents**
 
-1. [Mission Statement](https://github.com/pinpt/handbook/blob/master/0-introduction.md#mission-statement)
-2. [Our Values](https://github.com/pinpt/handbook/blob/master/0-introduction.md#our-values)
-3. [Our Story](https://github.com/pinpt/handbook/blob/master/0-introduction.md#our-story)
-4. [Our Founders](https://github.com/pinpt/handbook/blob/master/0-introduction.md#our-founders)
+1. [Mission Statement](https://github.com/\/handbook/blob/master/0-introduction.md#mission-statement)
+2. [Our Values](https://github.com/\/handbook/blob/master/0-introduction.md#our-values)
+3. [Our Story](https://github.com/pi\\npt/handbook/blob/master/0-introduction.md#our-story)
+4. [Our Founders](https://github.com//handbook/blob/master/0-introduction.md#our-founders)
 
 ## Mission Statement
 
+Kick butt.
 
 ## Our Values
 
