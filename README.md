@@ -26,11 +26,11 @@ See anything that needs to be updated or corrected? Please let us know!
 ## Table of Contents
 
 1. [Introduction](###) - Mission, Values, Staff
-2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) - Getting Started @ Yen
-2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
-3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md) - A "**Must-Read**"
-4. [PeopleOps Resources](https://github.com/pinpt/handbook/blob/master/5-resources.md) - A Curated List of Posts, Tools, and More
-5. [Growth](https://github.com/pinpt/growth) - How We Communicate Who We Are
+2. [Onboarding](###) - Getting Started @ Yen
+2. [Benefits & Perks](###) - A Few Goodies for the Team
+3. [Employment Policies](###) - A "**Must-Read**"
+4. [PeopleOps Resources](###) - A Curated List of Posts, Tools, and More
+5. [Growth](###) - How We Communicate Who We Are
 
 ## Work @ Yen
 
