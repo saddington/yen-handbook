@@ -23,7 +23,7 @@ Want to get to know us a bit better? Look no further! Have a question? Ask it in
 
 ## Table of Contents
 
-1. [Introduction](https://github.com/pinpt/handbook/blob/master/0-introduction.md) - Mission, Values, Staff
+1. [Introduction](###) - Mission, Values, Staff
 2. [Onboarding](https://github.com/pinpt/handbook/blob/master/1-onboarding.md) - Getting Started @ Yen
 2. [Benefits & Perks](https://github.com/pinpt/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
 3. [Employment Policies](https://github.com/pinpt/handbook/blob/master/3-employment.md) - A "**Must-Read**"
