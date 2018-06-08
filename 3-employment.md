@@ -1,4 +1,4 @@
-# Employment Poliices
+# Employment Policies
 *For your reference and review*
 
 The following you'll find more information regarding your employment at Yen! Like always, if you have any questions, feel free to ping John on Slack or share your thoughts in **#OrgDev**!

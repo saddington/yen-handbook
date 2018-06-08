@@ -25,12 +25,13 @@ See anything that needs to be updated or corrected? Please let us know!
 
 ## Table of Contents
 
-1. [Introduction](###) - Mission, Values, Staff
-2. [Onboarding](###) - Getting Started @ Yen
-2. [Benefits & Perks](###) - A Few Goodies for the Team
-3. [Employment Policies](###) - A "**Must-Read**"
-4. [PeopleOps Resources](###) - A Curated List of Posts, Tools, and More
-5. [Growth](###) - How We Communicate Who We Are
+1. [Introduction](https://github.com/yenio/handbook/blob/master/0-introduction.md) - Mission, Values, Staff
+2. [Onboarding](https://github.com/yenio/handbook/blob/master/1-onboarding.md) - Getting Started @ Yen
+3. [Benefits & Insurance](https://github.com/yenio/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
+4. [Employment Policies](https://github.com/yenio/handbook/blob/master/3-employment.md) - A "**Must-Read**"
+5. [PeopleOps Resources](https://github.com/yenio/handbook/blob/master/99-resources.md) - A Curated List of Posts, Tools, and More
+6. [Growth](###) - How We Communicate Who We Are
+7. [Policy Changes](https://github.com/yenio/handbook/blob/master/98-policy-changes.md) - Change is the only constant...
 
 ## Work @ Yen
 
