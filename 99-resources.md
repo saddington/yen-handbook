@@ -19,7 +19,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 12. [Health](https://github.com/yenio/handbook/blob/master/99-resources.md#health)
 13. [Internship Programs](https://github.com/yenio/handbook/blob/master/99-resources.md#internship-programs)
 14. [Cost of Poor Culture, Bad Org Health](https://github.com/yenio/handbook/blob/master/99-resources.md#cost-of-poor-culture-bad-org-health)
-15. [Services, Providers](https://github.com/yenio/handbook/blob/master/99-resources.md#services-and-providers)
+15. [Services, Providers](https://github.com/yenio/handbook/blob/master/99-resources.md#online-services-and-providers)
 
 ## General HR, PeopleOps
 
