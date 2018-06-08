@@ -19,10 +19,6 @@ Here's to making our company as good as the products we sell, if not better.
 
 ***
 
-# Sections
-
-See anything that needs to be updated or corrected? Please let us know!
-
 ## Table of Contents
 
 1. [Introduction](https://github.com/yenio/handbook/blob/master/0-introduction.md) - Mission, Values, Staff
@@ -35,4 +31,10 @@ See anything that needs to be updated or corrected? Please let us know!
 
 ## Work @ Yen
 
-Right now, we're not hiring. :thumbsup: Stay tuned!
+Here are some of the roles that we'd love to fill:
+
+- Community Manager
+- BD / Sales
+- Operations Manager
+- Frontend Engineer x2
+- Backend Engineer x2
