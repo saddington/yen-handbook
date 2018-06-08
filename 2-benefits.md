@@ -6,7 +6,7 @@
 
 1. [Healthcare and Disability Insurance](https://github.com/yenio/handbook/blob/master/2-benefits.md#healthcare-and-disability-insurance)
 2. [Payroll](https://github.com/yenio/handbook/blob/master/2-benefits.md#payroll-ie-getting-paid)
-3. [Observed Holiday List](https://github.com/yenio/handbook/blob/master/2-benefits.md#Yen-observed-holiday-list-for-2018)
+3. [Observed Holiday List](https://github.com/yenio/handbook/blob/master/2-benefits.md#observed-holiday-list-for-2018)
 4. [Vacation and Sick Leave](https://github.com/yenio/handbook/blob/master/2-benefits.md#vacation-and-sick-leave)
 5. [Paid Family, Parent Leave](https://github.com/yenio/handbook/blob/master/2-benefits.md#paid-family-parent-leave)
 6. [Other Protected Absences](https://github.com/yenio/handbook/blob/master/2-benefits.md#other-protected-absences)

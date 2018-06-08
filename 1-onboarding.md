@@ -3,7 +3,7 @@
 
 Hey! Welcome to the Yen team, we’re so excited to have you with us! We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Yen works and how we work together.
 
-To start, you're going to want to make sure you review [Our Mission and Values](https://github.com/yenio/handbook/blob/master/0-introduction.md#mission-statement) and we're sure you going to want to know all about the [Benefits & Perks](###). 
+To start, you're going to want to make sure you review [Our Mission and Values](https://github.com/yenio/handbook/blob/master/0-introduction.md#mission-statement) and we're sure you going to want to know all about the [Benefits & Perks](https://github.com/yenio/handbook/blob/master/2-benefits.md). 
 
 You'll probably have questions so feel free to ping anyone on the team, drop a note in Slack {**#OrgDev**) or if you need anything specific, ping John! Also, if you have comments and/or suggestions on this Handbook, please join #handbook in Slack and contribute!
 
