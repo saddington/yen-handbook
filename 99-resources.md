@@ -163,6 +163,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [First Follower: Leadership Lessons from Dancing Guy](https://sivers.org/ff)
 - [Our 6 Must Reads for Scaling Yourself as a Leader](http://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/)
 - [Buzzfeed's Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md)
+- [How to be a Manager](https://getweeklyupdate.com/manager-guide)
 
 
 
@@ -174,10 +175,12 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Docker Global Mentor Week](https://blog.docker.com/2016/10/docker-global-mentor-week-2016/)
 - [Organizing Teams With Players and Coaches](https://www.helpscout.net/blog/effective-teams/)
 - [Employee Retention: How To Beat The Odds and Keep Your Best Employees Around Longer](http://wheniwork.com/blog/smb/people-management/employee-retention/)
+- [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4)
 
 
 ## Working Remote
 
+- [Remote Only](https://www.remoteonly.org/) - Tons of resources and links
 - [An Engineering Manager’s Guide to the Future of Work](https://www.linkedin.com/pulse/engineering-managers-guide-future-work-scott-carleton)
 - [How Our Remote Team Stays Aligned With ‘Town Hall’ Meetings](https://www.helpscout.net/blog/remote-team-meetings/)
 - [Scaling A Distributed Team to 50+ Employees](https://stories.uplabs.com/scaling-a-distributed-team-to-50-employees-6ea8392271bc)
