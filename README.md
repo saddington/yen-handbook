@@ -36,5 +36,5 @@ Here are some of the roles that we'd love to fill:
 - Community Manager
 - BD / Sales
 - Operations Manager
-- Frontend Engineer x2
-- Backend Engineer x2
+- Frontend Engineers
+- Backend Engineers
