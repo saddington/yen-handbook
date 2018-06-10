@@ -26,7 +26,7 @@ Here's to making our company as good as the products we sell, if not better.
 3. [Benefits & Insurance](https://github.com/yenio/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
 4. [Employment Policies](https://github.com/yenio/handbook/blob/master/3-employment.md) - A "**Must-Read**"
 5. [PeopleOps Resources](https://github.com/yenio/handbook/blob/master/99-resources.md) - A Curated List of Posts, Tools, and More
-6. [Growth](###) - How We Communicate Who We Are
+6. [Growth](https://github.com/yenio/handbook/blob/master/4-growth.md) - How We Communicate Who We Are
 7. [Policy Changes](https://github.com/yenio/handbook/blob/master/98-policy-changes.md) - Change is the only constant...
 
 ## Work @ Yen
