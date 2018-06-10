@@ -21,10 +21,10 @@ Here's to making our company as good as the products we sell, if not better.
 
 ## Table of Contents
 
-1. [Introduction](https://github.com/yenio/handbook/blob/master/0-introduction.md) - Mission, Values, Staff
-2. [Onboarding](https://github.com/yenio/handbook/blob/master/1-onboarding.md) - Getting Started @ Yen
-3. [Benefits & Insurance](https://github.com/yenio/handbook/blob/master/2-benefits.md) - A Few Goodies for the Team
-4. [Employment Policies](https://github.com/yenio/handbook/blob/master/3-employment.md) - A "**Must-Read**"
+1. [Introduction](https://github.com/yenio/handbook/blob/master/0-introduction.md) - Mission, Values, Staff, & Story
+2. [Onboarding](https://github.com/yenio/handbook/blob/master/1-onboarding.md) - Getting Started on the Right Foot
+3. [Benefits & Insurance](https://github.com/yenio/handbook/blob/master/2-benefits.md) - We Got You Fam
+4. [Employment Policies](https://github.com/yenio/handbook/blob/master/3-employment.md) - These are Important
 5. [PeopleOps Resources](https://github.com/yenio/handbook/blob/master/99-resources.md) - A Curated List of Posts, Tools, and More
 6. [Growth](https://github.com/yenio/handbook/blob/master/4-growth.md) - How We Communicate Who We Are
 7. [Policy Changes](https://github.com/yenio/handbook/blob/master/98-policy-changes.md) - Change is the only constant...
