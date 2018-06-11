@@ -9,11 +9,11 @@ Consequently, our mission is to accelerate the growth and adoption of bitcoin & 
 
 ## Our Values
 
-TBD...
+Or the things we say around the office, a lot.
 
-1. **Continuous Improvement** - Stay humble as there is always room to grow.
-2. **Value 2** - 
-3. **Value 3** -
+1. **Continuous Improvement** - 1%, everyday. Compounded, that's a lot of growth.
+2. **Everything is an Experiment** - Experimentation assumes room for failure (but it's also how we win).
+3. **Steve Martin** - Be so good they can't ignore you.
 
 ## Our Team
 
