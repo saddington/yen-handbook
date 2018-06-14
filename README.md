@@ -38,3 +38,5 @@ Here are some of the roles that we'd love to fill:
 - Operations Manager
 - Frontend Engineers
 - Backend Engineers
+
+Please feel free to [ping us](mailto:john@yen.io) if interested!
