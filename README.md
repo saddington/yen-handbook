@@ -34,7 +34,7 @@ Here's to making our company as good as the products we sell, if not better.
 Here are some of the roles that we'd love to fill:
 
 - Community Manager
-- BD / Sales
+- BD / Sales Leader
 - Operations Manager
 - Frontend Engineers
 - Backend Engineers
