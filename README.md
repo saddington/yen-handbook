@@ -36,7 +36,7 @@ Here are some of the roles that we'd love to fill:
 - Community Manager
 - BD / Sales Leader
 - Operations Manager
-- Frontend Engineers
-- Backend Engineers
+- Frontend Engineer(s)
+- Backend Engineer(s)
 
 Please feel free to [ping us](mailto:john@yen.io) if interested!
