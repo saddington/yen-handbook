@@ -28,13 +28,9 @@ Peter previously founded a research and analytics consultancy which has been int
 
 ## Extended Team
 
-#### VC 1
+#### Venture Capital Institutions
 
-#### VC 2
-
-#### VC 3
-
-#### Angels
+#### Angel Investors
 
 ## Our Story
 
