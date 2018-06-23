@@ -40,6 +40,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Organizational Design in Startups](http://tomtunguz.com/organizational-design/)
 - [Gusto: Employee Handbook](https://gusto.com/framework/crash-course-guides/the-ultimate-employee-handbook/) - PDF Download [here](https://www.dropbox.com/s/s3ri0gfzl3yyuy6/Gusto_How_to_Create_an_Employee_Handbook_final.pdf?dl=0).
 - [A Quick Guide to Stripe's Culture](https://stripe.com/us/jobs/candidate-info)
+- [Know the soul of the high-performance employee](https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f)
 
 
 
