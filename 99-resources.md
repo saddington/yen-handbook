@@ -121,6 +121,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Culture Eats Strategy for Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
 - [Company culture tips from Netflix, Zappos, Atlassian](https://venturebeat.com/2016/01/17/company-culture-tips-from-netflix-zappos-atlassian/)
 - [Making Culture a Tangible Metric](http://blog.ycombinator.com/making-culture-a-tangible-metric/)
+- [4 Part Framework: Changing Company Culture](https://teambit.io/blog/changing-company-culture/)
 
 
 
