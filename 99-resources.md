@@ -63,6 +63,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [A Primer for Startups and Job Seekers to BOTH Win the Talent War](http://firstround.com/review/a-primer-for-startups-and-job-seekers-to-both-win-the-talent-war/)
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
 - [Ask HN: How to Prepare for an Engineering Manager Interview?](https://news.ycombinator.com/item?id=14726130)
+- [Ensure the Survival of Creativity](https://john.do/ensure-the-survival-of-creativity/)
 
 
 ## Onboarding
@@ -122,6 +123,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Company culture tips from Netflix, Zappos, Atlassian](https://venturebeat.com/2016/01/17/company-culture-tips-from-netflix-zappos-atlassian/)
 - [Making Culture a Tangible Metric](http://blog.ycombinator.com/making-culture-a-tangible-metric/)
 - [4 Part Framework: Changing Company Culture](https://teambit.io/blog/changing-company-culture/)
+- [There Was a Reason](https://john.do/there-reason/)
 
 
 
