@@ -35,6 +35,9 @@ Here are some of the roles that we'd love to fill:
 
 - Community Manager
 - BD / Sales Leader
+
+Early-stage blockchain & cryptocurrency company is looking for an experienced operator who understands the dynamics, challenges, and opportunities working for an early-stage, venture-backed startup lead by experienced founders with multiple exits. Primary role will include managing existing sales and business development pipeline as well as building new systems of record. You'll also be a part of the founding team which necessarily means that you'll work on a number of technical (development skills are not required, but useful!) and non-technical projects to help create additional momentum.
+
 - Operations Manager
 - Frontend Engineer(s)
 - Backend Engineer(s)
