@@ -194,6 +194,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [6 Rules To Live By When You Work In An Office But Have Remote Team Members](https://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members)
 - [How to Handle Conflict on Remote Teams](https://www.helpscout.net/blog/remote-team-conflict/)
 - [How to Determine if Candidates Will Thrive in a Remote Work Environment](https://hackernoon.com/how-to-determine-if-candidates-will-thrive-in-a-remote-work-environment-d538d1e8f831)
+- [How to have a good relationship with your boss when you’re working remotely](https://blog.knowyourcompany.com/how-to-have-a-good-relationship-with-your-boss-when-youre-working-remotely-f82c0fbcd423)
 
 ## Team Dynamics
 
