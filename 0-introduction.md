@@ -34,4 +34,4 @@ Peter previously founded a research and analytics consultancy which has been int
 
 ## Our Story
 
-It started with video...
+It started with video.
