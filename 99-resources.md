@@ -169,7 +169,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Buzzfeed's Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md)
 - [How to be a Manager](https://getweeklyupdate.com/manager-guide)
 - [3 Layers of Management](http://tomtunguz.com/three-layers-of-management/)
-- [The New Manager Death Spiral](https://youtu.be/pAbU3WJ-NBw) - Video
+- [The New Manager Death Spiral](https://youtu.be/pAbU3WJ-NBw)
 
 
 
