@@ -34,4 +34,4 @@ Peter previously founded a research and analytics consultancy which has been int
 
 ## Our Story
 
-TBD.
+It all started with a personal video challenge...
