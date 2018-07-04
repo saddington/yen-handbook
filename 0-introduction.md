@@ -19,7 +19,7 @@ Or the things we say around the office, a lot.
 
 #### John Saddington - Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
 
-John was most recently co-founder of PinPT, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm, BoldStart, BloombergBeta, Slack, Social Capital, and more). Prior to PinPT he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie vlogger.
+John was most recently co-founder of PinPT, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm, BoldStart, BloombergBeta, Slack Fund, Social Capital, and more). Prior to PinPT he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie vlogger.
 
 #### Peter Saddington - Product - [LinkedIn](https://www.linkedin.com/in/petersaddington/)
 
@@ -34,4 +34,4 @@ Peter previously founded a research and analytics consultancy which has been int
 
 ## Our Story
 
-It all started with a personal video challenge...
+...

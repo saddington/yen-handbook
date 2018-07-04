@@ -268,6 +268,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [People leave managers, not companies. Don’t let that manager be you.](https://blog.intercom.com/people-leave-managers-not-companies/)
 - [Onboarding Stats You Need to Know](http://www.urbanbound.com/blog/onboarding-infographic-statistics)
 - [The Unexpected Challenge of Unlimited Vacation Time](https://thenextweb.com/insider/2016/01/23/the-unexpected-challenge-of-unlimited-vacation-time/#.tnw_foy239HN)
+- [11 Questions to Ask: Disengaged Employee?](https://blog.knowyourcompany.com/how-can-you-tell-if-you-have-a-disengaged-employee-ask-these-11-questions-fa4531baa9c1)
 
 
 ***
