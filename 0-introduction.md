@@ -26,6 +26,10 @@ John was most recently co-founder of PinPT, an engineering analytics company in 
 
 Peter previously founded a research and analytics consultancy which has been integral in multi-million dollar Agile Transformation projects for some of the largest Fortune 500 companies, including Cisco, T-Mobile, Capital one, Blue Cross Blue Shield, Aetna, Primedia, and Cbeyond. He is a sought-after keynote speaker and is a Certified Scrum Trainer (CST). Additionally, he has three master's degrees, one of which is in counseling and provides coaching and mentorship to industry leaders and professionals.
 
+#### Su Kim - Operations
+
+TBD.
+
 ## Extended Team
 
 #### Venture Capital Institutions
@@ -34,4 +38,3 @@ Peter previously founded a research and analytics consultancy which has been int
 
 ## Our Story
 
-...
