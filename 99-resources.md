@@ -136,6 +136,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The best developer conference? Your own.](https://engineering.klarna.com/the-best-developer-conference-your-own-ef68f2831b67)
 - [Rate of Learning](https://john.do/rol/)
 - [How to Give Feedback to Your Boss](https://blog.knowyourcompany.com/how-to-give-feedback-to-your-boss-f0871117c835)
+- [Go Slow to Go Fast](https://medium.com/@aliciatweet/go-slow-to-go-fast-part-1-you-a4974ceb8a7c)
 
 
 
