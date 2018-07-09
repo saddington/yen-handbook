@@ -172,6 +172,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [3 Layers of Management](http://tomtunguz.com/three-layers-of-management/)
 - [The New Manager Death Spiral](https://youtu.be/pAbU3WJ-NBw)
 - [Patty McCord on Rethinking How We Manage People](https://www.youtube.com/watch?v=80bymIwYrlI)
+- [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt) - Google Doc, Coaching
 
 
 
