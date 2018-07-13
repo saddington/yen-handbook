@@ -173,6 +173,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The New Manager Death Spiral](https://youtu.be/pAbU3WJ-NBw)
 - [Patty McCord on Rethinking How We Manage People](https://www.youtube.com/watch?v=80bymIwYrlI)
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt) - Google Doc, Coaching
+- [Welcome, New Managers: Complete Guide](https://www.officevibe.com/complete-guide-new-manager)
 
 
 
