@@ -28,6 +28,7 @@ Peter previously founded a research and analytics consultancy which has been int
 
 #### Su Kim - Operations - [LinkedIn](https://www.linkedin.com/in/suwkim/)
 
+TBD.
 
 
 ## Extended Team
