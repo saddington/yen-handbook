@@ -185,6 +185,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Organizing Teams With Players and Coaches](https://www.helpscout.net/blog/effective-teams/)
 - [Employee Retention: How To Beat The Odds and Keep Your Best Employees Around Longer](http://wheniwork.com/blog/smb/people-management/employee-retention/)
 - [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4)
+- [a16z - On Mentors and Mentees (Podcast)](https://a16z.com/2018/07/12/mentors-mentees/)
 
 
 ## Working Remote
