@@ -32,7 +32,7 @@ If we have any questions or need anything specific we will ping you!
 
 ## Observed Holiday List for 2018
 
-These may change (we may add more!) as the year progresses. 
+These may change (we may add more!) as the year progresses.
 
 <table>
   <tr>
