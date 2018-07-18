@@ -31,7 +31,11 @@ It's possible that you've already been granted access but if you're missing some
 
 Remember, there's a lot of work to be done but it doesn't have to be completed on the first day! This is going to be great and we're so glad you've chosen to be part of our story!
 
-Finally, be on the lookout for possible "snail mail" to finalize any State or Federal requirements (we'll give you a heads-up, of course). 
+Also, be on the lookout for possible "snail mail" to finalize any State or Federal requirements (we'll give you a heads-up, of course) and if you were giving Stock Options or Restricted Stock, please make sure to file the appropriate federal "Section 83(b)" election ([more info here](https://www.cooleygo.com/what-is-a-section-83b-election/))! You have 30 days to do this so it is very important!
+
+Finally, if you have any technology needs (e.g. notebook computer) we are eager to equip you! Let us know what you need and we'll get it sorted.
+
+Have a fun and relaxing first day!
 
 ***
 
@@ -45,12 +49,10 @@ Also, you may feel inclined to share the news of Yen via social media and we'd l
 
 There are a few social networks that we're part of that we'd love for you to **follow** and even **add them** to your profiles! There is, of course, no pressure to do so.
 
-1. Twitter: 
-2. LinkedIn: 
-3. Angel List:
-4. Yen Blog: 
+1. Twitter: [@DecentralizedTV](http://twitter.com/decentralizedtv)
+2. LinkedIn: [DecentralizedTV](https://www.linkedin.com/company/decentralized/) (We don't have a Yen-specific page... yet.)
+3. Angel List: [Yen](https://angel.co/yen)
+4. Yen Blog: [Our Blog](https://blog.yen.io/)
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point! John loves digital publishing so if you want any tips he'd be more than willing to share how to best get started!
-
-
 
