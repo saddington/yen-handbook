@@ -43,7 +43,7 @@ Have a fun and relaxing first day!
 
 We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a few meetings with team and a walkthrough of how the business operates currently, especially as we're still very small.
 
-If you qualify for [Health Benefits](https://github.com/yenio/handbook/blob/master/2-benefits.md) then your enrollment period will start and you'll have only a few business days to make a decision - so sooner rather than later! Ping @John via Slack if you have any questions.
+If you qualify for [Health Benefits](https://github.com/yenio/handbook/blob/master/2-benefits.md) then your enrollment period will start and you'll have only a few business days to make a decision - so sooner rather than later! Ping John if you need anything in this regard.
 
 Also, you may feel inclined to share the news of Yen via social media and we'd love you to do that! We do not have any policies or rules around social media use, by the way - use good judgment and you can always ask anyone on the team about posting publicly.
 
@@ -55,4 +55,6 @@ There are a few social networks that we're part of that we'd love for you to **f
 4. Yen Blog: [Our Blog](https://blog.yen.io/)
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point! John loves digital publishing so if you want any tips he'd be more than willing to share how to best get started!
+
+Finally, we hope that you have everything that you need to be successful in terms of tooling and technology but this is another opportunity to ping John or Peter and we'll get it sorted. We're glad you're here!
 
