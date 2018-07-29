@@ -137,6 +137,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Rate of Learning](https://john.do/rol/)
 - [How to Give Feedback to Your Boss](https://blog.knowyourcompany.com/how-to-give-feedback-to-your-boss-f0871117c835)
 - [Go Slow to Go Fast](https://medium.com/@aliciatweet/go-slow-to-go-fast-part-1-you-a4974ceb8a7c)
+- [You Know Enough to Give a Talk](https://twitter.com/mipsytipsy/status/1017916636437737473)
 
 
 
@@ -200,6 +201,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Handle Conflict on Remote Teams](https://www.helpscout.net/blog/remote-team-conflict/)
 - [How to Determine if Candidates Will Thrive in a Remote Work Environment](https://hackernoon.com/how-to-determine-if-candidates-will-thrive-in-a-remote-work-environment-d538d1e8f831)
 - [How to have a good relationship with your boss when you’re working remotely](https://blog.knowyourcompany.com/how-to-have-a-good-relationship-with-your-boss-when-youre-working-remotely-f82c0fbcd423)
+- [Autonomy Is the Biggest Reward Your Team Can Get](https://www.linkedin.com/pulse/autonomy-biggest-reward-your-team-can-get-gustavo/)
 
 ## Team Dynamics
 
