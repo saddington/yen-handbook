@@ -139,6 +139,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Give Feedback to Your Boss](https://blog.knowyourcompany.com/how-to-give-feedback-to-your-boss-f0871117c835)
 - [Go Slow to Go Fast](https://medium.com/@aliciatweet/go-slow-to-go-fast-part-1-you-a4974ceb8a7c)
 - [You Know Enough to Give a Talk](https://twitter.com/mipsytipsy/status/1017916636437737473)
+- [Decision Scheduling](https://swellandcut.com/2018/08/04/decision-scheduling/)
 
 
 
@@ -211,6 +212,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Ask Good Questions](https://jvns.ca/blog/good-questions/)
 - [Just Do As Expected](https://hackernoon.com/just-do-as-expected-544385144f14)
 - [The Utopica of a (Developer)](https://twitter.com/atticoos/status/875004365379129346) - Useful for everyone, actually.
+- [Navigating Team Friction](https://larahogan.me/team-friction/)
 
 
 ## Productivity
