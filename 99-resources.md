@@ -65,6 +65,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
 - [Ask HN: How to Prepare for an Engineering Manager Interview?](https://news.ycombinator.com/item?id=14726130)
 - [Ensure the Survival of Creativity](https://john.do/ensure-the-survival-of-creativity/)
+- [Equity Compensation](https://www.holloway.com/g/equity-compensation)
 
 
 ## Onboarding
@@ -125,6 +126,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Making Culture a Tangible Metric](http://blog.ycombinator.com/making-culture-a-tangible-metric/)
 - [4 Part Framework: Changing Company Culture](https://teambit.io/blog/changing-company-culture/)
 - [There Was a Reason](https://john.do/there-reason/)
+- [Ownership - The Secret Ingredient](https://medium.com/sears-israel/ownership-the-secret-ingredient-bf01e2b50acb)
 
 
 
