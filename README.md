@@ -7,7 +7,7 @@ But we know, after having built a few companies previously, that the consistent 
 
 In short, we want to walk-the-walk and not just talk-the-talk when it comes to organizational health!
 
-Consequently, this WIP ("Work in Progress") repository will contain most (but certaintly not all) of the current organizational policies that we use at Yen. It's not perfect just as the founders of Yen and our growing team are not perfect. Rather, we want it to be an open dialogue and representation of who we are today and who we want to be in the future.
+Consequently, this WIP ("Work in Progress") repository will contain most (but certainly not all) of the current organizational policies that we use at Yen. It's not perfect just as the founders of Yen and our growing team are not perfect. Rather, we want it to be an open dialogue and representation of who we are today and who we want to be in the future.
 
 It's the starting block rather than the finish line.
 
@@ -44,4 +44,4 @@ Early-stage blockchain & cryptocurrency company is looking for an experienced op
 - Frontend Engineer(s)
 - Backend Engineer(s)
 
-Please feel free to [ping us](mailto:john@yen.io) if interested!
+Please feel free to [ping us](mailto:su@yen.io) if interested!

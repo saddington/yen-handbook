@@ -7,7 +7,7 @@ To start, you're going to want to make sure you review [Our Mission and Values](
 
 You'll probably have questions so feel free to ping anyone on the team,
 
->Since we don't have Slack yet! drop a note in Slack or if you need anything specific, ping John! Also, if you have comments and/or suggestions on this Handbook, please join #handbook in Slack and contribute!
+/*Since we don't have Slack yet! drop a note in Slack or if you need anything specific, ping John! Also, if you have comments and/or suggestions on this Handbook, please join #handbook in Slack and contribute!*/
 
 **Table of Contents**
 
@@ -16,7 +16,7 @@ You'll probably have questions so feel free to ping anyone on the team,
 
 ***
 
-#### Your First Day
+## Your First Day
 
 By the end of your first day, we'll make sure you're fully onboarded via Gusto (review [benefits](https://github.com/yenio/handbook/blob/master/2-benefits.md)) including submitting your documents for the I-9 filing. If you are still having trouble, make sure to ping Su asap! You should have also reviewed our [employment guidelines](https://github.com/yenio/handbook/blob/master/3-employment.md) which may feel like a review but is still important (and we'll continue to update it as our guidelines grow and improve)!
 
@@ -35,13 +35,13 @@ Remember, there's a lot of work to be done but it doesn't have to be completed o
 
 Also, be on the lookout for possible "snail mail" to finalize any State or Federal requirements (we'll give you a heads-up, of course).
 
->Is this needed here? if you were given Stock Options or Restricted Stock, please make sure to file the appropriate federal "Section 83(b)" election ([more info here](https://www.cooleygo.com/what-is-a-section-83b-election/))! You have 30 days to do this so it is very important!
+/*Is this needed here? if you were given Stock Options or Restricted Stock, please make sure to file the appropriate federal "Section 83(b)" election ([more info here](https://www.cooleygo.com/what-is-a-section-83b-election/))! You have 30 days to do this so it is very important!*/
 
 Have a fun and relaxing first day!
 
 ***
 
-#### Your First Week
+## Your First Week
 
 We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a few meetings with team and a walkthrough of how the business operates currently, especially as we're still very small.
 

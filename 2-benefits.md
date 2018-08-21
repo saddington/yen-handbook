@@ -26,7 +26,7 @@ You may review your benefits through [Gusto](http://gusto.com) at any time or pi
 
 ## Payroll (i.e. Getting Paid)
 
-We use Gusto for Payroll and as a part of your onboarding process,  will walk you through setting up your direct deposit and filling out necessary paperwork. We'll also collect through Gusto any hiring documents (e.g. W-4, I-9, Direct Deposit Authorization) and do the State and Federal filings for you.
+We use Gusto for Payroll and as a part of your onboarding process, will walk you through setting up your direct deposit and filling out necessary paperwork. We'll also collect through Gusto any hiring documents (e.g. W-4, I-9, Direct Deposit Authorization) and do the State and Federal filings for you.
 
 If we have any questions or need anything specific, we will ping you!
 
