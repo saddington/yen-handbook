@@ -66,6 +66,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Ask HN: How to Prepare for an Engineering Manager Interview?](https://news.ycombinator.com/item?id=14726130)
 - [Ensure the Survival of Creativity](https://john.do/ensure-the-survival-of-creativity/)
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation)
+- [How to Hire via HBR](https://hbr.org/2018/01/how-to-hire)
 
 
 ## Onboarding
@@ -206,6 +207,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Determine if Candidates Will Thrive in a Remote Work Environment](https://hackernoon.com/how-to-determine-if-candidates-will-thrive-in-a-remote-work-environment-d538d1e8f831)
 - [How to have a good relationship with your boss when you’re working remotely](https://blog.knowyourcompany.com/how-to-have-a-good-relationship-with-your-boss-when-youre-working-remotely-f82c0fbcd423)
 - [Autonomy Is the Biggest Reward Your Team Can Get](https://www.linkedin.com/pulse/autonomy-biggest-reward-your-team-can-get-gustavo/)
+- [Distributed Teams: Rewriting the Rules of Office Politics](https://techcrunch.com/2018/08/18/distributed-teams-are-rewriting-the-rules-of-officeless-politics/)
 
 ## Team Dynamics
 
