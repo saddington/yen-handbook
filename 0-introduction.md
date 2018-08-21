@@ -11,7 +11,7 @@ Consequently, our mission is to accelerate the growth and adoption of bitcoin & 
 
 Or the things we say around the office, a lot.
 
-1. **Continuous Improvement** - 1%, everyday. Compounded, that's a lot of growth. 
+1. **Continuous Improvement** - 1%, everyday. Compounded, that's a lot of growth.
 2. **Everything is an Experiment** - Experimentation assumes room for failure (but it's also how we win). [Learn faster](http://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/).
 3. **Steve Martin** - Be so good they can't ignore you.
 
@@ -28,7 +28,7 @@ Peter previously founded a research and analytics consultancy which has been int
 
 #### Su Kim - Operations - [LinkedIn](https://www.linkedin.com/in/suwkim/)
 
-To be filled in shortly...
+
 
 ## Extended Team
 
@@ -37,4 +37,3 @@ To be filled in shortly...
 #### Angel Investors
 
 ## Our Story
-
