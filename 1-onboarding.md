@@ -7,8 +7,6 @@ To start, you're going to want to make sure you review [Our Mission and Values](
 
 You'll probably have questions so feel free to ping anyone on the team,
 
-/*Since we don't have Slack yet! drop a note in Slack or if you need anything specific, ping John! Also, if you have comments and/or suggestions on this Handbook, please join #handbook in Slack and contribute!*/
-
 **Table of Contents**
 
 1. [Your First Day](https://github.com/yenio/handbook/blob/master/1-onboarding.md#your-first-day)
@@ -34,8 +32,6 @@ We'll work through getting you access to everything you need this first day. If 
 Remember, there's a lot of work to be done but it doesn't have to be completed on the first day! This is going to be great and we're so glad you've chosen to be part of our story!
 
 Also, be on the lookout for possible "snail mail" to finalize any State or Federal requirements (we'll give you a heads-up, of course).
-
-/*Is this needed here? if you were given Stock Options or Restricted Stock, please make sure to file the appropriate federal "Section 83(b)" election ([more info here](https://www.cooleygo.com/what-is-a-section-83b-election/))! You have 30 days to do this so it is very important!*/
 
 Have a fun and relaxing first day!
 
