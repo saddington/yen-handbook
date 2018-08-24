@@ -208,6 +208,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to have a good relationship with your boss when you’re working remotely](https://blog.knowyourcompany.com/how-to-have-a-good-relationship-with-your-boss-when-youre-working-remotely-f82c0fbcd423)
 - [Autonomy Is the Biggest Reward Your Team Can Get](https://www.linkedin.com/pulse/autonomy-biggest-reward-your-team-can-get-gustavo/)
 - [Distributed Teams: Rewriting the Rules of Office Politics](https://techcrunch.com/2018/08/18/distributed-teams-are-rewriting-the-rules-of-officeless-politics/)
+- [Building Operating Cadence With Remote Teams (Video)](https://businessofsoftware.wistia.com/medias/leii8vj2s4)
 
 ## Team Dynamics
 
