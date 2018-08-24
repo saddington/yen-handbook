@@ -33,10 +33,10 @@ Here's to making our company as good as the products we sell, if not better.
 
 Here are some of the roles that we'd love to fill:
 
-- Community & Social Media Manager
+- Community & Social Media Manager [Full role description](https://github.com/yenio/handbook/blob/master/hiring/Community_Manager.md)
 
 Early-stage blockchain & cryptocurrency company is looking for their first-ever community manager! This person deeply understands the power of online community and has the experience and expertise to build systems and programs (online and offline) to connect our mission with a large and growing audience. We imagine this person to be adept at social media tooling and technology and may have even built out their own frameworks and tools to accomplish high-engagement. They also understand (and are excited about) the dynamics, challenges, and opportunities working for an early-stage, venture-backed startup lead by experienced founders with multiple exits. You'll also be a part of the founding team which necessarily means that you'll work on a number of technical (development skills are not required, but useful!) and non-technical projects to help create additional momentum, including our existing social media properties and channels.
-[Full role description](https://github.com/yenio/handbook/blob/master/hiring/Community_Manager.md)
+
 
 - BD / Sales Leader
 
