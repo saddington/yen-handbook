@@ -6,7 +6,7 @@ We are an early-stage blockchain & cryptocurrency company looking for a strategi
 - [Decentralized TV](https://decentralized.tv/) 
 - YouTube
 - CyptoYum
-- Twitter: [@decentralizedtv](https://twitter.com/decentralizedtv) | [@bitesizebitcoin](https://twitter.com/bitesizebitcoin) | [@8BIT](https://twitter.com/8BIT) 
+- Twitter: [@decentralizedtv](https://twitter.com/decentralizedtv) | [@bitesizebitcoin](https://twitter.com/bitesizebitcoin) | [@8BIT](https://twitter.com/8BIT)  | [@Saddington](https://twitter.com/saddington)
 - LinkedIn
 
 We believe in an exciting and inevitable future where everything we do will be fundamentally touched and transformed by blockchain technology and the world will be an infinitely better place to live, work, and play.
