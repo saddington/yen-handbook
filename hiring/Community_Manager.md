@@ -1,6 +1,4 @@
-
-
-##Who We Are
+## Who We Are
 
 We are an early-stage blockchain & cryptocurrency company looking for a strategic data-driven Community Manager who will engage and cultivate our existing community across our various social media properties and channels: 
 
@@ -15,9 +13,9 @@ We believe in an exciting and inevitable future where everything we do will be f
 
 Consequently, our mission is to accelerate the growth of blockchain within the public conscience, vernacular, and culture through awareness, education, and entertainment.  Come join us to support one million new folks into the community!
 
-##About the Role: What You Can Expect
+## About the Role: What You Can Expect
 
-####As the Community Manager, you will:
+#### As the Community Manager, you will:
 
 - Own the experience and impact of our community 
 - Own management and growth of existing social media properties and channels 
@@ -30,17 +28,18 @@ Consequently, our mission is to accelerate the growth of blockchain within the p
 
 In addition, you’ll be part of the founding team working on a number of technical (development skills not required, but useful!) and non-technical projects to build additional momentum and value.
 
-####Benefits:
+#### Benefits:
 
 - Competitive salary & insurance coverage (medical, dental, vision)
 - Balanced pace of 40 hours/week 
 - 12 weeks paid parental leave
 - See more benefits in our Employee Handbook
 
-####Location: We are a distributed company; we want you to work where you’re happy and will help you get set up where you are.
+#### Location: 
+We are a distributed company; we want you to work where you’re happy and will help you get set up where you are.
 
 
-##About You
+## About You
 - You have a deep understanding and appreciation of the power of online communities and movement building.
 - You have built communities through programs (online and offline) to connect a mission with a large growing audience.
 - You have experience driving engagement and building an audience using social media as a platform for both content and distribution.
@@ -53,7 +52,7 @@ In addition, you’ll be part of the founding team working on a number of techni
 We are an equal opportunity employer.  We are committed to building a winning inclusive team, and do our best to make sure everyone feels supported and connected at work.
 
 
-##How to Apply
+## How to Apply
 
 Send an email to Su, [su@yen.io](mailto:su@yen.io), with subject line “Community Manager” and tell us about yourself. 
 
