@@ -16,7 +16,7 @@
 
 Yen's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
 
-We offer medical, dental, and vision coverage at Yen for employees and their dependents. 
+We offer medical, dental, and vision coverage at Yen for employees and their dependents.
 
 - **Health Benefits:** Anthem Blue Cross of CA | [Anthem Platinum PPO 20/10%/3000 3057 - Base Plan](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_platinum_ppo_20_10_3000_3057.pdf) | [Anthem Gold PPO 20/30%/6500 302G - Optional](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_20_30_6500_302g.pdf) - Yen covers 75% of Anthem Platinum PPO.
 - **Dental:** Beam | [CA Beam Smart Premium Plus 100/80/50/50-1500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_ca_beam_smart_premium_plus_100_80_50_501500.pdf) - Yen covers 75% of the Premium.
@@ -26,9 +26,9 @@ You may review your benefits through [Gusto](http://gusto.com) at any time or pi
 
 ## Payroll (i.e. Getting Paid)
 
-We currently use Gusto as well for Payroll and part of your onboarding process will allow you to setup banking and hook up any specics necessary. We'll also collect any hiring documents (e.g. W-4, I-9, Direct Deposit Authorization) and do the State and Federal filings for you.
+We use Gusto for Payroll and as a part of your onboarding process, will walk you through setting up your direct deposit and filling out necessary paperwork. We'll also collect through Gusto any hiring documents (e.g. W-4, I-9, Direct Deposit Authorization) and do the State and Federal filings for you.
 
-If we have any questions or need anything specific we will ping you!
+If we have any questions or need anything specific, we will ping you!
 
 ## Observed Holiday List for 2018
 
@@ -94,13 +94,13 @@ If a holiday falls on a weekend, we’ll let you know when the holiday will be o
 
 ## Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Yen, so in addition to the recognized [Holiday List](https://github.com/pinpt/handbook/blob/master/1-benefits.md#Yen-observed-holiday-list-for-2017), Yen offers 120 hours each year (3 weeks or 15 business days) of paid vacation every year that accrues 1.25 of a day per month of work starting from your first employment date. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+Taking time off and recharging is critical to doing your best work at Yen, so in addition to the recognized Holiday List above, Yen offers 120 hours each year (3 weeks or 15 business days) of paid vacation every year that accrues 1.25 of a day per month of work starting from your first employment date. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
 
 Employees also accrue the same for sick leave, 120 hours each year (3 weeks or 15 business days).
 
 Employees should report vacation and sick days to the founder they report to, who will mark it in the payroll system (which keeps track of accrued days and should include them on every pay stub).
 
-Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, disability leave and/or other support.
+Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for flexible time, disability leave, and/or other support.
 
 ## Paid Family, Parent Leave
 
@@ -145,4 +145,3 @@ To make sure that sabbatical is not overly disruptive to their team, employees s
 There is an expectation that employees return to work at Yen after their sabbatical, and not use it as a soft exit from the company. This is our investment in you!
 
 Paid time off of any kind, including Sabbatical, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has accrued 3 sick days before taking a 12 week sabbatical will still have 3 available sick days when they return.
-

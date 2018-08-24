@@ -1,7 +1,7 @@
 # Employment Policies
 *For your reference and review*
 
-The following you'll find more information regarding your employment at Yen! Like always, if you have any questions, feel free to ping John on Slack or share your thoughts in **#OrgDev**!
+The following you'll find more information regarding your employment at Yen! Like always, if you have any questions, feel free to ping Su
 
 **Table of Contents**
 
@@ -41,9 +41,9 @@ Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).
 
 ## Drug and Alcohol Policy
 
-Our priority at Yen is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at Yen feel safe. 
+Our priority at Yen is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at Yen feel safe.
 
-**It is the responsibility of every employee to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe.** 
+**It is the responsibility of every employee to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe.**
 
 Employees who violate this policy may face disciplinary action, up to and including termination. Alcohol in the form of beer or wine may occasionally be brought into the office to celebrate an accomplishment, birthday, or other milestone. Though events at the Yen office will be presumed dry until otherwise discussed, there may also be events in the office after work where beer or wine are available.
 
@@ -57,7 +57,7 @@ Yen has an open-door policy, so employees are encouraged to report work-related 
 
 Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to John or any of the Yen founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
 
-Once a complaint has been made, the founders will meet and determine how to handle it. If one or more of the founders is the subject of the complaint, the remaining founder(s) will determine how to handle it. Any reports of a founder engaging in harassment or gross misconduct will trigger an outside investigator. With the employee’s permission, we will conduct a complete and impartial investigation, which may involve an outside investigator in serious cases. All complaints will be handled as confidentially as possible. When the investigation is complete, the company will take corrective action if appropriate. 
+Once a complaint has been made, the founders will meet and determine how to handle it. If one or more of the founders is the subject of the complaint, the remaining founder(s) will determine how to handle it. Any reports of a founder engaging in harassment or gross misconduct will trigger an outside investigator. With the employee’s permission, we will conduct a complete and impartial investigation, which may involve an outside investigator in serious cases. All complaints will be handled as confidentially as possible. When the investigation is complete, the company will take corrective action if appropriate.
 
 We will not engage in or allow retaliation against any employee who makes a good faith complaint or participates in an investigation. If you believe that you are being subjected to any kind of negative treatment because you made or were questioned about a complaint, report the conduct immediately to the founders.
 

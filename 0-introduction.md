@@ -11,7 +11,7 @@ Consequently, our mission is to accelerate the growth and adoption of bitcoin & 
 
 Or the things we say around the office, a lot.
 
-1. **Continuous Improvement** - 1%, everyday. Compounded, that's a lot of growth. 
+1. **Continuous Improvement** - 1%, everyday. Compounded, that's a lot of growth.
 2. **Everything is an Experiment** - Experimentation assumes room for failure (but it's also how we win). [Learn faster](http://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/).
 3. **Steve Martin** - Be so good they can't ignore you.
 
@@ -24,11 +24,12 @@ John was most recently co-founder of PinPT, an engineering analytics company in 
 #### Peter Saddington - Product - [LinkedIn](https://www.linkedin.com/in/petersaddington/)
 
 
-Peter previously founded a research and analytics consultancy which has been integral in multi-million dollar Agile Transformation projects for some of the largest Fortune 500 companies, including Cisco, T-Mobile, Capital one, Blue Cross Blue Shield, Aetna, Primedia, and Cbeyond. He is a sought-after keynote speaker and is a Certified Scrum Trainer (CST). Additionally, he has three master's degrees, one of which is in counseling and provides coaching and mentorship to industry leaders and professionals.
+Peter previously founded a research and analytics consultancy which has been integral in multi-million dollar Agile Transformation projects for some of the largest Fortune 500 companies, including Cisco, T-Mobile, Capital one, Blue Cross Blue Shield, Aetna, Primedia, and Cbeyond. He is a sought-after keynote speaker and is a Certified Scrum Trainer (CST). Additionally, he has three master's degrees, one in counseling, and provides coaching and mentorship to industry leaders and professionals.
 
 #### Su Kim - Operations - [LinkedIn](https://www.linkedin.com/in/suwkim/)
 
-To be filled in shortly...
+Su recently led the customer success team at a social enterprise and managing partnerships for the DC chapter of Women Who Code.  Previously, she was in various operations, community engagement, and policy roles committed to bringing a lens of advocacy and people in directing operations.
+
 
 ## Extended Team
 
@@ -37,4 +38,3 @@ To be filled in shortly...
 #### Angel Investors
 
 ## Our Story
-

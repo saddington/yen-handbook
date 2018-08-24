@@ -96,7 +96,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Onboarding Best Practices: How the Smartest Companies Turn New Hires Into Great Employees](https://foundrmag.com/onboarding-best-practices/)
 - [How we dramatically improved 18F’s onboarding process in 3 months](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/)
 - [How Employee Onboarding can increase Productivity and decrease Turnover to create Profits](https://medium.com/evergreen-business-weekly/why-employee-onboarding-is-holding-back-your-team-and-how-to-get-it-right-3ec5b3b36f6e)
--
+
 
 
 
@@ -135,7 +135,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 - [Writing and Speaking](http://avc.com/2017/05/writing-and-speaking/)
 - [Slack: How We Approach Professional Learning](https://slackhq.com/how-we-approach-professional-learning-at-slack-b822283268cd)
-- [How to Say Sorry - Anatomoy of an Apology](http://nymag.com/scienceofus/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html) 
+- [How to Say Sorry - Anatomoy of an Apology](http://nymag.com/scienceofus/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html)
 - [Internal Tech Conference Toolkit](https://engineering.klarna.com/internal-tech-conference-toolkit-79b1ba91bd08)
 - [The best developer conference? Your own.](https://engineering.klarna.com/the-best-developer-conference-your-own-ef68f2831b67)
 - [Rate of Learning](https://john.do/rol/)
@@ -180,6 +180,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Patty McCord on Rethinking How We Manage People](https://www.youtube.com/watch?v=80bymIwYrlI)
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt) - Google Doc, Coaching
 - [Welcome, New Managers: Complete Guide](https://www.officevibe.com/complete-guide-new-manager)
+- [If you're thirsty, it's already too late](https://blog.coinbase.com/if-youre-thirsty-it-s-already-too-late-b9d10946b6a4)
 
 
 
@@ -225,9 +226,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [7 Habits of Tech-Savvy Teams](https://themission.co/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
 
 
-
-
-
 ## Diversity, Inclusion, Family, Gender
 
 - [Ask HN: Women in Tech, How Do You Find Non-Toxic Work Environments?](https://news.ycombinator.com/item?id=14490333)
@@ -248,8 +246,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Diversity and Inclusion @ Helpscout - What Gets Measured](https://www.helpscout.net/blog/diversity-inclusion/)
 
 
-
-
 ## Health
 
 - [Open Sourcing Mental Illness](https://osmihelp.org/about/about-osmi)
@@ -266,15 +262,13 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [HumanOps](http://www.humanops.com/)
 - [Engineering a Culture of Psychological Safety](https://blog.intercom.com/psychological-safety/)
 - [Google HR boss explains the only 2 ways to keep your best people from quitting](http://www.businessinsider.com/google-laszlo-bock-how-to-retain-employees-2015-4)
--
-
-
+- [Building ethnical environments for people](https://hackernoon.com/building-ethical-environments-for-people-585cd37bc1bc)
 
 
 
 ## Internship Programs
 
-- 
+-
 
 ## Cost of Poor Culture, Bad Org Health
 
@@ -352,7 +346,7 @@ The following is a list of technology, consulting, and product / service compani
 - [StackOverflow Business](https://www.stackoverflowbusiness.com/talent#)
 - [Sourcing.io](https://sourcing.io/)
 - [TripleByte - Coding Quiz, Developer Jobs](https://triplebyte.com/)
-- [Piazza](https://recruiting.piazza.com/) 
+- [Piazza](https://recruiting.piazza.com/)
 - [HR Onboard](https://hronboard.me/)
 - [Click Boarding](https://www.clickboarding.com/)
 - [Rippling](https://www.rippling.com/)
@@ -377,4 +371,3 @@ The following is a list of technology, consulting, and product / service compani
 
 - [Hivy](https://hivyapp.com/) - Office Management Platform
 - [HRStash](http://hrstash.co/) - Curated List of Resources
-
