@@ -225,7 +225,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 ## Productivity
 
-- [7 Habits of Tech-Savvy Teams](https://themission.co/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
+- [7 Habits of Tech-Savvy Teams](https://medium.com/the-mission/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
 
 
 ## Diversity, Inclusion, Family, Gender
