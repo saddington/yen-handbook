@@ -42,6 +42,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [A Quick Guide to Stripe's Culture](https://stripe.com/us/jobs/candidate-info)
 - [Know the soul of the high-performance employee](https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f)
 - [Startup School Library](https://www.startupschool.org/library) - A ton of resources for all parts of the org.
+- [People as Vectors](https://john.do/vectors-people-alignment/)
 
 
 
@@ -219,6 +220,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Just Do As Expected](https://hackernoon.com/just-do-as-expected-544385144f14)
 - [The Utopica of a (Developer)](https://twitter.com/atticoos/status/875004365379129346) - Useful for everyone, actually.
 - [Navigating Team Friction](https://larahogan.me/team-friction/)
+- [People and Teams as Vectors](https://john.do/vectors-people-alignment/)
 
 
 ## Productivity
