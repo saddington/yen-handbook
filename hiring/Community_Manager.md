@@ -61,3 +61,5 @@ Stuck? Here are some prompts to get you started (answers to these questions are 
 - Why is this company & role of interest to you?
 - Tell us about a community you’ve help build.
 - What are some of your favorite ways to engage a community?
+
+Finally, here are [some thoughts from one of our founders](https://john.do/hiring-community-social-media-manager/) about this role (and some good reading material as well).
