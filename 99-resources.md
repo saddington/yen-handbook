@@ -144,6 +144,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Go Slow to Go Fast](https://medium.com/@aliciatweet/go-slow-to-go-fast-part-1-you-a4974ceb8a7c)
 - [You Know Enough to Give a Talk](https://twitter.com/mipsytipsy/status/1017916636437737473)
 - [Decision Scheduling](https://swellandcut.com/2018/08/04/decision-scheduling/)
+- [How to Teach Yourself Hard Things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
+- [How System Thinking Can Level Up Your Work and Life](https://medium.com/swlh/how-systems-thinking-can-level-up-your-work-and-your-life-24070e96d906)
 
 
 
