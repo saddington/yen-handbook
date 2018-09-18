@@ -51,8 +51,8 @@ There are a few social networks that we're part of that we'd love for you to **f
 2. LinkedIn: [DecentralizedTV](https://www.linkedin.com/company/decentralized/)
 & [Yen.io](https://www.linkedin.com/company/yen-io)
 3. Angel List: [Yen](https://angel.co/yen)
-4. Yen Blog: [Our Blog](https://blog.yen.io/)
+4. Yen Blog: [Our Blog](https://blog.yen.io/) - coming soon!
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point! John loves digital publishing so if you want any tips he'd be more than willing to share how to best get started!
 
-Finally, we hope that you have everything that you need to be successful in terms of tooling and technology but this is another opportunity to ping John or Peter and we'll get it sorted. We're glad you're here!
+Finally, we hope that you have everything that you need to be successful in terms of tooling and technology but this is another opportunity to ping Su and we'll get it sorted. We're glad you're here!
