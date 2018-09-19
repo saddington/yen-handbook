@@ -68,6 +68,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Ensure the Survival of Creativity](https://john.do/ensure-the-survival-of-creativity/)
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation)
 - [How to Hire via HBR](https://hbr.org/2018/01/how-to-hire)
+- [29 Questions to Ask in a Reference Call](https://blog.knowyourcompany.com/hiring-someone-new-29-questions-to-ask-during-a-reference-call-e1d6a3e43428)
 
 
 ## Onboarding
@@ -129,6 +130,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [4 Part Framework: Changing Company Culture](https://teambit.io/blog/changing-company-culture/)
 - [There Was a Reason](https://john.do/there-reason/)
 - [Ownership - The Secret Ingredient](https://medium.com/sears-israel/ownership-the-secret-ingredient-bf01e2b50acb)
+- [Why Great Employees Leave "Great Cultures"](https://hbr.org/2018/05/why-great-employees-leave-great-cultures)
 
 
 
@@ -184,6 +186,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt) - Google Doc, Coaching
 - [Welcome, New Managers: Complete Guide](https://www.officevibe.com/complete-guide-new-manager)
 - [If you're thirsty, it's already too late](https://blog.coinbase.com/if-youre-thirsty-it-s-already-too-late-b9d10946b6a4)
+- [Advice for the New (Technology) Executive](https://larahogan.me/blog/advice-for-new-executive/)
+- [Breaking Bad News](http://boz.com/articles/bad-news.html)
 
 
 
