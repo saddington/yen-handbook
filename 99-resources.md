@@ -188,6 +188,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [If you're thirsty, it's already too late](https://blog.coinbase.com/if-youre-thirsty-it-s-already-too-late-b9d10946b6a4)
 - [Advice for the New (Technology) Executive](https://larahogan.me/blog/advice-for-new-executive/)
 - [Breaking Bad News](http://boz.com/articles/bad-news.html)
+- [3 Postures of Leadership from an Adoptive Dad](https://blog.usejournal.com/3-postures-of-leadership-from-an-adoptive-dad-71890367268c)
+- [Do Leadership, Don't Learn It](https://medium.com/@mattecook/do-leadership-dont-learn-it-944ab5bc6af5)
 
 
 
@@ -217,6 +219,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Autonomy Is the Biggest Reward Your Team Can Get](https://www.linkedin.com/pulse/autonomy-biggest-reward-your-team-can-get-gustavo/)
 - [Distributed Teams: Rewriting the Rules of Office Politics](https://techcrunch.com/2018/08/18/distributed-teams-are-rewriting-the-rules-of-officeless-politics/)
 - [Building Operating Cadence With Remote Teams (Video)](https://businessofsoftware.wistia.com/medias/leii8vj2s4)
+- [What Most Remote Companies Don’t Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945)
 
 ## Team Dynamics
 
