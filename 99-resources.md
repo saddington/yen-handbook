@@ -69,6 +69,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation)
 - [How to Hire via HBR](https://hbr.org/2018/01/how-to-hire)
 - [29 Questions to Ask in a Reference Call](https://blog.knowyourcompany.com/hiring-someone-new-29-questions-to-ask-during-a-reference-call-e1d6a3e43428)
+- [Hire People Who Aren't Proven](https://leonardofed.io/blog/startups-hiring.html)
 
 
 ## Onboarding
@@ -230,6 +231,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The Utopica of a (Developer)](https://twitter.com/atticoos/status/875004365379129346) - Useful for everyone, actually.
 - [Navigating Team Friction](https://larahogan.me/team-friction/)
 - [People and Teams as Vectors](https://john.do/vectors-people-alignment/)
+- [Giving Your Team Insight Into How A Decision Is Made Is Just As Important As The Decision Itself](https://medium.com/swlh/giving-your-team-insight-into-how-a-decision-is-made-is-just-as-important-as-the-decision-itself-bda0efd86297)
 
 
 ## Productivity
