@@ -232,6 +232,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Navigating Team Friction](https://larahogan.me/team-friction/)
 - [People and Teams as Vectors](https://john.do/vectors-people-alignment/)
 - [Giving Your Team Insight Into How A Decision Is Made Is Just As Important As The Decision Itself](https://medium.com/swlh/giving-your-team-insight-into-how-a-decision-is-made-is-just-as-important-as-the-decision-itself-bda0efd86297)
+- [Completing This 30-minute Exercise Makes Teams Less Anxious And More Productive: Sharing Your User Manual](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
 
 
 ## Productivity
