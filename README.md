@@ -31,18 +31,6 @@ Here's to making our company as good as the products we sell, if not better.
 
 ## Work @ Yen
 
-Here are some of the roles that we'd love to fill:
+We currently don't have open roles, but are always open to conversations to get to know you and to share more about what we're building. 
 
-- Community & Social Media Manager ([Full role description](https://github.com/yenio/handbook/blob/master/hiring/Community_Manager.md))
-
-Early-stage blockchain & cryptocurrency company is looking for their first-ever community manager! This person deeply understands the power of online community and has the experience and expertise to build systems and programs (online and offline) to connect our mission with a large and growing audience. We imagine this person to be adept at social media tooling and technology and may have even built out their own frameworks and tools to accomplish high-engagement. They also understand (and are excited about) the dynamics, challenges, and opportunities working for an early-stage, venture-backed startup lead by experienced founders with multiple exits. You'll also be a part of the founding team which necessarily means that you'll work on a number of technical (development skills are not required, but useful!) and non-technical projects to help create additional momentum, including our existing social media properties and channels.
-
-
-- BD / Sales Leader
-
-Early-stage blockchain & cryptocurrency company is looking for an experienced operator who understands the dynamics, challenges, and opportunities working for an early-stage, venture-backed startup lead by experienced founders with multiple exits. Primary role will include managing existing sales and business development pipeline as well as building new systems of record. You'll also be a part of the founding team which necessarily means that you'll work on a number of technical (development skills are not required, but useful!) and non-technical projects to help create additional momentum.
-
-- Frontend Engineer(s)
-- Backend Engineer(s)
-
-Please feel free to [ping us](mailto:su@yen.io) if interested!
+Please feel free to [ping us](mailto:su@yen.io) and tell us about yourself!
