@@ -31,6 +31,13 @@ Peter previously founded a research and analytics consultancy which has been int
 Su recently led the customer success team at a social enterprise and managing partnerships for the DC chapter of Women Who Code.  Previously, she was in various operations, community engagement, and policy roles committed to bringing a lens of advocacy and people in directing operations.
 
 
+#### James Kim - Product - [LinkedIn](www.linkedin.com/in/james-kim-27b282153)
+
+James was most recently a Senior Manager at a software company in the Professional Services organization. During his tenure, he contributed to growing the company revenue year over year and growing the technical services department by 500% in headcount. His previous experiences have also been focused on delivery of professional services to clients and it continues to be his passion at Yen.io where he will be continually working to deliver the best possible experience for our users. 
+
+
+
+
 ## Extended Team
 
 #### Venture Capital Institutions
