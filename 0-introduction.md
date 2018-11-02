@@ -35,7 +35,9 @@ Su recently led the customer success team at a social enterprise and managing pa
 
 James was most recently a Senior Manager at a software company in the Professional Services organization. During his tenure, he contributed to growing the company revenue year over year and growing the technical services department by 500% in headcount. His previous experiences have also been focused on delivery of professional services to clients and it continues to be his passion at Yen.io where he will be continually working to deliver the best possible experience for our users. 
 
+#### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
 
+According to myth and legend, our friend, The Yenicorn, was raised by a herd of Japanese unicorns in a mysterious other worldly… … world. She knows (as prophecy has foretold) that she has a very important part to play in the cryptocurrency community but is understandably a bit nervous and often lacks a bit of self-confidence (thus the helmet)  – but she wants to help people and do her very best!
 
 
 ## Extended Team
