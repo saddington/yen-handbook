@@ -5,7 +5,7 @@
 
 We believe in an exciting and inevitable future where everything that we do will be fundamentally touched and transformed by **bitcoin & blockchain technology** and the world will be an infinitely better place to live, work, and play.
 
-Consequently, our mission is to accelerate the growth and adoption of bitcoin & blockchain through awareness, education, and entertainment.
+Consequently, **our mission** is to **accelerate the growth and adoption** of bitcoin & blockchain through **awareness, education, and entertainment**.
 
 ## Our Values
 
