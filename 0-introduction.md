@@ -48,15 +48,17 @@ According to myth and legend, our friend, The Yenicorn, was raised by a herd of 
 
 ## Our Story
 
-It all started with a simple, personal challenge: [John](http://beta.yen.io/john) decided in 2016 that he would vlog [every single day](https://john.do/vlogger/) for an entire year. To make a very long story short, he managed to complete this personal challenge but not without soliciting the help of his brother, [Peter](http://beta.yen.io), because he needed a bit of accountability, support, and encouragement to make it to the end.
+It all started with a simple, personal challenge: [John](http://beta.yen.io/john) decided in 2016 that he would vlog [every single day](https://john.do/vlogger/) for an entire year. To make a very long story short, he managed to complete this personal challenge but not without soliciting the help of his brother, [Peter](http://beta.yen.io/peter), because he needed a bit of accountability, support, and encouragement to make it to the end.
 
 Peter obliged and went on to build a number of YouTube channel experiments, [one of which](https://www.youtube.com/watch?v=ocfKj9RovK4) started growing like a weed and became the first step, of many, towards a much broader vision. It was immediately obvious that this could become much more than a fun side project and both Peter and John resigned (post [here](https://agilescout.com/time-for-change/) and [here](https://john.do/2017-review/)) from their full-time roles to pursue this incredibly exciting opportunity together.
 
-Since the Summer of 2017 they have built a handful of websites, apps, and digital products with the explicit intent to research, analyze, and understand the larger blockchain and decentralized economy so that they might be able to serve the cryptocurrency community well. Not all of the products worked, but, a few of them did, which only bolstered their resolve to continue listening and building.
+Since the Summer of 2017 they have built [a handful](https://github.com/yenio/changelog/wiki/2.-Roadmap#where-weve-been-the-quick-hits) of websites, apps, and digital products with the explicit intent to research, analyze, and understand the larger blockchain and decentralized economy so that they might be able to serve the cryptocurrency community well. Not all of the products worked, but, a few of them did, which only bolstered their resolve to continue listening and building.
 
 The culmination of their research and co-building efforts with the larger community lead them down the path to create [YEN](http://yen.io) and they were gratefully joined by [Su](http://beta.yen.io/su) and [James](http://beta.yen.io/james) as well as a top-flight group of financial partners in early 2018.
 
-A `Closed Beta` version of YEN was released on October 4 and the team hopes to release an `Open and Public` in mid-2019. Learn more about the [specifics of YEN](https://github.com/yenio/changelog/wiki/1.-FAQ) and how the the team is [co-building](https://github.com/yenio/changelog/wiki/1.-FAQ#how-are-we-building-yen) the product on our [FAQ](https://github.com/yenio/changelog/wiki/1.-FAQ).
+A `Closed Beta` version of YEN was released on October 4 and the team hopes to release an `Open and Public` version in mid-2019. 
+
+Learn more about the [specifics of YEN](https://github.com/yenio/changelog/wiki/1.-FAQ) and how the the team is [co-building](https://github.com/yenio/changelog/wiki/1.-FAQ#how-are-we-building-yen) the product on our [FAQ](https://github.com/yenio/changelog/wiki/1.-FAQ) as well as our ongoing and evolving [Roadmap](https://github.com/yenio/changelog/wiki/2.-Roadmap#where-weve-been-the-quick-hits).
 
 
 
