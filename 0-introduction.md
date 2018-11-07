@@ -56,10 +56,7 @@ Since the Summer of 2017 they have built a handful of websites, apps, and digita
 
 The culmination of their research and co-building efforts with the larger community lead them down the path to create [YEN](http://yen.io) and they were gratefully joined by [Su](http://beta.yen.io/su) and [James](http://beta.yen.io/james) as well as a top-flight group of financial partners in early 2018.
 
-A `Closed Beta` version of YEN was released on October 4 and the team hopes to release an `Open and Public` in mid-2019.
-
-
-
+A `Closed Beta` version of YEN was released on October 4 and the team hopes to release an `Open and Public` in mid-2019. Learn more about the [specifics of YEN](https://github.com/yenio/changelog/wiki/1.-FAQ) and how the the team is [co-building](https://github.com/yenio/changelog/wiki/1.-FAQ#how-are-we-building-yen) the product on our [FAQ](https://github.com/yenio/changelog/wiki/1.-FAQ).
 
 
 
