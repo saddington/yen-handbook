@@ -54,7 +54,7 @@ Peter obliged and went on to build a number of YouTube channel experiments, [one
 
 Since the Summer of 2017 they have built [a handful](https://github.com/yenio/changelog/wiki/2.-Roadmap#where-weve-been-the-quick-hits) of websites, apps, and digital products with the explicit intent to research, analyze, and understand the larger blockchain and decentralized economy so that they might be able to serve the cryptocurrency community well. Not all of the products worked, but, a few of them did, which only bolstered their resolve to continue listening and building.
 
-The culmination of their research and co-building efforts with the larger community lead them down the path to create [YEN](http://yen.io) and they were gratefully joined by [Su](http://beta.yen.io/su) and [James](http://beta.yen.io/james) as well as a top-flight group of financial partners in early 2018.
+The culmination of their research and [co-building](https://github.com/yenio/changelog/wiki/3.-Our-CoBuilders) efforts with the larger community lead them down the path to create [YEN](http://yen.io) and they were gratefully joined by [Su](http://beta.yen.io/su) and [James](http://beta.yen.io/james) as well as a top-flight group of financial partners in early 2018.
 
 A `Closed Beta` version of YEN was released on October 4 and the team hopes to release an `Open and Public` version in mid-2019. 
 
