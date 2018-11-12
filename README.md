@@ -27,7 +27,7 @@ Here's to making our company as good as the products we sell, if not better.
 4. [Employment Policies](https://github.com/yenio/handbook/blob/master/3-employment.md) - These are Important
 5. [PeopleOps Resources](https://github.com/yenio/handbook/blob/master/99-resources.md) - A Curated List of Posts, Tools, and More
 6. [Growth](https://github.com/yenio/handbook/blob/master/4-growth.md) - How We Communicate Who We Are
-7. [YEN](https://github.com/yenio/changelog/wiki/1.-FAQ) - The FAQ and Don't Forget the `[Changelog](https://github.com/yenio/changelog)`!
+7. [YEN](https://github.com/yenio/changelog/wiki/1.-FAQ) - The FAQ and Don't Forget the [Changelog](https://github.com/yenio/changelog) & [Our Roadmap](https://github.com/yenio/changelog/wiki/2.-Roadmap)!
 7. [Policy Changes](https://github.com/yenio/handbook/blob/master/98-policy-changes.md) - Change is the only constant...
 
 ## Work @ Yen
