@@ -17,16 +17,15 @@ Or the things we say around the office, a lot.
 
 ## Our Team
 
-#### John Saddington - Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
+#### John Saddington - Co-Founder / Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
 
 John was most recently co-founder of PinPT, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm, BoldStart, BloombergBeta, Slack Fund, Social Capital, and more). Prior to PinPT he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie vlogger.
 
-#### Peter Saddington - Product - [LinkedIn](https://www.linkedin.com/in/petersaddington/)
-
+#### Peter Saddington - Co-Founder / Product - [LinkedIn](https://www.linkedin.com/in/petersaddington/)
 
 Peter previously founded a research and analytics consultancy which has been integral in multi-million dollar Agile Transformation projects for some of the largest Fortune 500 companies, including Cisco, T-Mobile, Capital one, Blue Cross Blue Shield, Aetna, Primedia, and Cbeyond. He is a sought-after keynote speaker and is a Certified Scrum Trainer (CST). Additionally, he has three master's degrees, one in counseling, and provides coaching and mentorship to industry leaders and professionals.
 
-#### Su Kim - Operations - [LinkedIn](https://www.linkedin.com/in/suwkim/)
+#### Su Kim - Co-Founder / Operations - [LinkedIn](https://www.linkedin.com/in/suwkim/)
 
 Su recently led the customer success team at a social enterprise and managing partnerships for the DC chapter of Women Who Code.  Previously, she was in various operations, community engagement, and policy roles committed to bringing a lens of advocacy and people in directing operations.
 
