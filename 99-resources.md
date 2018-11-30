@@ -70,7 +70,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Hire via HBR](https://hbr.org/2018/01/how-to-hire)
 - [29 Questions to Ask in a Reference Call](https://blog.knowyourcompany.com/hiring-someone-new-29-questions-to-ask-during-a-reference-call-e1d6a3e43428)
 - [Hire People Who Aren't Proven](https://leonardofed.io/blog/startups-hiring.html)
-
+- [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
 
 ## Onboarding
 
