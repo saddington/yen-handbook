@@ -21,6 +21,15 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 14. [Cost of Poor Culture, Bad Org Health](https://github.com/yenio/handbook/blob/master/99-resources.md#cost-of-poor-culture-bad-org-health)
 15. [Services, Providers](https://github.com/yenio/handbook/blob/master/99-resources.md#online-services-and-providers)
 
+
+
+
+
+
+
+
+
+
 ## General HR, PeopleOps
 
 - [Getting Human Resources Right](http://avc.com/2017/02/getting-human-resources-right/)
@@ -43,6 +52,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Know the soul of the high-performance employee](https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f)
 - [Startup School Library](https://www.startupschool.org/library) - A ton of resources for all parts of the org.
 - [People as Vectors](https://john.do/vectors-people-alignment/)
+
+
+
+
 
 
 
@@ -71,6 +84,16 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [29 Questions to Ask in a Reference Call](https://blog.knowyourcompany.com/hiring-someone-new-29-questions-to-ask-during-a-reference-call-e1d6a3e43428)
 - [Hire People Who Aren't Proven](https://leonardofed.io/blog/startups-hiring.html)
 - [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
+- [Scaling Engineering Organizations - Stripe](https://stripe.com/atlas/guides/scaling-eng)
+
+
+
+
+
+
+
+
+
 
 ## Onboarding
 
@@ -107,6 +130,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 
 
+
+
 ## Growing Culture
 
 - [Publicly Dogfooding Your Culture](https://zachholman.com/posts/dogfooding-culture)
@@ -135,6 +160,12 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 
 
+
+
+
+
+
+
 ## Personal Development
 
 - [Writing and Speaking](http://avc.com/2017/05/writing-and-speaking/)
@@ -149,6 +180,10 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Decision Scheduling](https://swellandcut.com/2018/08/04/decision-scheduling/)
 - [How to Teach Yourself Hard Things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
 - [How System Thinking Can Level Up Your Work and Life](https://medium.com/swlh/how-systems-thinking-can-level-up-your-work-and-your-life-24070e96d906)
+
+
+
+
 
 
 
@@ -195,6 +230,11 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 
 
+
+
+
+
+
 ## Mentorship and Coaching
 
 - [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
@@ -204,6 +244,12 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Employee Retention: How To Beat The Odds and Keep Your Best Employees Around Longer](http://wheniwork.com/blog/smb/people-management/employee-retention/)
 - [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4)
 - [a16z - On Mentors and Mentees (Podcast)](https://a16z.com/2018/07/12/mentors-mentees/)
+
+
+
+
+
+
 
 
 ## Working Remote
@@ -223,6 +269,14 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Building Operating Cadence With Remote Teams (Video)](https://businessofsoftware.wistia.com/medias/leii8vj2s4)
 - [What Most Remote Companies Don’t Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945)
 
+
+
+
+
+
+
+
+
 ## Team Dynamics
 
 - [Great Teams Are About Personalities, Not Just Skills](https://hbr.org/2017/01/great-teams-are-about-personalities-not-just-skills)
@@ -236,10 +290,24 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Completing This 30-minute Exercise Makes Teams Less Anxious And More Productive: Sharing Your User Manual](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
 
 
+
+
+
+
+
+
+
 ## Productivity
 
 - [7 Habits of Tech-Savvy Teams](https://medium.com/the-mission/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
 - [The 5 Whys Process to Understand the Root of Any Problem](https://open.buffer.com/5-whys-process/)
+
+
+
+
+
+
+
 
 
 ## Diversity, Inclusion, Family, Gender
@@ -262,6 +330,14 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Diversity and Inclusion @ Helpscout - What Gets Measured](https://www.helpscout.net/blog/diversity-inclusion/)
 
 
+
+
+
+
+
+
+
+
 ## Health
 
 - [Open Sourcing Mental Illness](https://osmihelp.org/about/about-osmi)
@@ -282,9 +358,22 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 
 
 
+
+
+
+
+
+
 ## Internship Programs
 
 -
+
+
+
+
+
+
+
 
 ## Cost of Poor Culture, Bad Org Health
 
@@ -293,6 +382,12 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Onboarding Stats You Need to Know](http://www.urbanbound.com/blog/onboarding-infographic-statistics)
 - [The Unexpected Challenge of Unlimited Vacation Time](https://thenextweb.com/insider/2016/01/23/the-unexpected-challenge-of-unlimited-vacation-time/#.tnw_foy239HN)
 - [11 Questions to Ask: Disengaged Employee?](https://blog.knowyourcompany.com/how-can-you-tell-if-you-have-a-disengaged-employee-ask-these-11-questions-fa4531baa9c1)
+
+
+
+
+
+
 
 
 ***
@@ -341,6 +436,12 @@ The following is a list of technology, consulting, and product / service compani
 
 
 
+
+
+
+
+
+
 ## Applicant Tracking Systems (ATS)
 
 - [GoHire](http://gohire.io/)
@@ -352,6 +453,12 @@ The following is a list of technology, consulting, and product / service compani
 - [Trello](http://trello.com) - [Free Boards](https://blog.trello.com/trello-boards-for-hr-teams) to try for HR teams.
 - [OnboardIQ](https://www.onboardiq.com/)
 - [JazzHR](https://www.jazzhr.com/)
+
+
+
+
+
+
 
 
 ## Hiring, Recruiting, Onboarding
@@ -371,6 +478,13 @@ The following is a list of technology, consulting, and product / service compani
 - [Homerun](https://www.homerun.co/)
 - [Recruitee](https://recruitee.com/)
 
+
+
+
+
+
+
+
 ## Payroll, Benefits
 
 - [Gusto](https://gusto.com/r/ncX42/)
@@ -382,6 +496,13 @@ The following is a list of technology, consulting, and product / service compani
 - [Workday](https://www.workday.com/)
 - [CakeHR](https://cake.hr/)
 - [SilkRoad](https://www.silkroad.com/)
+
+
+
+
+
+
+
 
 ## Misc...
 
