@@ -268,7 +268,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Distributed Teams: Rewriting the Rules of Office Politics](https://techcrunch.com/2018/08/18/distributed-teams-are-rewriting-the-rules-of-officeless-politics/)
 - [Building Operating Cadence With Remote Teams (Video)](https://businessofsoftware.wistia.com/medias/leii8vj2s4)
 - [What Most Remote Companies Don’t Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945)
-
+- [What we learned from the most performing remote tech teams](https://medium.com/@kyanon.digital/what-we-learned-from-the-most-performing-remote-tech-teams-bd01229185f)
 
 
 
