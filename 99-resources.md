@@ -289,7 +289,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Giving Your Team Insight Into How A Decision Is Made Is Just As Important As The Decision Itself](https://medium.com/swlh/giving-your-team-insight-into-how-a-decision-is-made-is-just-as-important-as-the-decision-itself-bda0efd86297)
 - [Completing This 30-minute Exercise Makes Teams Less Anxious And More Productive: Sharing Your User Manual](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
 - [The 25 most popular icebreaker questions based on four years of data](https://m.signalvnoise.com/the-25-most-popular-icebreaker-questions-based-on-four-years-of-data-893df9b27531)
-
+- [The Most Obvious Question](https://medium.com/@mshmsh5000/the-most-obvious-question-62d7afb96dbd)
 
 
 
