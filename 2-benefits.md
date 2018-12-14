@@ -94,11 +94,9 @@ If a holiday falls on a weekend, we’ll let you know when the holiday will be o
 
 ## Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Yen, so in addition to the recognized Holiday List above, Yen offers 120 hours each year (3 weeks or 15 business days) of paid vacation every year that accrues 1.25 of a day per month of work starting from your first employment date. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+Taking time off and recharging is critical to doing your best work at Yen, so in addition to the recognized Holiday List above, Yen offers paid leave.  We encourage open conversations about time you need, and recommend at a minimum 2-3 weeks off a year.  Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.  
 
-Employees also accrue the same for sick leave, 120 hours each year (3 weeks or 15 business days).
-
-Employees should report vacation and sick days to the founder they report to, who will mark it in the payroll system (which keeps track of accrued days and should include them on every pay stub).
+The same process for sick leave, with as much notice as possible understanding that week in advance may not be practical.
 
 Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for flexible time, disability leave, and/or other support.
 
