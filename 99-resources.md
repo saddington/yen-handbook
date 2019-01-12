@@ -85,6 +85,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Hire People Who Aren't Proven](https://leonardofed.io/blog/startups-hiring.html)
 - [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
 - [Scaling Engineering Organizations - Stripe](https://stripe.com/atlas/guides/scaling-eng)
+- [30 Questions To Ask Before Joining A Startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 
 
 
