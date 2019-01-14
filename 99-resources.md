@@ -182,7 +182,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Teach Yourself Hard Things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
 - [How System Thinking Can Level Up Your Work and Life](https://medium.com/swlh/how-systems-thinking-can-level-up-your-work-and-your-life-24070e96d906)
 - [How to Exhibit Leadership as an Individual Contributor](https://www.tombartel.me/blog/exhibit-leadership-as-individual-contributor/)
-
+- [Feedback is not a dirty word](https://blog.alexmaccaw.com/feedback-is-not-a-dirty-word)
 
 
 
