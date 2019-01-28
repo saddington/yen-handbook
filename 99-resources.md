@@ -228,7 +228,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [3 Postures of Leadership from an Adoptive Dad](https://blog.usejournal.com/3-postures-of-leadership-from-an-adoptive-dad-71890367268c)
 - [Do Leadership, Don't Learn It](https://medium.com/@mattecook/do-leadership-dont-learn-it-944ab5bc6af5)
 - [Engineering Management : Lessons learned in first year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/)
-
+- [Leadership is your product, not your identity](https://knowyourteam.com/blog/2019/01/26/how-to-be-a-good-leader-leadership-is-your-product-not-your-identity/)
 
 
 
