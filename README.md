@@ -20,24 +20,54 @@ John // Chief Cartridge Blower
 
 [Feel free to [email me](mailto:john@yen.io) at any time!]
 
+
+
+
+
+
 ---
 
-# A Quick Introduction
-*Mission, Values, Team, and Our (Developing) Story*
 
-## Mission Statement
 
-We believe in an exciting and inevitable future where everything that we do will be fundamentally touched and transformed by **bitcoin & blockchain technology** and the world will be an infinitely better place to live, work, and play.
 
-Consequently, **our mission** is to **accelerate the growth and adoption** of bitcoin & blockchain through **awareness, education, and entertainment**.
 
-## Our Values
 
-Or the things we say around the office, a lot.
 
-1. **Continuous Improvement** - 1%, everyday. Compounded, that's a lot of growth.
-2. **Everything is an Experiment** - Experimentation assumes room for failure (but it's also how we win). [Learn faster](http://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/).
-3. **Steve Martin** - Be so good they can't ignore you.
+## Operating Virtues
+
+Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) helped us frame our own:
+
+>Bushido looks like a set of principles, but it’s a set of practices. The samurai defined culture as a code of action, a system not of values but of virtues. A value is merely a belief, but a virtue is a belief that you actively pursue or embody. 
+>
+>The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
+
+Consequently, here are our current `operating virtues` (taken from our [blog](https://blog.yen.io/day-one/):
+
+
+### 1. Table All The Things — `#tatt`
+Or, in other words, we “put everything out on the table” — the good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished prose. 
+
+Consequently, this means that what we share is going to be, quite often, incomplete, imperfect, and in sore need of serious polishing — we treat all updates with respect, knowing of the courage required to share something that may make the person look foolish, silly, or even stupid. Instead, we engage graciously, responding to the update with the care and attention that we’d hope to receive if it was our own, knowing that they’ve successfully modeled this virtue with excellence.
+
+Finally, #tatt means that we’ll often share things that are intensely personal and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
+
+Our table is strong when trust is the foundation.
+
+
+### 2. Speed of Decision Making — `#sodm`
+No bullshit: We are in a fight for our very survival and every single day we make life-altering decisions — sometimes, with very little data. Regardless, we agree with General Patton when he said “A good plan, violently executed now, is better than a perfect plan next week.” 
+
+That “plan”, by the way, is our first operating virtue, #tatt, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
+
+Otherwise, you should #tatt, providing all the above data and informing the team of your decision with a request for specific people to keep you accountable — this simply means that you will do what you say you’ll do and you’re asking for support in keeping that commitment on track.
+
+
+
+
+
+
+
+
 
 ## Our Team
 
@@ -45,18 +75,9 @@ Or the things we say around the office, a lot.
 
 John was most recently co-founder of PinPT, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm, BoldStart, BloombergBeta, Slack Fund, Social Capital, and more). Prior to PinPT he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie vlogger.
 
-#### Peter Saddington - Co-Founder / Product - [LinkedIn](https://www.linkedin.com/in/petersaddington/)
+#### W A - Head of Engineering - [Linkedin](#)
 
-Peter previously founded a research and analytics consultancy which has been integral in multi-million dollar Agile Transformation projects for some of the largest Fortune 500 companies, including Cisco, T-Mobile, Capital one, Blue Cross Blue Shield, Aetna, Primedia, and Cbeyond. He is a sought-after keynote speaker and is a Certified Scrum Trainer (CST). Additionally, he has three master's degrees, one in counseling, and provides coaching and mentorship to industry leaders and professionals.
-
-#### Su Kim - Co-Founder / Operations - [LinkedIn](https://www.linkedin.com/in/suwkim/)
-
-Su recently led the customer success team at a social enterprise and managing partnerships for the DC chapter of Women Who Code.  Previously, she was in various operations, community engagement, and policy roles committed to bringing a lens of advocacy and people in directing operations.
-
-
-#### James Kim - Product - [LinkedIn](https://www.linkedin.com/in/james-kim-27b282153)
-
-James was most recently a Senior Manager at a software company in the Professional Services organization. During his tenure, he contributed to growing the company revenue year over year and growing the technical services department by 500% in headcount. His previous experiences have also been focused on delivery of professional services to clients and it continues to be his passion at Yen.io where he will be continually working to deliver the best possible experience for our users. 
+Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. 
 
 #### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
 
@@ -65,7 +86,7 @@ According to myth and legend, our friend, The Yenicorn, was raised by a herd of 
 
 ## Extended Team
 
-#### Venture Capital Institutions
+#### Venture Capital Firms
 
 #### Angel Investors
 
