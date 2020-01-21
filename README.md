@@ -27,6 +27,10 @@ John // Chief Cartridge Blower
 
 ---
 
+# Table of Contents
+
+1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
+2. [Our Team](https://github.com/yenio/handbook#our-team)
 
 
 
