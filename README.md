@@ -25,12 +25,32 @@ John // Chief Cartridge Blower
 
 
 
----
+
+
+
+
+
+
+
+
+
+
 
 # Table of Contents
 
 1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
 2. [Our Team](https://github.com/yenio/handbook#our-team)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -45,7 +65,7 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 >
 >The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
 
-Consequently, here are our current `operating virtues` (taken from our [blog](https://blog.yen.io/day-one/):
+Consequently, here are our current `operating virtues` (taken from our [blog](https://blog.yen.io/day-one/)):
 
 
 ### 1. Table All The Things — `#tatt`
