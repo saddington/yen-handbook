@@ -148,18 +148,17 @@ If we have any questions or need anything specific, we will ping you!
 These may change (we may add more!) as the year progresses.
 
 
-Jan 1 - Wednesday - New Year's Day	
-Jan 20 - Monday - Martin Luther King Jr. Day
-Feb 17 - Monday - Presidents' Day
-May 25 - Monday - Memorial Day
-Jul 3 - Friday - Independence Day
-Jul 4 - Saturday - Independence Day
-Sep 7 - Monday - Labor Day
-Oct 12 - Monday - Columbus Day
-Nov 11 - Wednesday - Veterans Day
-Nov 26 - Thursday - Thanksgiving Day
-Dec 25 - Friday	- Christmas Day
-
+- Jan 1 - Wednesday - New Year's Day	
+- Jan 20 - Monday - Martin Luther King Jr. Day
+- Feb 17 - Monday - Presidents' Day
+- May 25 - Monday - Memorial Day
+- Jul 3 - Friday - Independence Day
+- Jul 4 - Saturday - Independence Day
+- Sep 7 - Monday - Labor Day
+- Oct 12 - Monday - Columbus Day
+- Nov 11 - Wednesday - Veterans Day
+- Nov 26 - Thursday - Thanksgiving Day
+- Dec 25 - Friday	- Christmas Day
 
 
 If a holiday falls on a weekend, we’ll let you know when the holiday will be observed. Usually, if a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday.
