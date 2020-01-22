@@ -6,13 +6,13 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 
 0. [Onboarding (First Day / Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#onboarding-your-first-day--week)
 1. [Health Benefits](https://github.com/yenio/handbook/blob/master/1-employment.md#health-benefits-and-insurance)
-2. [At-Will Employment Policy](https://github.com/yenio/handbook/blob/master/3-employment.md#at-will-employment-policy)
-3. [Equal Opportunity Employment](https://github.com/yenio/handbook/blob/master/3-employment.md#equal-opportunity-employment)
-4. [Code of Conduct](https://github.com/yenio/handbook/blob/master/3-employment.md#code-of-conduct)
-5. [Drug and Alcohol Policy](https://github.com/yenio/handbook/blob/master/3-employment.md#drug-and-alcohol-policy)
-6. [Complaint Policy](https://github.com/yenio/handbook/blob/master/3-employment.md#complaint-policy)
-7. [Working Remotely](https://github.com/yenio/handbook/blob/master/3-employment.md#working-remotely)
-8. [Employee Privacy](https://github.com/yenio/handbook/blob/master/3-employment.md#employee-privacy)
+2. [At-Will Employment Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#at-will-employment-policy)
+3. [Equal Opportunity Employment](https://github.com/yenio/handbook/blob/master/1-employment.md#equal-opportunity-employment)
+4. [Code of Conduct](https://github.com/yenio/handbook/blob/master/1-employment.md#code-of-conduct)
+5. [Drug and Alcohol Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#drug-and-alcohol-policy)
+6. [Complaint Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#complaint-policy)
+7. [Working Remotely](https://github.com/yenio/handbook/blob/master/1-employment.md#working-remotely)
+8. [Employee Privacy](https://github.com/yenio/handbook/blob/master/1-employment.md#employee-privacy)
 
 
 
@@ -130,13 +130,13 @@ Keeping you one-hundred (or as close as we can).
 
 **Table of Contents**
 
-1. [Healthcare and Disability Insurance](#)
-2. [Payroll](#)
-3. [Observed Holiday List](#)
-4. [Vacation and Sick Leave](#)
-5. [Paid Family, Parent Leave](#)
-6. [Other Protected Absences](#)
-7. [Sabbatical](#)
+1. [Healthcare and Disability Insurance](https://github.com/yenio/handbook/blob/master/1-employment.md#healthcare-and-disability-insurance)
+2. [Payroll](https://github.com/yenio/handbook/blob/master/1-employment.md#payroll-ie-getting-paid)
+3. [Observed Holiday List](https://github.com/yenio/handbook/blob/master/1-employment.md#observed-holiday-list-for-2020)
+4. [Vacation and Sick Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#vacation-and-sick-leave)
+5. [Paid Family, Parent Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#pregnancy-disability-leave)
+6. [Other Protected Absences](https://github.com/yenio/handbook/blob/master/1-employment.md#other-protected-absences)
+7. [Sabbatical](https://github.com/yenio/handbook/blob/master/1-employment.md#sabbatical)
 
 #### Healthcare and Disability Insurance
 
@@ -176,7 +176,7 @@ These may change (we may add more!) as the year progresses.
 
 If a holiday falls on a weekend, we’ll let you know when the holiday will be observed. Usually, if a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday.
 
-## Vacation and Sick Leave
+#### Vacation and Sick Leave
 
 Taking time off and recharging is critical to doing your best work at Yen, so in addition to the recognized Holiday List above, Yen offers paid leave.  We encourage open conversations about time you need, and recommend at a minimum 2-3 weeks off a year.  Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.  
 
@@ -332,6 +332,8 @@ Currently, Yen is too small to have an internal group or department that can ind
 ## Working Remotely
 
 Currently we do not have a physical home office! This means that we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
+
+We wrote a [longer blog post](https://blog.yen.io/distributed-first/) about being a `Distributed-First` type of company.
 
 
 
