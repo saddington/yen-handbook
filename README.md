@@ -226,6 +226,26 @@ Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic
 
 ## Cultural Quirks
 
+Here are a few things that aren't immediately obvious about us and our team.
+
+**How we refer to ourselves**
+
+- Legally, we are `ROFLCOPTER, INC.` But other than legal docs, you’ll rarely see this.
+- Most commonly, we refer to team, project, company as our core product, YEN.
+- YEN (all caps) is not an acronym.
+- You’ll also see accounts under [yen.io](http://yen.io) or `yenio` or `yenFTW` or `yen_io` (sometimes we couldn’t get just YEN)
+- If "YEN" is combined with another word, it's not capitalized (e.g. `YenIQ`)
+
+**Some terms you’ll see tossed around:**
+
+- `Yenizen` - Members of our amazing community
+- `Yeniverse` - What we're building as well as our community space
+- `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](https://yenicorn.com))
+
+**My Meeting, My Notes**
+
+- When you call or 'own' the meeting, you are responsible for taking notes and dispersing them along with action items after the meeting so those who weren't able to attend are made aware. We usually just drop those in Slack post-meeting.
+
 
 
 
