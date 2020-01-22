@@ -42,10 +42,8 @@ John // Chief Cartridge Blower
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
 4. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
-5. [Cultural Quirks](#)
-6. 
-7. 
-9. [Policy Changes, Legal Stuff](https://github.com/yenio/handbook#policy-changes)
+5. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
+9. [Policy Changes, Legal Stuff](https://github.com/yenio/handbook#policy-changes-and-legal-stuff)
 
 
 
@@ -193,6 +191,95 @@ And... it worked! Just not in the way that I had planned or expected. You see, w
 Starting in `#defi`, we built a number of digital products including educational websites, web and native apps, and most importantly a **passionate community** that kept us hungry, encouraged, and plugged-in to their needs. Our momentum helped us raise 2 rounds of venture funding which, in turn, allowed us to add much-needed internal community members (i.e. staff). 
 
 Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic, taking everything we learned in the first few years and applying them smartly to the next evolution of our product and company as we explore the potential and power of `community` and `community data` for businesses of all shapes and sizes!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Cultural Quirks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

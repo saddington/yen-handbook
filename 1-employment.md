@@ -13,11 +13,12 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 6. [Complaint Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#complaint-policy)
 7. [Working Remotely](https://github.com/yenio/handbook/blob/master/1-employment.md#working-remotely)
 8. [Employee Privacy](https://github.com/yenio/handbook/blob/master/1-employment.md#employee-privacy)
-9. [Company Credit Card](#)
-10. [Wellness Stipend](#)
-11. [Relocation Costs Reimbursement](#)
-12. [Reasonable Work Schedule (40-Hours per Week)](#)
-
+9. [Company Credit Card](https://github.com/yenio/handbook/blob/master/1-employment.md#company-credit-card)
+10. [Wellness Stipend](https://github.com/yenio/handbook/blob/master/1-employment.md#wellness-stipend)
+11. [Relocation Costs Reimbursement](https://github.com/yenio/handbook/blob/master/1-employment.md#relocation-costs-reimbursement)
+12. [Reasonable Work Schedule (40-Hours per Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#reasonable-work-schedule-40-hours-per-week)
+13. [Growth (Evaluations, Promotions, Adjustments)](#)
+14. [Leaving the Company](#)
 
 
 
@@ -140,6 +141,25 @@ Keeping you one-hundred (or as close as we can).
 6. [Other Protected Absences](https://github.com/yenio/handbook/blob/master/1-employment.md#other-protected-absences)
 7. [Sabbatical](https://github.com/yenio/handbook/blob/master/1-employment.md#sabbatical)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Healthcare and Disability Insurance
 
 YEN's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
@@ -238,6 +258,59 @@ Paid time off of any kind, including Sabbatical, does not accrue additional paid
 
 
 
+## Growth (Evaluations, Promotions, Adjustments)
+
+**Evaluations**
+
+Adhering to our policy on moving fast and learning, we don't have a formal evaluation schedule set. No yearly reviews, no quarterly evaluations to fill out, no stack ranks!
+
+We believe that our organization is a product in and of itself so we'll constantly be working on bettering our org through short time cycles of evaluations and feedback.
+
+**Promotions**
+
+Well, we're still working on this one... not sure if anyone deserves one yet... :P
+
+**Compensation Adjustments**
+
+Our policy is to review our compensation at every major financial event (e.g. new round of funding) and every year based on industry data for San Francisco / Bay Area salary bands.
+
+**Management**
+
+Maybe one day.
+
+For now, we don't want to add in unnecessary overhead to anyone's role at YEN. We truly want our company to be one of openness and collaboration (we all have direct access to the founders in Slack!) in the early stages. So instead of having people managers, we'll all work together to move the ship together and ensure we're all doing our part individually.
+
+Once we have our systems in place, there will be a place and a need for this but for now see our cards on Promotions and Compensation Adjustments to see why we don't want to force this at the moment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Leaving the Company
+
+**First:**
+
+Don't leave! We're building this company to be a great place to work and the kind of company where people are happy to spend their entire careers. We love you and want you to stay here as long as possible. If you're starting to think of leaving due to causes totally in our control, please let us know before you decide to leave—we want to make this right. Email [John](mailto:john@yen.io) anytime!
+
+**BUT, if you are thinking of leaving:**
+
+Please give us as much notice as possible. Tell us when you apply to graduate school, not after you get in. Tell us that there's a job you're thinking of interviewing for, not after you accept an offer to start in two weeks time. Come talk to us as soon as you are thinking about leaving. Maybe there's something we can do! We're super thankful for the time you've spent here giving your best, and would love to be a part of your next step, whether that means making introductions, sharing glowing references, or just staying a fan.
+
+Also, we need time to plan and replace your almost irreplaceable self. Please help us out by letting us know well (months preferably) in advance.
+
+Notice of resignations should be given in writing (ideally after a conversation) to John. We would also like for you to participate in an exit interview as part of your offboarding process. The exit interview will afford an opportunity to discuss such issues as employee benefits, conversion privileges, or return of YEN-owned property. Suggestions, complaints, and questions can also be voiced and welcomed.
+
+Any YEN property issued to you, such as computer equipment, keys, and credit cards must be returned upon request or at the time of termination of employment. You will be responsible for any lost or damaged items.
+
+If you have options or restricted stock grants, please speak to John as soon as possible so that you fully understand what is going to happen with those stock grants and/or options.
 
 
 
