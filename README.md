@@ -3,7 +3,7 @@
 
 [Last Updated: 01.22.2020]
 
-This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only one page to review (and update...)!
+This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only a few pages to review (and update...)!
 
 This repository serves these purposes:
 
@@ -42,7 +42,8 @@ John // Chief Cartridge Blower
 
 1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
 2. [Our Team](https://github.com/yenio/handbook#our-team)
-
+3. [Our Story](https://github.com/yenio/handbook#our-story)
+4. 
 
 
 
@@ -95,6 +96,12 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 
 
+
+
+
+
+
+
 ## Our Team
 
 #### John Saddington - Co-Founder / Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
@@ -110,8 +117,6 @@ Something something something something and something. Something something somet
 According to myth and legend, our friend, The Yenicorn, was raised by a herd of Japanese unicorns in a mysterious other worldly… … world. She knows (as prophecy has foretold) that she has a very important part to play in the cryptocurrency community but is understandably a bit nervous and often lacks a bit of self-confidence (thus the helmet)  – but she wants to help people and do her very best!
 
 
-## Extended Team
-
 #### Venture Capital Firms
 
 We're fortunate to have the financial support from the following (repeat!) venture firms:
@@ -125,6 +130,19 @@ We're fortunate to have the financial support from the following (repeat!) ventu
 We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Our Story
 
 It all started in 2016 as a small, personal challenge: I ([John](http://twitter.com/8bit/)) wanted to try my hand at a `daily vlog`, uploading _at least_ one YouTube video every day for an entire year. It was hard af and, to make a very long story short, I was able to finish the project but only with my brother's ([Peter](http://twitter.com/agilepeter)) help: He provided a ton of accountability, inspiration, and encouragement so that I could make it to the end.
@@ -134,6 +152,10 @@ And... it worked! Just not in the way that I had planned or expected. You see, w
 Starting in `#defi`, we built a number of digital products including educational websites, web and native apps, and most importantly a **passionate community** that kept us hungry, encouraged, and plugged-in to their needs. Our momentum helped us raise 2 rounds of venture funding which, in turn, allowed us to add much-needed internal community members (i.e. staff). 
 
 Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic, taking everything we learned in the first few years and applying them smartly to the next evolution of our product and company as we explore the potential and power of `community` and `community data` for businesses of all shapes and sizes!
+
+
+
+
 
 
 
