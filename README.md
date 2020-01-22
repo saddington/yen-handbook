@@ -1,9 +1,11 @@
 # Our Company Handbook
 *A Collaborative Handbook for our Team & Community*
 
-This `handbook` has gone through a number of changes over the years and this version is no exception! If anything, this version should be the most "usable" as there's only one page to review (and update... _*whew_)!
+[Last Updated: 01.22.2020]
 
-This repository serves a number of purposes:
+This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only one page to review (and update...)!
+
+This repository serves these purposes:
 
 1. Gives a high-level overview of who we are, what we do, and why we do what we do
 2. Our compensation, benefits, and employment policies for our staff and team
@@ -97,7 +99,7 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 #### John Saddington - Co-Founder / Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
 
-John was most recently co-founder of PinPT, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm, BoldStart, BloombergBeta, Slack Fund, Social Capital, and more). Prior to PinPT he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and newbie vlogger.
+John was most recently co-founder of PinPoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and more). Prior to PinPoint he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and amateur vlogger.
 
 #### W A - Head of Engineering - [Linkedin](#)
 
@@ -112,21 +114,26 @@ According to myth and legend, our friend, The Yenicorn, was raised by a herd of 
 
 #### Venture Capital Firms
 
-#### Angel Investors
+We're fortunate to have the financial support from the following (repeat!) venture firms:
+
+1. Cherubic VC — [X](https://cherubic.com/)
+2. Hustle Fund — [X](https://www.hustlefund.vc/)
+3. LINE Corp  — [X](https://lineventurescorp.com/en/)
+4. Sterling Road VC — [X](https://www.sterlingroad.com/)
+5. Service Provider Capital — [X](http://www.serviceprovidercapital.com/)
+
+We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
+
 
 ## Our Story
 
-It all started with a simple, personal challenge: [John](http://beta.yen.io/john) decided in 2016 that he would vlog [every single day](https://john.do/vlogger/) for an entire year. To make a very long story short, he managed to complete this personal challenge but not without soliciting the help of his brother, [Peter](http://beta.yen.io/peter), because he needed a bit of accountability, support, and encouragement to make it to the end.
+It all started in 2016 as a small, personal challenge: I ([John](http://twitter.com/8bit/)) wanted to try my hand at a `daily vlog`, uploading _at least_ one YouTube video every day for an entire year. It was hard af and, to make a very long story short, I was able to finish the project but only with my brother's ([Peter](http://twitter.com/agilepeter)) help: He provided a ton of accountability, inspiration, and encouragement so that I could make it to the end.
 
-Peter obliged and went on to build a number of YouTube channel experiments, [one of which](https://www.youtube.com/watch?v=ocfKj9RovK4) started growing like a weed and became the first step, of many, towards a much broader vision. It was immediately obvious that this could become much more than a fun side project and both Peter and John resigned (post [here](https://agilescout.com/time-for-change/) and [here](https://john.do/2017-review/)) from their full-time roles to pursue this incredibly exciting opportunity together.
+And... it worked! Just not in the way that I had planned or expected. You see, while my personal channel was growing by a few subscribers _every other day_, my brother's channel was winning new followers _every few minutes_ (he crossed 1,000 subs in < week)! Needless to say, we both felt like we were on to something exciting.
 
-Since the Summer of 2017 they have built [a handful](https://github.com/yenio/changelog/wiki/2.-Roadmap#where-weve-been-the-quick-hits) of websites, apps, and digital products with the explicit intent to research, analyze, and understand the larger blockchain and decentralized economy so that they might be able to serve the cryptocurrency community well. Not all of the products worked, but, a few of them did, which only bolstered their resolve to continue listening and building.
+Starting in `#defi`, we built a number of digital products including educational websites, web and native apps, and most importantly a **passionate community** that kept us hungry, encouraged, and plugged-in to their needs. Our momentum helped us raise 2 rounds of venture funding which, in turn, allowed us to add much-needed internal community members (i.e. staff). 
 
-The culmination of their research and [co-building](https://github.com/yenio/changelog/wiki/3.-Our-CoBuilders) efforts with the larger community lead them down the path to create [YEN](http://yen.io) and they were gratefully joined by [Su](http://beta.yen.io/su) and [James](http://beta.yen.io/james) as well as a top-flight group of financial partners in early 2018.
-
-A `Closed Beta` version of YEN was released on October 4 and the team hopes to release an `Open and Public` version in mid-2019. 
-
-Learn more about the [specifics of YEN](https://github.com/yenio/changelog/wiki/1.-FAQ) and how the the team is [co-building](https://github.com/yenio/changelog/wiki/1.-FAQ#how-are-we-building-yen) the product on our [FAQ](https://github.com/yenio/changelog/wiki/1.-FAQ) as well as our ongoing and evolving [Roadmap](https://github.com/yenio/changelog/wiki/2.-Roadmap#where-weve-been-the-quick-hits).
+Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic, taking everything we learned in the first few years and applying them smartly to the next evolution of our product and company as we explore the potential and power of `community` and `community data` for businesses of all shapes and sizes!
 
 
 
