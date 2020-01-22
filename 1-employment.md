@@ -4,8 +4,8 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 
 **Table of Contents**
 
-0. [Onboarding](#)
-1. [Benefits](#)
+0. [Onboarding (First Day / Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#onboarding-your-first-day--week)
+1. [Health Benefits](https://github.com/yenio/handbook/blob/master/1-employment.md#health-benefits-and-insurance)
 2. [At-Will Employment Policy](https://github.com/yenio/handbook/blob/master/3-employment.md#at-will-employment-policy)
 3. [Equal Opportunity Employment](https://github.com/yenio/handbook/blob/master/3-employment.md#equal-opportunity-employment)
 4. [Code of Conduct](https://github.com/yenio/handbook/blob/master/3-employment.md#code-of-conduct)
@@ -13,6 +13,19 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 6. [Complaint Policy](https://github.com/yenio/handbook/blob/master/3-employment.md#complaint-policy)
 7. [Working Remotely](https://github.com/yenio/handbook/blob/master/3-employment.md#working-remotely)
 8. [Employee Privacy](https://github.com/yenio/handbook/blob/master/3-employment.md#employee-privacy)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

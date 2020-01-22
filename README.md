@@ -43,7 +43,17 @@ John // Chief Cartridge Blower
 1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
-4. 
+4. [Employment](https://github.com/yenio/handbook/blob/master/1-employment.md)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -102,6 +112,21 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Our Team
 
 #### John Saddington - Co-Founder / Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
@@ -128,6 +153,20 @@ We're fortunate to have the financial support from the following (repeat!) ventu
 5. Service Provider Capital — [X](http://www.serviceprovidercapital.com/)
 
 We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
