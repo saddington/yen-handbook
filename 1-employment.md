@@ -144,9 +144,9 @@ YEN's priorities with benefits are wellness and education, so it’s important t
 
 We offer medical, dental, and vision coverage at Yen for employees and their dependents.
 
-- **Health Benefits:** Anthem Blue Cross of CA | [Anthem Platinum PPO 20/10%/3000 3057 - Base Plan](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_platinum_ppo_20_10_3000_3057.pdf) | [Anthem Gold PPO 20/30%/6500 302G - Optional](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_20_30_6500_302g.pdf) - YEN covers 75% of Anthem Platinum PPO.
-- **Dental:** Beam | [CA Beam Smart Premium Plus 100/80/50/50-1500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_ca_beam_smart_premium_plus_100_80_50_501500.pdf) - YEN covers 75% of the Premium.
-- **Vision:** Beam | [CA Beam VSP Choice Plan 2](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_beam_vsp_choice_plan_2.pdf) - YEN covers 75% of the Premium.
+- **Health Benefits:** Anthem Blue Cross of CA | [Platinum PPO 20/10%/3000](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_platinum_ppo_20_10_3000_3057.pdf) | [Gold PPO 20/30%/6500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_20_30_6500_302g.pdf) - YEN covers 75% of Anthem Platinum PPO.
+- **Dental:** Beam | [CA Premium Plus 100/80/50/50-1500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_ca_beam_smart_premium_plus_100_80_50_501500.pdf) - YEN covers 75% of the Premium.
+- **Vision:** Beam | [CA VSP Choice Plan 2](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_beam_vsp_choice_plan_2.pdf) - YEN covers 75% of the Premium.
 
 You may review your benefits through [Gusto](http://gusto.com) at any time or ping [John](mailto:john@yen.io) directly. If eligible, you will have the opportunity to enroll during the proper enrollment period.
 
