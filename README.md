@@ -44,6 +44,7 @@ John // Chief Cartridge Blower
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
 4. [Employment](https://github.com/yenio/handbook/blob/master/1-employment.md)
+5. [Policy Changes](https://github.com/yenio/handbook#policy-changes)
 
 
 
@@ -197,6 +198,42 @@ Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Policy Changes
+*The only constant is change...*
+
+We want all of our policies to be living documents which can improve and change as we learn and grow as a company. This is how we'll propose and make changes to our policies.
+
+Right now, we use the following tools to discuss the Handbook:
+
+1. **GitHub** - The canonical resource. Feel free to open a pull request with context!
+
+2. **In Person Meetings** - Our hope is that as we grow and scale, we'll have more opportunities to gather in-person and virtually to discuss the #handbook openly.
 
 
 

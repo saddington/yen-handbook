@@ -128,7 +128,7 @@ Finally, we'd love some feedback on the onboarding experience! Please email [Joh
 
 Keeping you one-hundred (or as close as we can).
 
-**Table of Contents**
+**Quick Links**
 
 1. [Healthcare and Disability Insurance](https://github.com/yenio/handbook/blob/master/1-employment.md#healthcare-and-disability-insurance)
 2. [Payroll](https://github.com/yenio/handbook/blob/master/1-employment.md#payroll-ie-getting-paid)
@@ -142,7 +142,7 @@ Keeping you one-hundred (or as close as we can).
 
 YEN's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
 
-We offer medical, dental, and vision coverage at Yen for employees and their dependents.
+We offer medical, dental, and vision coverage at YEN for employees and their dependents.
 
 - **Health Benefits:** Anthem Blue Cross of CA | [Platinum PPO](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_platinum_ppo_20_10_3000_3057.pdf) or [Gold PPO](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_20_30_6500_302g.pdf) - YEN covers 75% of Anthem Platinum PPO.
 - **Dental:** Beam | [CA Premium Plus 100/80/50/50-1500](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/beam_dental/plans/2017/beam_dental_ca_beam_smart_premium_plus_100_80_50_501500.pdf) - YEN covers 75% of the Premium.
@@ -178,7 +178,7 @@ If a holiday falls on a weekend, we’ll let you know when the holiday will be o
 
 #### Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Yen, so in addition to the recognized Holiday List above, Yen offers paid leave.  We encourage open conversations about time you need, and recommend at a minimum 2-3 weeks off a year.  Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.  
+Taking time off and recharging is critical to doing your best work at YEN, so in addition to the recognized Holiday List above, YEN offers paid leave.  We encourage open conversations about time you need, and recommend at a minimum 2-3 weeks off a year.  Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.  
 
 The same process for sick leave, with as much notice as possible understanding that week in advance may not be practical.
 
@@ -186,13 +186,13 @@ Employees with chronic or terminal illnesses should talk with the founder they r
 
 ## Paid Family, Parent Leave
 
-Yen offers 12 weeks of paid leave for all full time employees, regardless of gender or sexual identity, after the birth or adoption of a child. This time is for the new parent to welcome the newborn or newly adopted child or children into their home and family. The leave should be taken within a year after the birth or adoption of the child.
+YEN offers 12 weeks of paid leave for all full time employees, regardless of gender or sexual identity, after the birth or adoption of a child. This time is for the new parent to welcome the newborn or newly adopted child or children into their home and family. The leave should be taken within a year after the birth or adoption of the child.
 
 Employees should give the rest of the team as much notice as possible before they take new parent leave, though there is no requirement for how far in advance notification needs to be given. Parenthood can be unexpected and sensitive, but the more that a team can anticipate the absence, the easier it will be to handle.
 
-Paid time off of any kind, including New Parent Leave, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has worked for Yen for 4 years will be eligible to take a sabbatical after 1 more year of work. If they took 12 weeks of new parent leave, when they returned they would still have 1 full year of work before they were eligible for their sabbatical.
+Paid time off of any kind, including New Parent Leave, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has worked for YEN for 4 years will be eligible to take a sabbatical after 1 more year of work. If they took 12 weeks of new parent leave, when they returned they would still have 1 full year of work before they were eligible for their sabbatical.
 
-In California, State Disability Insurance and Paid Family Leave programs will pay part of an employees salary who are unable to work due to pregnancy and childbirth. It is illegal for an employer to overpay an employee while they are using those programs, so Yen will supplement them to maintain the employee's salary instead of paying the full salary on top of them.
+In California, State Disability Insurance and Paid Family Leave programs will pay part of an employees salary who are unable to work due to pregnancy and childbirth. It is illegal for an employer to overpay an employee while they are using those programs, so YEN will supplement them to maintain the employee's salary instead of paying the full salary on top of them.
 
 ## Other Protected Absences
 
@@ -210,11 +210,11 @@ Employees will be granted up to 3 days paid time to serve on a jury or as a witn
 
 #### Other Leaves of Absence
 
-Yen will grant leaves of absence for other activities as required by law. Unless otherwise required by law, employees will not be paid for such leaves of absence.  
+YEN will grant leaves of absence for other activities as required by law. Unless otherwise required by law, employees will not be paid for such leaves of absence.  
 
 ## Sabbatical
 
-After every 4 years of working at Yen, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
+After every 4 years of working at YEN, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
 
 During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. This could be researching a topic of interest, working for the US Digital Service, helping a nonprofit, or something else altogether.
 
@@ -224,7 +224,7 @@ The sabbatical is meant to help further our core value of improvement by letting
 
 To make sure that sabbatical is not overly disruptive to their team, employees should have taken fewer than twelve weeks of paid time off in the year before a sabbatical. They should also notify the team that they will be taking the sabbatical at least 4 weeks in advance.
 
-There is an expectation that employees return to work at Yen after their sabbatical, and not use it as a soft exit from the company. This is our investment in you!
+There is an expectation that employees return to work at YEN after their sabbatical, and not use it as a soft exit from the company. This is our investment in you!
 
 Paid time off of any kind, including Sabbatical, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has accrued 3 sick days before taking a 12 week sabbatical will still have 3 available sick days when they return.
 
@@ -277,7 +277,7 @@ Paid time off of any kind, including Sabbatical, does not accrue additional paid
 
 ## At-Will Employment Policy
 
-Your employment with the Yen is "AT WILL".  This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause.  
+Your employment with the YEN is "AT WILL".  This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause.  
 
 No one in the company other than the CEO has the authority to alter your at-will status or to enter into any agreement for employment for a specified period of time or to make any agreement contrary to this policy.  Only the CEO may do so, and only in a written agreement signed by both the CEO and you.
 
@@ -289,7 +289,7 @@ PinPT INC is an Equal Opportunity Employer. The company supports diversity and i
 
 ## Code of Conduct
 
-This code of conduct applies to community members and Yen team members in all Yen communities online (including but not limited to Slack, support chat, the Yen Community Slack group, Twitter, Facebook, and other social networking services), in the Yen office, and at all events hosted by Yen.
+This code of conduct applies to community members and YEN team members in all YEN communities online (including but not limited to Slack, support chat, the YEN Community Slack group, Twitter, Facebook, and other social networking services), in the YEN office, and at all events hosted by YEN.
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
@@ -303,27 +303,27 @@ Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).
 
 ## Drug and Alcohol Policy
 
-Our priority at Yen is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at Yen feel safe.
+Our priority at YEN is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at YEN feel safe.
 
 **It is the responsibility of every employee to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe.**
 
-Employees who violate this policy may face disciplinary action, up to and including termination. Alcohol in the form of beer or wine may occasionally be brought into the office to celebrate an accomplishment, birthday, or other milestone. Though events at the Yen office will be presumed dry until otherwise discussed, there may also be events in the office after work where beer or wine are available.
+Employees who violate this policy may face disciplinary action, up to and including termination. Alcohol in the form of beer or wine may occasionally be brought into the office to celebrate an accomplishment, birthday, or other milestone. Though events at the YEN office will be presumed dry until otherwise discussed, there may also be events in the office after work where beer or wine are available.
 
-Illegal drugs should not be used, bought, sold, or distributed while at work, either in the office or outside of the office while representing Yen.
+Illegal drugs should not be used, bought, sold, or distributed while at work, either in the office or outside of the office while representing YEN.
 
 ## Complaint Policy
 
-Yen is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
+YEN is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
 
-Yen has an open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with the founder you report to as soon as possible. If for any reason you don’t feel comfortable discussing it with them, feel free to raise the issue with any other founder.
+YEN has an open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with the founder you report to as soon as possible. If for any reason you don’t feel comfortable discussing it with them, feel free to raise the issue with any other founder.
 
-Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to John or any of the Yen founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
+Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to John or any of the YEN founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
 
 Once a complaint has been made, the founders will meet and determine how to handle it. If one or more of the founders is the subject of the complaint, the remaining founder(s) will determine how to handle it. Any reports of a founder engaging in harassment or gross misconduct will trigger an outside investigator. With the employee’s permission, we will conduct a complete and impartial investigation, which may involve an outside investigator in serious cases. All complaints will be handled as confidentially as possible. When the investigation is complete, the company will take corrective action if appropriate.
 
 We will not engage in or allow retaliation against any employee who makes a good faith complaint or participates in an investigation. If you believe that you are being subjected to any kind of negative treatment because you made or were questioned about a complaint, report the conduct immediately to the founders.
 
-Currently, Yen is too small to have an internal group or department that can independently respond to complaints, so if the founders are named in complaints, they will do their best to hold one another accountable.  Where appropriate, the founders will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.
+Currently, YEN is too small to have an internal group or department that can independently respond to complaints, so if the founders are named in complaints, they will do their best to hold one another accountable.  Where appropriate, the founders will engage a third party to conduct a thorough investigation and recommend corrective action, where necessary.
 
 
 
@@ -342,17 +342,17 @@ We wrote a [longer blog post](https://blog.yen.io/distributed-first/) about bein
 
 #### Workspace Privacy
 
-As an employer, it is Yen’s goal to monitor or track our employees in as few ways as possible. We want Yen employees to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of Yen employees, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
+As an employer, it is YEN’s goal to monitor or track our employees in as few ways as possible. We want YEN employees to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of YEN employees, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
 
-This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to Yen. Yen reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
+This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to YEN. YEN reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
 
 #### Email and Internet Privacy
 
-Yen email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
+YEN email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
 
 #### Email Is Not Private
 
-Email messages, including attachments, sent and received from a Yen email address are the property of Yen. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Yen email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
+Email messages, including attachments, sent and received from a YEN email address are the property of YEN. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your YEN email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 
 #### Use of the Email System for Personal Email
 
@@ -364,15 +364,15 @@ All of our policies and rules of conduct apply to employee use of the email syst
 
 #### Professional Tone and Content
 
-We expect you to exercise discretion in using electronic communications equipment. When you send email using a Yen email address or Yen social account, you are representing Yen. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
+We expect you to exercise discretion in using electronic communications equipment. When you send email using a YEN email address or YEN social account, you are representing YEN. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
 
 #### Email Security
 
 To avoid email viruses, phishing for account information, and other threats, employees should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
 
-If you believe your computer has been infected by a virus, worm, or other security threat to Yen’s system, you must inform the founders immediately.
+If you believe your computer has been infected by a virus, worm, or other security threat to YEN’s system, you must inform the founders immediately.
 
-Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the Yen network
+Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the YEN network
 
 #### Internet Use Is Not Private
 
