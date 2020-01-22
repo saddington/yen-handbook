@@ -13,8 +13,10 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 6. [Complaint Policy](https://github.com/yenio/handbook/blob/master/1-employment.md#complaint-policy)
 7. [Working Remotely](https://github.com/yenio/handbook/blob/master/1-employment.md#working-remotely)
 8. [Employee Privacy](https://github.com/yenio/handbook/blob/master/1-employment.md#employee-privacy)
-
-
+9. [Company Credit Card](#)
+10. [Wellness Stipend](#)
+11. [Relocation Costs Reimbursement](#)
+12. [Reasonable Work Schedule (40-Hours per Week)](#)
 
 
 
@@ -275,7 +277,7 @@ Paid time off of any kind, including Sabbatical, does not accrue additional paid
 
 
 
-## At-Will Employment Policy
+#### At-Will Employment Policy
 
 Your employment with the YEN is "AT WILL".  This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause.  
 
@@ -283,11 +285,11 @@ No one in the company other than the CEO has the authority to alter your at-will
 
 Feel free to connect with John if you have any questions.
 
-## Equal Opportunity Employment
+#### Equal Opportunity Employment
 
 PinPT INC is an Equal Opportunity Employer. The company supports diversity and inclusion in its core values and does not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by federal or state law or local ordinance. When necessary, the company will reasonably accommodate employees and applicants with disabilities if the person is otherwise qualified to safely perform all of the essential functions of the position.
 
-## Code of Conduct
+#### Code of Conduct
 
 This code of conduct applies to community members and YEN team members in all YEN communities online (including but not limited to Slack, support chat, the YEN Community Slack group, Twitter, Facebook, and other social networking services), in the YEN office, and at all events hosted by YEN.
 
@@ -301,7 +303,40 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).
 
-## Drug and Alcohol Policy
+#### Non-Disclosure Policy
+
+All information regarding YEN, its clients, products and services is to be held in the strictest confidence. You are prohibited from using or disclosing business or client information that is not generally available to the public either during employment or after separation of service from YEN. Any information learned or developed during the course of work is the property of YEN and is to be used solely for the benefit of YEN and its clients.
+
+The protection of confidential business information and trade secrets is vital to the interests and the success of YEN. Such confidential information includes, but is not limited to, the following examples:
+
+• Employee Information
+• Computer programs and codes
+• Client lists and/or preferences
+• Financial information
+• Legal affairs
+• Marketing strategies
+• New materials research
+• Pending projects and proposals
+• Software documentation
+• Business operations policies and procedures
+• Customer documentation and/or data
+
+Employees who improperly use or disclose trade secrets or confidential business information will be subject to disciplinary action, up to and including termination of employment and legal action, even if they do not actually or directly benefit from the disclosed information. Do not remove or disclose any confidential business information or trade secrets.
+
+#### Conflicts of Interest
+
+Employees have an obligation to conduct the Company’s business free from actual or potential conflicts of interest. Employees should not have, either directly or indirectly, any financial or other interest in any entity that is a supplier or client of the Company. Outside employment or professional service to any other company cannot affect one’s ability to work efficiently in discharging responsibilities to YEN or one’s ability to act in the best interests of the Company.
+
+No “presumption of guilt” is created by the mere existence of a relationship with an outside Company. However, if you have any influence on transactions involving purchases, contracts, or leases with such companies, it is imperative that you disclose such transactions to YEN’s Legal department as soon as possible. In this manner the Company can safeguard all parties against the existence of any actual or potential conflict of interest.
+
+The offer or acceptance of certain courtesies of nominal value, generally not to exceed $100.00, such as meals, entertainment or gifts may be acceptable as long as they do not affect the Company’s business relationship. However, unacceptable personal gain is realized when you or your relative has a significant ownership in a company with which YEN does business, or when you or your relative receives any kickback, bribe, substantial gift, or special consideration as a result of any transaction or business activity involving YEN.
+
+You are not permitted to give unauthorized gifts to suppliers, vendors or clients. However, you may give certain promotional items, such as coffee mugs or other items imprinted with the YEN logo or sales information, as appropriate.
+
+These guidelines establish only the framework within which YEN expects the business to be conducted. The purpose of these guidelines is to provide general direction so you can seek further clarification on issues related to acceptable standards of behavior and operation. Contact
+Su for more information or questions about conflicts of interest.
+
+#### Drug and Alcohol Policy
 
 Our priority at YEN is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at YEN feel safe.
 
@@ -311,7 +346,7 @@ Employees who violate this policy may face disciplinary action, up to and includ
 
 Illegal drugs should not be used, bought, sold, or distributed while at work, either in the office or outside of the office while representing YEN.
 
-## Complaint Policy
+#### Complaint Policy
 
 YEN is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
 
@@ -329,11 +364,58 @@ Currently, YEN is too small to have an internal group or department that can ind
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Working Remotely
 
 Currently we do not have a physical home office! This means that we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
 
 We wrote a [longer blog post](https://blog.yen.io/distributed-first/) about being a `Distributed-First` type of company.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -377,3 +459,210 @@ Employees may not share their email passwords with anyone, including coworkers o
 #### Internet Use Is Not Private
 
 We reserve the right to monitor employee use of the Internet at any time. You should not expect that your use of the Internet—including but not limited to the sites you visit, the amount of time you spend online, and the communications you have—will be private.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Company Credit Card
+
+All team members will receive a company card from Brex for incidentals in the course of work for YEN. **Exercise good hygiene here** and always be sure to text the picture of receipts for record keeping. There are no hard and fast rules on what is acceptable but any expense here should be in pursuit of your work at YEN.
+
+Examples:
+
+- Dropped your mouse and need a new one? Use the Brex!
+- Taking out a colleague for a meal to network and explain YEN? Use Brex.
+- Maybe you need a new laptop bag. Brex, use it.
+- Need to book a plane ticket or hotel for a YEN event? Brex.
+- Need a new notebook computer? Nope, check in with the team first.
+
+In general, when purchasing a good to use for business or an event supporting the business, you can use your Brex. If you want to support someone on a one time or recurring basis for a service, use your personal card to do so (gofundme, Patreon, etc).
+
+Direct any questions about this on Slack and we'll clarify!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Wellness Stipend
+
+Employees will receive a $500 per pay period wellness stipend as part of payroll paid through Gusto. This is our investment in everyone and our belief in healthy people.
+
+Use this at your discretion on anything wellness related (physical, mental, emotional, spiritual).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Relocation Costs Reimbursement
+
+Life happens, and we understand that a move can be disruptive and an ordeal, whether it’s short or long distance.
+
+We cover up to $5,000 in reimbursements moving-related costs.
+
+**Does the relocation have to be related to my role/work?**
+No, we’re committed to helping you do your best work wherever that may make sense for you. So we’ll cover moving expenses up to the cap no matter the reason.
+
+**Could I get an advance on my reimbursement?”**
+If you need an advance to cover a reimbursable cost, talk to [John](mailto:john@yen.io) to arrange it.
+
+**If I move multiple times, does the $5,000 amount reset every time?**
+No, it’s a $5,000 cap per employee during the lifetime of employment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Reasonable Work Schedule (40-Hours per Week)
+
+We believe that the way to be most productive (and happy!) is with a reasonable, balanced work schedule. Working long hours for long periods of time results in mental exhaustion and shoddy work that needs to be fixed later. For programmers, working long hours does not necessarily translate to more code written.
+
+Consequently, we believe that **40-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. In other words, we pay San Francisco-based salary for 40-hours of work a week. We think that's fair and we believe this also minimizes the chance of burnout.
+
+And remember: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at YEN should design their own schedule around their own balance of work and life. It should be sustainable and reasonable.
+
+When we have a "crunch period", usually around ship dates, you should be well-rested and caught up on your errands, so if you need to work longer days than usual for a week or two so that a release can get out the door on time, you won't be exhausted. Make regular time for your family and friends throughout the year so that crunch periods don't become a habit, and work doesn't become a death march. Feel free to rearrange your weekly schedule, for example, working slightly longer on Monday through Thursday and taking Friday afternoons off during the summer.
+
+There isn't a "right" or "wrong" way to do work, only an _aligned_ way that requires healthy communication and trust.
+
+Customer-facing employees may need to work more regular schedules to ensure that customers who call us receive a timely response. These employees, including support teams, etc., may be required to work specific hours so that we can answer tickets when they come in. In these cases we'll work with you to design a schedule of about 40 hours per week (although it might be slightly longer during crunch periods and slightly shorter otherwise). Some employees may be required to remain "on call" and available on short notice in case of certain extreme situations.
+
+All of this remains open to dialogue so that we can change the practices to suit our needs, especially as they change.
+

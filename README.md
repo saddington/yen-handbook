@@ -1,8 +1,6 @@
 # Our Company Handbook
 *A Collaborative Handbook for our Team & Community*
 
-[Last Updated: 01.22.2020]
-
 This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only a few pages to review (and update...)!
 
 This repository serves these purposes:
@@ -43,8 +41,11 @@ John // Chief Cartridge Blower
 1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
-4. [Employment](https://github.com/yenio/handbook/blob/master/1-employment.md)
-5. [Policy Changes](https://github.com/yenio/handbook#policy-changes)
+4. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
+5. [Cultural Quirks](#)
+6. 
+7. 
+9. [Policy Changes, Legal Stuff](https://github.com/yenio/handbook#policy-changes)
 
 
 
@@ -224,7 +225,7 @@ Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic
 
 
 
-## Policy Changes
+## Policy Changes and Legal Stuff
 *The only constant is change...*
 
 We want all of our policies to be living documents which can improve and change as we learn and grow as a company. This is how we'll propose and make changes to our policies.
@@ -237,9 +238,19 @@ Right now, we use the following tools to discuss the Handbook:
 
 
 
+#### Handbook Use, Policy
 
+This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This Handbook is not a contract, express or implied, guaranteeing employment for any specific duration.
 
+This Handbook is designed to familiarize employees with the employment policies of YEN. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by YEN to benefit its employees.
 
+No Employee Handbook can anticipate every circumstance or question about policy. As YEN continues to grow and as business needs, employment legislation and economic conditions change, YEN reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
+
+Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous YEN Employee Handbooks or other YEN policies, whether written or oral.
+
+Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between YEN and any of its employees. No person can enter into an employment contract with YEN for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
+
+The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at YEN’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “YEN”.
 
 
 
