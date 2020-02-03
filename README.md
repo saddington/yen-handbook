@@ -129,11 +129,11 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 ## Our Team
 
-#### John Saddington - Co-Founder / Engineering - [LinkedIn](https://www.linkedin.com/in/johnsaddington/)
+#### John Saddington - Co-Founder / Engineering - [@yenFTW](https://twitter.com/yenFTW)
 
-John was most recently co-founder of PinPoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and more). Prior to PinPoint he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and amateur vlogger.
+John was most recently co-founder of PinPoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Prior to PinPoint he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and amateur vlogger.
 
-#### W A - Head of Engineering - [Linkedin](#)
+#### W A - Engineering - [Linkedin](#)
 
 Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. Something something something something and something. 
 
