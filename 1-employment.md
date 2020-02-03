@@ -671,7 +671,7 @@ No, it’s a $5,000 cap per employee during the lifetime of employment.
 
 We believe that the way to be most productive (and happy!) is with a reasonable, balanced work schedule. Working long hours for long periods of time results in mental exhaustion and shoddy work that needs to be fixed later. For programmers, working long hours does not necessarily translate to more code written. 
 
-(Read John's quick thoughts on this [here](https://twitter.com/8BIT/status/1215721850501783553))
+(Read John's quick thoughts on this [here](https://twitter.com/8BIT/status/1215721850501783553).)
 
 Consequently, we believe that **40-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. In other words, we pay San Francisco-based salary for 40-hours of work a week. We think that's fair and we believe this also minimizes the chance of burnout.
 
