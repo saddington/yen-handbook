@@ -61,11 +61,12 @@ Need any gear and/or tech that wasn't covered in your onboarding? Ping John and 
 
 We currently use a number of different services to get our work done, including (but not limited to):
 
-1. Google Apps: For email, docs, and more
-2. Dropbox: For files and Dropbox Paper (internal communique)
-3. Gusto: For payroll and health benefits
+1. Google Apps: Email and Calendar
+2. Dropbox: Large files, branding docs, and more
+3. Gusto: Payroll and Health Benefits
 4. Slack: For general real-time and async communication
-4. GitHub: For building cool stuff
+5. GitHub: Building cool shit
+6. Notion: General documents and Investor Updates
 
 The goal for `Day Zero` is to give you access to _everything_ you need to get meaningful work done! But, we also  know that the first day can be overwhelming and we may not be able to get to it all—that's entirely okay as the next day is just as good.
 
@@ -83,7 +84,7 @@ If you qualify for [Health Benefits](#) then your enrollment period will start a
 
 Also, you may feel inclined to share the news of your new role @ YEN via social media and we'd love you to do that! We do not have any policies or rules around social media — use good judgment and you can always ask anyone on the team about public posts.
 
-But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/yenFTW), [YouTube](http://yen.show), a growing [newsletter](http://yen.buzz), and our team's [blog](http://blog.yen.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
+But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/yenFTW), [YouTube](http://yen.show), our early product-testing site ([Product Hunt](http://yensquad.com), a growing [newsletter](http://yen.buzz), and our team's [blog](http://blog.yen.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
 
 Finally, we'd love some feedback on the onboarding experience! Please email [John](mailto:john@yen.io) after the first 30, 60, and 90 days with any and all feedback! Let's make this the best experience possible for our new team members!
 
