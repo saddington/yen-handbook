@@ -80,6 +80,8 @@ Have a fun, relaxing, and enjoyable first day!
 
 We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a few meetings with team and a walkthrough of how the business operates currently, especially as we're still very small.
 
+We will also establish a `Weekly 1:1` which is a place for the employees to share their thoughts with leadership (@John). We follow [this model](https://a16z.com/2012/08/30/one-on-one/) closely — if you like providing an agenda, great! If not, no worries.
+
 If you qualify for [Health Benefits](#) then your enrollment period will start and you'll have only a few business days to make a decision - sooner rather than later! Ping John if you need anything or have questions.
 
 Also, you may feel inclined to share the news of your new role @ YEN via social media and we'd love you to do that! We do not have any policies or rules around social media — use good judgment and you can always ask anyone on the team about public posts.
