@@ -129,13 +129,19 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 ## Our Team
 
-#### John Saddington - Co-Founder / Engineering - [@yenFTW](https://twitter.com/yenFTW)
+#### John Saddington - Community - [@yenFTW](https://twitter.com/yenFTW)
 
-John was most recently co-founder of PinPoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Prior to PinPoint he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and amateur vlogger.
+John was most recently co-founder of PinPoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Prior to PinPoint he was a co-founder of The Iron Yard which was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, an open source product (acquired by WooThemes) and content company (acquired by WPEngine). He's a writer, dad, and amateur [filmmaker](http://yen.show).
 
 #### Willie Alberty - Engineering - [@walberty](https://twitter.com/walberty)
 
-Willie has been building web applications since almost the dawn of the World Wide Web: from the early days, using tools such as NCSA Mosaic, WebSTAR, and NetCloak/NetForms, to today, using cloud-powered application architectures, modern front-end frameworks, and a mobile-first mentality. Starting in the public K–12 education sector, he was recruited to work for Apple as a Senior Software Architect, ran his own consulting company building sophisticated web apps for corporate, non-profit, and educational organizations large and small, and most recently served as Director of Product Development for MIDAS Education. Willie oversees the Engineering organization at YEN, guiding product direction, mentoring and growing the development team, and ensuring our customers always have access to a fast, powerful, and reliable service. When not lurking behind the keyboard in his Lancaster, PA office, Willie enjoys swimming, photography, and playing board games with his wife and two sons.
+Willie has been building web applications since almost the dawn of the World Wide Web: From the early days, using tools such as NCSA Mosaic, WebSTAR, and NetCloak/NetForms, to today, using cloud-powered application architectures, modern front-end frameworks, and a mobile-first mentality. Starting in the public K–12 education sector, he was recruited to work for Apple as a Senior Software Architect, ran his own consulting company building sophisticated web apps for corporate, non-profit, and educational organizations large and small, and most recently served as Director of Product Development for MIDAS Education. 
+
+Willie oversees the Engineering organization at YEN, guiding product direction, mentoring and growing the development team, and ensuring our customers always have access to a fast, powerful, and reliable service. When not lurking behind the keyboard in his Lancaster, PA office, Willie enjoys swimming, photography, and playing board games with his wife and two sons.
+
+#### Andrew J. Mason - Storytelling - [@AndrewJMason](https://twitter.com/andrewjmason)
+
+Andrew is one of the best audio / video producers you’ve *_never_* heard of. John bought Andrew his first podcasting mic in 2009 and challenged him to give “this new thing called podcasting” a try. Since then, Andrew’s voice and production work has been featured on podcasts for major news outlets like Time, Wired, and Inc.com. He currently hosts & produces one of iTune's Top 100 Business podcasts: The “_Getting Things Done_” (GTD) show for David Allen Company. He also hosts & produces for WisdomDestinations.com. Andrew enjoys spending time with his wife, two boys, and 13 year old Dachsund named Harmony.
 
 #### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
 
