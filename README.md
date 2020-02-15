@@ -245,8 +245,10 @@ Here are a few things that aren't immediately obvious about us and our team.
 **Some terms you’ll see tossed around:**
 
 - `Yenizen` - Members of our amazing community
-- `Yeniverse` - What we're building as well as our community space
+- `Yeniverse` - What we're building AND how we describe our community
 - `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](https://yenicorn.com))
+- `yenSTRONG` - When one of our community members does something amazing and supportive of another `yenizen`.
+- `yenSQUAD` - An alternative way / loving way of talking about our community
 
 **My Meeting, My Notes**
 
