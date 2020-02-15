@@ -80,7 +80,19 @@ Have a fun, relaxing, and enjoyable first day!
 
 We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a few meetings with team and a walkthrough of how the business operates currently, especially as we're still very small.
 
-We will also establish a `Weekly 1:1` which is a place for the employees to share their thoughts with leadership (@John). We follow [this model](https://a16z.com/2012/08/30/one-on-one/) closely — if you like providing an agenda, great! If not, no worries.
+We will also establish a `Weekly 1:1` which is a place for the employees to share their thoughts with leadership (@John). We follow [this model](https://a16z.com/2012/08/30/one-on-one/) closely — if you like providing an agenda, great! If not, no worries. 
+
+Here is what the first few 1-on-1's will look like (and the most important question that I'm going to ask!):
+- Week 1: Is everything beginning to settle? What is missing from your work environment that isn't "working"? How do you feel about the process so far?
+- Week 2: Tell me more about your work history, the good times and the bad. How have your leaders behaved and how has that impacted you? And, most importantly, how can be more sensitive to your experiences?
+- Week 3: 
+- Week 4:
+- Week 5:
+- Week 6:
+- Week 7:
+- Week 8:
+
+(Hopefully these are helpful conversation topics / starters for us!)
 
 If you qualify for [Health Benefits](#) then your enrollment period will start and you'll have only a few business days to make a decision - sooner rather than later! Ping John if you need anything or have questions.
 

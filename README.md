@@ -152,11 +152,11 @@ According to myth and legend, our friend, The Yenicorn, was raised by a herd of 
 
 We're fortunate to have the financial support from the following (repeat!) venture firms:
 
-1. Cherubic VC — [X](https://cherubic.com/)
-2. Hustle Fund — [X](https://www.hustlefund.vc/)
-3. LINE Corp  — [X](https://lineventurescorp.com/en/)
-4. Sterling Road VC — [X](https://www.sterlingroad.com/)
-5. Service Provider Capital — [X](http://www.serviceprovidercapital.com/)
+1. [Cherubic VC](https://cherubic.com/)
+2. [Hustle Fund](https://www.hustlefund.vc/)
+3. [LINE Corp](https://lineventurescorp.com/en/)
+4. [Sterling Road VC](https://www.sterlingroad.com/)
+5. [Service Provider Capital](http://www.serviceprovidercapital.com/)
 
 We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
 
