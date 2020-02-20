@@ -102,9 +102,11 @@ But, community is **kind of a big deal** around these parts and being `engaged` 
 
 #### Your First 90 Days
 
-Onboarding takes time because building meaingful relationships take time. Building community takes time and that's what we're doing everytime we collectively say "Yes" to a new full-time employee! It means that we're committed to not just aligning around *what* you'll be working on but more importantly *how* you work, operater, and behave in our culture.
+Onboarding takes time because building meaningful relationships take time—anything meaningful _always_ takes time! Building community, especially, can take a lot of time, especially if you want to do it right. That's important to know because that's effectively what we're doing everytime we collectively say "Yes" to a new full-time employee! It means that we're committed to not just aligning around *what* you'll be working on but more importantly *how* you work, operate, and behave in our shared, evolving culture.
 
-Consequently, we do not expect any new employee to be "fully ramped up" before 90 days. John has written some further thoughts [here](https://john.do/explicit-expectations/).
+Consequently, we do not expect any new employee to be "fully ramped up" before 90 days. John has written some further thoughts [here](https://john.do/explicit-expectations/). 
+
+It's okay to give yourself the time necessary to get your bearings and get settled in properly. We only get to do this once, so let's do it right.
 
 #### We'd Love Your Feedback
 
