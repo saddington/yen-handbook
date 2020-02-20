@@ -100,6 +100,14 @@ Also, you may feel inclined to share the news of your new role @ YEN via social 
 
 But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/yenFTW), [YouTube](http://yen.show), our early product-testing site ([Product Hunt](http://yensquad.com), a growing [newsletter](http://yen.buzz), and our team's [blog](http://blog.yen.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
 
+#### Your First 90 Days
+
+Onboarding takes time because building meaingful relationships take time. Building community takes time and that's what we're doing everytime we collectively say "Yes" to a new full-time employee! It means that we're committed to not just aligning around *what* you'll be working on but more importantly *how* you work, operater, and behave in our culture.
+
+Consequently, we do not expect any new employee to be "fully ramped up" before 90 days. John has written some further thoughts [here](https://john.do/explicit-expectations/).
+
+#### We'd Love Your Feedback
+
 Finally, we'd love some feedback on the onboarding experience! Please email [John](mailto:john@yen.io) after the first 30, 60, and 90 days with any and all feedback! Let's make this the best experience possible for our new team members!
 
 
