@@ -86,7 +86,7 @@ Here is what the first few 1-on-1's will look like (and the most important quest
 - Week 1: Is everything beginning to settle? What is missing from your work environment that isn't "working"? How do you feel about the process so far?
 - Week 2: Tell me more about your previous experience with managers and leaders — tell me what you've appreciated and what worked (and tell me everything that you thought didn't!). How have your leaders behaved and how has that impacted you? And, most importantly, how can be _more_ sensitive to your past experiences?
 - Week 3: This is expectations have crashed into reality! Let's talk about the `deltas` in what you expected our culture and operations to be and what you've **really** experienced in the first few weeks! What's the biggest surprise?
-- Week 4:
+- Week 4: A common question that you'll hear folks say around these parts is this: "Is there **anything** that you're not proud of?" Oftentimes, this question, when answered honestly, is all that we need to make small tweaks for better culture and operational efficiency!
 - Week 5:
 - Week 6:
 - Week 7:
