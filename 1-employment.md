@@ -88,7 +88,7 @@ Here is what the first few 1-on-1's will look like (and the most important quest
 - Week 3: This is expectations have crashed into reality! Let's talk about the `deltas` in what you expected our culture and operations to be and what you've **really** experienced in the first few weeks! What's the biggest surprise?
 - Week 4: A common question that you'll hear folks say around these parts is this: "Is there **anything** that you're not proud of?" Oftentimes, this question, when answered honestly, is all that we need to make small tweaks for better culture and operational efficiency!
 - Week 5: It's been more than a month! Congrats! That's kind of a big deal! You've survived and you know a thing (or two) about how we really operate. Let's chat about the first month in broad-terms (we can dive into specifics of course)!
-- Week 6:
+- Week 6: It's time to start thinking about taking a bit of time off! It's been a very full month of work and onboarding into a new organization is hard, _always_. So, let's talk about taking a break, shall we? For you and the team!
 - Week 7:
 - Week 8:
 
