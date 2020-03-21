@@ -131,7 +131,7 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 #### John Saddington - Community - [@yenFTW](https://twitter.com/yenFTW)
 
-John was most recently co-founder of Pinpoint, an engineering analytics copmany in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Previously, he was a co-founder of The Iron Yard, the largest coding bootcamp before it was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, which was both an open source product (acquired by WooThemes) and a content company (acquired by WPEngine). He's a writer, dad, and amateur [filmmaker](http://yen.show).
+John was most recently co-founder of Pinpoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Previously, he was a co-founder of The Iron Yard, the largest coding bootcamp before it was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, which was both an open source product (acquired by WooThemes) and a content company (acquired by WPEngine). He's a writer, dad, and amateur [filmmaker](http://yen.show).
 
 #### Willie Alberty - Engineering - [@walberty](https://twitter.com/walberty)
 
