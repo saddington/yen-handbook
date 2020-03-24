@@ -89,7 +89,7 @@ Here is what the first few 1-on-1's will look like (and the most important quest
 - Week 4: A common question that you'll hear folks say around these parts is this: "Is there **anything** that you're not proud of?" Oftentimes, this question, when answered honestly, is all that we need to make small tweaks for better culture and operational efficiency!
 - Week 5: It's been more than a month! Congrats! That's kind of a big deal! You've survived and you know a thing (or two) about how we really operate. Let's chat about the first month in broad-terms (we can dive into specifics of course)!
 - Week 6: It's time to start thinking about taking a bit of time off! It's been a very full month of work and onboarding into a new organization is hard, _always_. So, let's talk about taking a break, shall we? For you and the team!
-- Week 7:
+- Week 7: Let's take another opportunity to talk about the gap between what you expected and how it matches up with our [operating virtues](https://github.com/yenio/handbook#operating-virtues). Are we aligned or off the mark? Let's chat about that!
 - Week 8:
 
 (Hopefully these are helpful conversation topics / starters for us!)
