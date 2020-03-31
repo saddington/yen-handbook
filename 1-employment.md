@@ -65,7 +65,7 @@ We currently use a number of different services to get our work done, including 
 2. Dropbox: Large files, branding docs, and more
 3. Gusto: Payroll and Health Benefits
 4. Slack: For general real-time and async communication
-5. GitHub: Building cool shit
+5. GitHub: Building cool stuff
 6. Notion: General documents and Investor Updates
 
 The goal for `Day Zero` is to give you access to _everything_ you need to get meaningful work done! But, we also  know that the first day can be overwhelming and we may not be able to get to it all—that's entirely okay as the next day is just as good.
