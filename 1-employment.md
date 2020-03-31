@@ -98,7 +98,7 @@ If you qualify for [Health Benefits](#) then your enrollment period will start a
 
 Also, you may feel inclined to share the news of your new role @ YEN via social media and we'd love you to do that! We do not have any policies or rules around social media — use good judgment and you can always ask anyone on the team about public posts.
 
-But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/yenFTW), [YouTube](http://yen.show), ([Indie Hackers](http://yensquad.com), and our team's [blog](http://blog.yen.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
+But, community is **kind of a big deal** around these parts and being `engaged` is important to everyone's success. We're currently active on [Twitter](https://twitter.com/yenFTW), [YouTube](http://yen.show), [Indie Hackers](http://yensquad.com), and our [blog](http://blog.yen.io). If there is a singular, guiding principle it would be this: Get to know our community, intimately, as they are our _everything_ and we're nothing without them!
 
 #### Your First 90 Days
 
