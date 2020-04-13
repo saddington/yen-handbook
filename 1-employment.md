@@ -92,6 +92,7 @@ Here is what the first few 1-on-1's will look like (and the most important quest
 - Week 7: Let's take another opportunity to talk about the gap between what you expected and how it matches up with our [operating virtues](https://github.com/yenio/handbook#operating-virtues). Are we aligned or off the mark? Let's chat about that!
 - Week 8: We've gotten to know each other and it's my hope that you trust us enough to tell us how you feel. So, how's it been and what areas do we need to improve? Hit us with the really-real.
 - Week 9:
+- Week 10:
 
 (Hopefully these are helpful conversation topics / starters for us!)
 
