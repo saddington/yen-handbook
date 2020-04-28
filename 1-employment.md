@@ -167,6 +167,7 @@ Keeping you one-hundred (or as close as we can).
 5. [Paid Family, Parent Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#pregnancy-disability-leave)
 6. [Other Protected Absences](https://github.com/yenio/handbook/blob/master/1-employment.md#other-protected-absences)
 7. [Sabbatical](https://github.com/yenio/handbook/blob/master/1-employment.md#sabbatical)
+8. [Life Insurance](https://github.com/yenio/handbook/blob/master/1-employment.md#life-insurance)
 
 
 
@@ -277,6 +278,9 @@ There is an expectation that employees return to work at YEN after their sabbati
 
 Paid time off of any kind, including Sabbatical, does not accrue additional paid time off in the form of vacation days, sick days, or time towards sabbatical. For instance, an employee who has accrued 3 sick days before taking a 12 week sabbatical will still have 3 available sick days when they return.
 
+## Life Insurance
+
+We've opted-in to `$50,000` of Life Insurance for all of our eligible employees! You can read more about the full program [here](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/guardian/plans/2015/guardian_ca_guardian_em_life_1f.pdf) via Guardian Life.
 
 
 
