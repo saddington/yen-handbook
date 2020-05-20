@@ -64,7 +64,7 @@ We currently use a number of different services to get our work done, including 
 1. Google Apps: Email and Calendar
 2. Dropbox: Large files, branding docs, and more
 3. Gusto: Payroll and Health Benefits
-4. Slack: For general real-time and async communication
+4. YEN Chat: Real-time & async communication
 5. GitHub: Building cool stuff
 6. Notion: General documents and Investor Updates
 
