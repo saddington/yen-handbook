@@ -188,19 +188,19 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 ## Our Story
 
-It all started in 2016 as a small, personal challenge: I ([John](http://twitter.com/8bit/)) wanted to try my hand at a `daily vlog`, uploading _at least_ one YouTube video every day for an entire year. It was hard af and, to make a very long story short, I was able to finish the project but only with my brother's ([Peter](http://twitter.com/agilepeter)) help: He provided a ton of accountability, inspiration, and encouragement so that I could make it to the end.
+Born out of the ashes of two pivots over two+ years, YEN's story begins anew in 2020 as we double-down on our mission to solve an existential problem for all startup founders: Survival.
 
-And... it worked! Just not in the way that I had planned or expected. You see, while my personal channel was growing by a few subscribers _every other day_, my brother's channel was winning new followers _every few minutes_ (he crossed 1,000 subs in < week)! Needless to say, we both felt like we were on to something exciting.
+More specifically, to survive the early stages of product and customer development, they must quickly build a `community` around their project and business before it dies from lack of attention (and eventually revenue).
 
-Starting in `#defi`, we built a number of digital products including educational websites, web and native apps, and most importantly a **passionate community** that kept us hungry, encouraged, and plugged-in to their needs. Our momentum helped us raise 2 rounds of venture funding which, in turn, allowed us to add much-needed internal community members (i.e. staff). 
+Even more, they need a community to help them build and refine their product through a fluid communication workflow that quickly captures customer feedback, ultimately informing product design as they march toward product-market fit.
 
-Our last pivot in [Q4 of 2019](https://blog.yen.io/yen30/) was the most dramatic, taking everything we learned in the first few years and applying them smartly to the next evolution of our product and company as we explore the potential and power of `community` and `community data` for businesses of all shapes and sizes!
+We have that problem just like our customers and community has that problem... so that's what we're aiming to solve: **YEN helps founders launch a branded community platform in just a few clicks.**
 
+Unlike other solutions that can take a lot of time to properly setup and install, we bring your community to you, right on your own website, zero configuration required.
 
+Built for speed, we help creators connect with their customers, monetize their projects and know-how, and build a community they can be super-proud of.
 
-
-
-
+We are currently test-driving the mvp in our own business-building community.
 
 
 
