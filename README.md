@@ -133,11 +133,9 @@ Otherwise, you should #tatt, providing all the above data and informing the team
 
 John was most recently co-founder of Pinpoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Previously, he was a co-founder of The Iron Yard, the largest coding bootcamp before it was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, which was both an open source product (acquired by WooThemes) and a content company (acquired by WPEngine). He's [a](https://ceobrain.substack.com/) [writer](https://john.do), dad, and amateur [filmmaker](http://yen.show).
 
-#### Willie Alberty - Engineering - [@walberty](https://twitter.com/walberty)
+#### Agata Bergstrom - Engineering - [LinkedIn](https://www.linkedin.com/in/agatabergstrom)
 
-Willie has been building web applications since almost the dawn of the World Wide Web: From the early days, using tools such as NCSA Mosaic, WebSTAR, and NetCloak/NetForms, to today, using cloud-powered application architectures, modern front-end frameworks, and a mobile-first mentality. Starting in the public K–12 education sector, he was recruited to work for Apple as a Senior Software Architect, ran his own consulting company building sophisticated web apps for corporate, non-profit, and educational organizations large and small, and most recently served as Director of Product Development for MIDAS Education. 
-
-Willie oversees the Engineering organization at YEN, guiding product direction, mentoring and growing the development team, and ensuring our customers always have access to a fast, powerful, and reliable service. When not lurking behind the keyboard in his Lancaster, PA office, Willie enjoys swimming, photography, and playing board games with his wife and two sons.
+Agata has 13 years of professional experience coding as well as interviewing engineers and making hiring decisions for a top 5% talent company. Experience as an engineer facing customers directly, responsible for customer experience and communication with non-technical people.
 
 #### Andrew J. Mason - Storytelling - [@AndrewJMason](https://twitter.com/andrewjmason)
 
