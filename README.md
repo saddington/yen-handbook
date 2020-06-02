@@ -43,6 +43,7 @@ John // Chief Cartridge Blower
 3. [Our Story](https://github.com/yenio/handbook#our-story)
 4. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
 5. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
+6. [Tools We Use](https://github.com/yenio/handbook/blob/master/3-tools.md)
 9. [Policy Changes, Legal Stuff](https://github.com/yenio/handbook#policy-changes-and-legal-stuff)
 
 
@@ -188,13 +189,13 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 ## Our Story
 
-Born out of the ashes of two pivots over two+ years, YEN's story begins anew in 2020 as we double-down on our mission to solve an existential problem for all startup founders: Survival.
+Born out of the ashes of two pivots over two+ years, YEN's story begins anew in 2020 as we double-down on our mission to solve an existential problem for all startup founders: **Survival**.
 
-More specifically, to survive the early stages of product and customer development, they must quickly build a `community` around their project and business before it dies from lack of attention (and eventually revenue).
+More specifically, business builders must quickly build a `community` around their project before it dies from lack of attention and revenue (customers)! And, without a community, founders won't have the necessary feedback that they need to build and iterate on their product as they march towards product-market fit.
 
-Even more, they need a community to help them build and refine their product through a fluid communication workflow that quickly captures customer feedback, ultimately informing product design as they march toward product-market fit.
+Simply put, `founders need community around their new project, fast`. 
 
-We have that problem just like our customers and community has that problem... so that's what we're aiming to solve: **YEN helps founders launch a branded community platform in just a few clicks.**
+That's what we're building... that's our mission: **YEN helps founders launch a branded community platform in just a few clicks.**
 
 Unlike other solutions that can take a lot of time to properly setup and install, we bring your community to you, right on your own website, zero configuration required.
 
@@ -247,6 +248,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 - `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](https://yenicorn.com))
 - `yenSTRONG` - When one of our community members does something amazing and supportive of another `yenizen`.
 - `yenSQUAD` - An alternative way / loving way of talking about our community
+- `yenIVERSITY` — Any of our educational courses or [workshops](http://yen.education).
 
 **My Meeting, My Notes**
 
