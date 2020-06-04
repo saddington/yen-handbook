@@ -4,6 +4,8 @@ I'm capturing content and work around our project for later use.
 
 **All of this is WIP (Work in Progress) and none of this represents any of our business or product atm!**
 
+---
+
 ### What is the guideline/sniff test we'll use for every product/design decision?
 
 The `how` may come in different forms and levels of detail, but we'll have a baseline **YEN Promise** we will adhere to in making decisions that impact our users.
@@ -39,6 +41,79 @@ We know what it's like to be "surprised" when an app that you love *suddenly* ch
 - We promise to lean every decision into building and growing healthy communities
 - We promise to do our utmost in being a pro team with a pro product represent YEN well.    
 
+
+---
+
+
+# How Engineering Works
+
+Wrote this early in 2020... but, not fully representative of where we're at atm...
+
+## Guiding Principles
+
+- pragmatic, not precious: use the right tool for the job, even if it's not the hot new thing
+- ability to recruit talent is important: balance pragmatism with industry trends. for example, we *could* build our product in Java, but there aren't tons of new Java developers flooding the market, so while that might be a sound technical choice, it's not a good business choice
+- bleeding-edge tech can cause you to bleed to death. approach new or "sexy" tech with extreme caution
+- scalability is critical: our products traverse social graphs, which contain massive amounts of data. approach all designs with horizontal scaling in mind from day one
+- stability is paramount: our users rely on our service to run their businesses. we must always provide a predictable and reliable service, or those users will find someone else that does
+- communication makes it all possible: as a distributed team, it can be easy to intentionally or even unintentionally isolate yourself… don't be an island, and don't disappear. If you get stuck, ask questions. If you need to flesh out ideas, ask questions. If you're not in a good head space, talk to somebody.
+    - balance distraction modes: utilize Slack presence status to say when you're heads down
+    - Slack is inherently asynchronous; don't expect immediate replies and don't demand immediate replies unless absolutely necessary. and when it is, use `@` with great discretion
+
+## Product Architecture
+
+- JavaScript (TypeScript) on both front- and back-end, allowing our entire team to generalize or specialize as needed
+- Front-end: React + Bootstrap
+- Back-end: Node.js + Express; server-side-rendered (SSR) React is TBD, but likely
+- Persistence: tbd based on the data we need to collect. initially a relational database, either MySQL or PostgreSQL. likely to be multi-faceted
+- HIGHLY service-oriented: most/all of the back-end code implementes API endpoints (REST + GraphQL) called by the UI; *everything else* lives in the UI layer. this forces us to build our service as a patform from the beginning. intially, we will be the only client of the platform, but that will change over time.
+- App lives… not sure yet. Probably on Digital Ocean at first. Later maybe at AWS, GCS, Azure, etc.
+
+## DevOps Infrastructure
+
+- Code, issue tracking, and CI/CD lives on Github
+- Mix of public and private projects
+    - Public: policies, procedures, high-level design documents (design in the open!)
+    - Private: actual source code (the secret sauce!), issue tracker, deployment architecture, API docs (for now, at least), etc.
+    - General idea is to share as much as is shareable, but protect the sensitive ops and IP required to operate a healthy and sustainable business
+- Git + Gitflow workflow. Branches rule the day — committing directly to master is simply not allowed — and peer-reviewed pull requests are required
+- All back-end code must be accompanied by unit tests covering public interfaces (private interfaces are implementation details) utilizing Jest
+- Test suite is automated and built into PR workflow. No PR may be approved that causes a regression or decreases test coverage.
+- Front-end code should be testable too, but level is being evaluated. Currently leaning more towards Cypress for end-to-end tests of the actual interface over unit/integration-level testing of individual components (using something like react-testing-library).
+
+## Engineering Workflow
+
+- We work on a two-week sprint cycle
+- Sprints start on Wednesdays with a planning meeting, just after lunch. All stakeholders sit together and hash out the scope of the next sprint until it's done. Sometimes this takes 30 minutes, sometimes 3 hours.
+- Nobody leaves until *everybody's* roles and responsibilities are defined: we all know what each other is doing for the next two weeks when the meeting is over.
+- Everything agreed to must be achievable in the two-week cycle. Sometimes we may be working on huge projects. In those cases, we still define some subset for the sprint, even if not customer-facing.
+- Every sprint must contain at least one customer-facing thing: we ship *something* to customers every two weeks, full stop. What and how big that is can vary, but the predictability of receiving something new to review and explore every two weeks like clockwork is a critical component of maintaining a vibrant and engaged community. It also develops trust: we tell customers we're going to do something, and we do it, and we do it again, and again, and again. ✅
+- Code starts Thursday. High-level scaffolding, experiments, what-if's, etc.
+- As a team we will do daily checkins. While the team is very small, we'll probably stick to text-only updates in Slack. As the team grows, we may introduce a regular video standup.
+- And then we have a forced break over the weekend. This is not intended to interrupt flow. On the contrary, this gives all of that initial high-level thinking and experimentation time to marinate — it's the subconcious' mind's turn to play.
+- The following Monday is full steam ahead on finish, fit, and polish, continuing through the end of the week. Development should be concluded, tested, and PRs opened and reviewed by the end of the day Friday.
+- And then another forced break: recover, reflect, let the subconcious mind marinate again hunting for the "oh shit!" moments.
+- The next Monday morning begins formal QA cycle with full deployments to staging environment.
+- Everybody tests. Everything. New bugs or regressions are identified and fixed immediately.
+- Tuesday continues bug fixing if necessary. If things can't be fixed by midday Tuesday, the rest of the day is for scaling/pulling back broken features so the GA release is solid.
+- Monday/Tuesday also for documentation, release notes, communication with Marketing so they can get customers excited for GA release.
+- Wednesday morning is GA release to production enviroments. Marketing push to get customers excited. Monitoring of production to make sure we didn't break anything.
+- We all break for lunch, then we start again.
+- Sometimes we'll finish a sprint early. That's a good thing! When that happens, we don't usually go back and expand the scope. The extra time we've created we use to assist other team members, explore new tech, work on devops improvements, make better documentation, try something unusual, etc.
+
+## Progress and Reflection
+
+- Try to be committing and pushing your work to your feature branches at least daily. This helps others see what's changing, which can often help to head off bugs or design issues before they get too far gone. We don't ever want PRs to be surprising.
+- Once daily, take a screenshot of something that you're working on — could be a UI screenshot, some visualization of a backend service, excerpt from a design doc or *brief* snippet of *safe* source code, interesting chatter on Slack, etc. — and paste it into the #idtgatt channel on Slack. This helps keep our own internal community informed and engaged, and we will ocassionally share bits with the external community too.
+- Every Friday, before you leave, take no more than 15-20 minutes and write up a brief summary/retrospective of what you worked on, what you learned, challenges you faced, etc. and post those to the #idtgatt in Slack as well. In addition to the benefits described above for the screenshots, these retrospectives will help document our story: where we came from, how we grew, and what we achieved.
+
+## Development Standards
+
+- Coding standards: we use Prettier. done
+- Documentation: self-explanatory code is good. documentation for that code is better, and can be extracted, made visible in IDEs, etc.
+
+
+---
 
 
 
