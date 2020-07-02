@@ -5,7 +5,7 @@ Here's a list of the tools and services that we `currently` use as a business:
 1. Google Suite (Gmail, Calendar)
 2. Notion
 3. QuickBooks
-4. Sandbox Suites
+4. Anytime Mailbox
 5. Adobe Systems
 6. Mailgun
 7. PayPal
@@ -29,3 +29,6 @@ Here's a list of the tools and services that we `currently` use as a business:
 25. 1Password
 26. Canva
 27. Gumroad
+28. Mercury Bank
+29. Silicon Valley Bank
+30. CTCorporation
