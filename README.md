@@ -240,6 +240,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 - YEN (all caps) is not an acronym.
 - You’ll also see accounts under [yen.io](http://yen.io) or `yenio` or `yenFTW` or `yen_io` (sometimes we couldn’t get just YEN)
 - If "YEN" is combined with another word, it's not capitalized (e.g. `YenIQ`)
+- You can find our `brand` guidelines [here](https://john.do/brand-2019/). It is outdated, copy-wise, but the colors and other identifying marks are correct.
 
 **Some terms you’ll see tossed around:**
 
