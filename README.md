@@ -142,10 +142,13 @@ Agata wrote her first lines of code when she was 9 years old. Won the Math Olymp
 
 Andrew is one of the best audio / video producers you’ve *_never_* heard of. John bought Andrew his first podcasting mic in 2009 and challenged him to give “this new thing called podcasting” a try. Since then, Andrew’s voice and production work has been featured on podcasts for major news outlets like Time, Wired, and Inc.com. He currently hosts & produces one of iTune's Top 100 Business podcasts: The “_Getting Things Done_” (GTD) show for David Allen Company. He also hosts & produces for WisdomDestinations.com. Andrew enjoys spending time with his wife, two boys, and 13 year old Dachsund named Harmony.
 
+#### Ben Paine - Product Design - [@bnpneio](https://twitter.com/bnpneio)
+
+Ben is a generalist who emphasises on Design and Development. Curiosity and a nag for learning drives Ben to be creative and different from other developers. Currently, Ben is completing a BS in Computer Science while living in Southern California. Ben enjoys sci-fi, epic fantasy books, chess, and going out with his wife.
+
 #### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
 
 According to myth and legend, our friend, The Yenicorn, was raised by a herd of Japanese unicorns in a mysterious other worldly… … world. She knows (as prophecy has foretold) that she has a very important part to play in the cryptocurrency community but is understandably a bit nervous and often lacks a bit of self-confidence (thus the helmet)  – but she wants to help people and do her very best!
-
 
 #### Venture Capital Firms
 
