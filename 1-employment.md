@@ -16,7 +16,7 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 9. [Company Credit Card](https://github.com/yenio/handbook/blob/master/1-employment.md#company-credit-card)
 10. [Wellness Stipend](https://github.com/yenio/handbook/blob/master/1-employment.md#wellness-stipend)
 11. [Relocation Costs Reimbursement](https://github.com/yenio/handbook/blob/master/1-employment.md#relocation-costs-reimbursement)
-12. [Reasonable Work Schedule (40-Hours per Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#reasonable-work-schedule-40-hours-per-week)
+12. [Reasonable Work Schedule (45-Hours per Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#reasonable-work-schedule-45-hours-per-week)
 13. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/yenio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
 14. [Leaving the Company](https://github.com/yenio/handbook/blob/master/1-employment.md#leaving-the-company)
 
@@ -698,21 +698,21 @@ No, it’s a $5,000 cap per employee during the lifetime of employment.
 
 
 
-## Reasonable Work Schedule (40-Hours per Week)
+## Reasonable Work Schedule (45-Hours per Week)
 
 We believe that the way to be most productive (and happy!) is with a reasonable, balanced work schedule. Working long hours for long periods of time results in mental exhaustion and shoddy work that needs to be fixed later. For programmers, working long hours does not necessarily translate to more code written. 
 
-(Read John's quick thoughts on this [here](https://twitter.com/8BIT/status/1215721850501783553).)
+Consequently, we believe that **45-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. As an example, if you join as a "full-time" member of our team we will compensate you for 45-hours of work a week. We won't (secretly) expect more than that as we believe this also minimizes the chance of burnout.
 
-Consequently, we believe that **40-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. In other words, we pay San Francisco-based salary for 40-hours of work a week. We think that's fair and we believe this also minimizes the chance of burnout.
+And remember: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at YEN should design their own schedule around their own balance of work and life. It should be sustainable, reasonable, and enjoyable.
 
-And remember: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at YEN should design their own schedule around their own balance of work and life. It should be sustainable and reasonable.
+When we have a "crunch period", usually around ship dates, you should be well-rested and caught up on your errands, so if you need to work longer days than usual for a week or two so that a release can get out the door on time, you won't be exhausted. If we do our jobs right, we should minimize the number of times that we have to, collectively, experience these moments. Life (and shit) happens, so, we all know that sometimes this is unavoidable. My (John) commitment as your leader is to ensure that this isn't chronic or a systemic issue.
 
-When we have a "crunch period", usually around ship dates, you should be well-rested and caught up on your errands, so if you need to work longer days than usual for a week or two so that a release can get out the door on time, you won't be exhausted. Make regular time for your family and friends throughout the year so that crunch periods don't become a habit, and work doesn't become a death march. Feel free to rearrange your weekly schedule, for example, working slightly longer on Monday through Thursday and taking Friday afternoons off during the summer.
+Regardless, make regular time for your family and friends throughout the year so that crunch periods don't become a habit making work feel like a "death march". Feel free to rearrange your weekly schedule, for example, working slightly longer on Monday through Thursday and taking Friday afternoons off during the summer.
 
-There isn't a "right" or "wrong" way to do work, only an _aligned_ way that requires healthy communication and trust.
+Of course, `#tatt` and make sure you're communicating to the team at all times. There isn't a "right" or "wrong" way to do work, only an _aligned_ way that requires healthy communication and trust.
 
-Customer-facing employees may need to work more regular schedules to ensure that customers who call us receive a timely response. These employees, including support teams, etc., may be required to work specific hours so that we can answer tickets when they come in. In these cases we'll work with you to design a schedule of about 40 hours per week (although it might be slightly longer during crunch periods and slightly shorter otherwise). Some employees may be required to remain "on call" and available on short notice in case of certain extreme situations.
+Customer-facing employees may need to work more regular schedules to ensure that customers who call us receive a timely response. These employees, including support teams, etc., may be required to work specific hours so that we can answer tickets when they come in. In these cases we'll work with you to design a schedule of about 45 hours per week (although it might be slightly longer during crunch periods and slightly shorter otherwise). Some employees may be required to remain "on call" and available on short notice in case of certain extreme situations.
 
 All of this remains open to dialogue so that we can change the practices to suit our needs, especially as they change.
 
