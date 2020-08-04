@@ -146,6 +146,10 @@ Andrew is one of the best audio / video producers you’ve *_never_* heard of. J
 
 Ben is a generalist who emphasises on Design and Development. Curiosity and a nag for learning drives Ben to be creative and different from other developers. Currently, Ben is completing a BS in Computer Science while living in Southern California. Ben enjoys sci-fi, epic fantasy books, chess, and going out with his wife.
 
+#### Eugene Zaretskiy - Engineering - [GitHub](https://github.com/EugeneZ)
+
+Eugene has been programming for a long time (not well for most of it). He got addicted to Javascript after discovering MooTools in 2007. He is fascinated by functional programming but too scared to commit fully to Elm. In his spare time, he plays indie video games (currently addicted to [Slay the Spire](https://www.megacrit.com/)), board games (favorite board game is [Vlaada Chvatil's Mage Knight](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)), and books (favorite author is the late [Gene Wolfe](https://www.goodreads.com/author/show/23069.Gene_Wolfe)).
+
 #### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
 
 According to myth and legend, our friend, The Yenicorn, was raised by a herd of Japanese unicorns in a mysterious other worldly… … world. She knows (as prophecy has foretold) that she has a very important part to play in the cryptocurrency community but is understandably a bit nervous and often lacks a bit of self-confidence (thus the helmet)  – but she wants to help people and do her very best!
