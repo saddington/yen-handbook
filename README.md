@@ -142,10 +142,6 @@ Agata wrote her first lines of code when she was 9 years old. Won the Math Olymp
 
 Andrew is one of the best audio / video producers you’ve *_never_* heard of. John bought Andrew his first podcasting mic in 2009 and challenged him to give “this new thing called podcasting” a try. Since then, Andrew’s voice and production work has been featured on podcasts for major news outlets like Time, Wired, and Inc.com. He currently hosts & produces one of iTune's Top 100 Business podcasts: The “_Getting Things Done_” (GTD) show for David Allen Company. He also hosts & produces for WisdomDestinations.com. Andrew enjoys spending time with his wife, two boys, and 13 year old Dachsund named Harmony.
 
-#### Ben Paine - Product Design - [@bnpneio](https://twitter.com/bnpneio)
-
-Ben is a generalist who emphasises on Design and Development. Curiosity and a nag for learning drives Ben to be creative and different from other developers. Currently, Ben is completing a BS in Computer Science while living in Southern California. Ben enjoys sci-fi, epic fantasy books, chess, and going out with his wife.
-
 #### Eugene Zaretskiy - Engineering - [GitHub](https://github.com/EugeneZ)
 
 Eugene has been programming for a long time (not well for most of it). He got addicted to Javascript after discovering MooTools in 2007. He is fascinated by functional programming but too scared to commit fully to Elm. In his spare time, he plays indie video games (currently addicted to [Slay the Spire](https://www.megacrit.com/)), board games (favorite board game is [Vlaada Chvatil's Mage Knight](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)), and books (favorite author is the late [Gene Wolfe](https://www.goodreads.com/author/show/23069.Gene_Wolfe)).
