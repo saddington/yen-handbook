@@ -17,8 +17,9 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 10. [Wellness Stipend](https://github.com/yenio/handbook/blob/master/1-employment.md#wellness-stipend)
 11. [Relocation Costs Reimbursement](https://github.com/yenio/handbook/blob/master/1-employment.md#relocation-costs-reimbursement)
 12. [Reasonable Work Schedule (45-Hours per Week)](https://github.com/yenio/handbook/blob/master/1-employment.md#reasonable-work-schedule-45-hours-per-week)
-13. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/yenio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
-14. [Leaving the Company](https://github.com/yenio/handbook/blob/master/1-employment.md#leaving-the-company)
+13. [Distributed-First Culture, Async Team Communication](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication)
+14. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/yenio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
+15. [Leaving the Company](https://github.com/yenio/handbook/blob/master/1-employment.md#leaving-the-company)
 
 
 
