@@ -606,7 +606,7 @@ Direct any questions about this on Slack and we'll clarify!
 
 ## Wellness Stipend
 
-Employees will receive a $500 per pay period wellness stipend as part of payroll paid through Gusto. This is our investment in everyone and our belief in healthy people.
+Full-time employees will receive a $500 per pay period wellness stipend as part of payroll paid through Gusto. This is our investment in everyone and our belief in healthy people.
 
 Use this at your discretion on anything wellness related (physical, mental, emotional, spiritual).
 
@@ -724,7 +724,17 @@ All of this remains open to dialogue so that we can change the practices to suit
 
 
 
+## Distributed-First, Async Team Communication
 
+Closely related to working a [reasonable schedule](https://github.com/yenio/handbook/blob/master/1-employment.md#reasonable-work-schedule-45-hours-per-week) is the fact that we're a [distributed-first](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999) company. John has shared a [few important thoughts](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999) on what this means and it's important that every team member not only understands our culture but can also operate well in this type of environment.
+
+One of the more obvious (and felt) cultural elements is our communication style and cadence, which is `asynchronous`. This means that you may not get an **immediate** response from someone when you ping them in our communication tool — you may have to wait up to `24 hours` for a response! We don't see this as necessarily a downside but it is a tradeoff that we've made to accomodate our distributed-first culture.
+
+The way we solve for major issues or critical `blockers` is that we share our phone #'s with one another for a faster response, but, this is rare and the exception. Instead, we suggest you get as much done as you can (up to the point of being "blocked"), ping the person explicitly and directly as to what you need help with, and then take the rest of the day off or go work on something else — we leave that decision to you.
+
+One thing that we've come to realize is that most things do not actually require *immediate* attention and that time to process and/or digest the issue or problem can provide a healthier and more objective perspective.
+
+Some roles, like `customer support` and more community-facing roles will have more explicit times of coverage, but, this is a different matter than team-centric communication and will be decided for each role as-needed.
 
 
 
