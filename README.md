@@ -79,7 +79,7 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 >
 >The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
 
-Consequently, here are our current `operating virtues` (taken from our [blog](https://blog.yen.io/day-one/)):
+Consequently, here are our current `operating virtues` (taken from our [blog](https://john.do/day-one/)):
 
 
 ### 1. Table All The Things — `#tatt`
