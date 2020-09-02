@@ -607,7 +607,7 @@ Direct any questions about this on Slack and we'll clarify!
 
 ## Wellness Stipend
 
-Full-time employees will receive a $500 per pay period wellness stipend as part of payroll paid through Gusto. This is our investment in everyone and our belief in healthy people.
+Full-time employees will receive a $100 per pay period wellness stipend as part of payroll paid through Gusto. This is our investment in everyone and our belief in healthy people.
 
 Use this at your discretion on anything wellness related (physical, mental, emotional, spiritual).
 
