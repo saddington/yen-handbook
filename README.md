@@ -83,22 +83,25 @@ Consequently, here are our current `operating virtues` (taken from our [blog](ht
 
 
 ### 1. Table All The Things — `#tatt`
-Or, in other words, we “put everything out on the table” — the good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished prose. 
+Or, in other words, we “put everything out on the table” — the good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished ideas in prose.
 
-Consequently, this means that what we share is going to be, quite often, incomplete, imperfect, and in sore need of serious polishing — we treat all updates with respect, knowing of the courage required to share something that may make the person look foolish, silly, or even stupid. Instead, we engage graciously, responding to the update with the care and attention that we’d hope to receive if it was our own, knowing that they’ve successfully modeled this virtue with excellence.
+[Candor](https://www.indiehackers.com/post/candor-the-secret-to-startup-success-de93cf7ace) is our weapon of choice — both a strategy and tactic.
 
-Finally, #tatt means that we’ll often share things that are intensely personal and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
+We treat all updates from team members with respect knowing of the courage required to share something that could make the person "look" foolish or silly. Instead, we engage graciously, responding to the update with the care and attention that we’d hope to receive if it was our own, knowing that they’ve successfully modeled this virtue with excellence.
 
-Our table is strong when trust is the foundation.
+Finally, `#tatt` means that we may share things that of personal nature and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
+
+Our **table is strong** when **trust is the foundation**.
 
 
 ### 2. Speed of Decision Making — `#sodm`
-No bullshit: We are in a fight for our very survival and every single day we make life-altering decisions — sometimes, with very little data. Regardless, we agree with General Patton when he said “A good plan, violently executed now, is better than a perfect plan next week.” 
+No bullshit: We are in a fight for our survival and every single day we make business-altering decisions. And sometimes theese decisions are made without all of the data. Regardless, we agree with General Patton when he said “*A good plan, violently executed **now**, is better than a perfect plan next week.*” 
 
-That “plan”, by the way, is our first operating virtue, #tatt, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
+That “plan” is our first operating virtue, `#tatt`, because our team has mastered the art of communicating with [candor](https://www.indiehackers.com/post/candor-the-secret-to-startup-success-de93cf7ace): We are open, honest, and we keep things simple to maximize meaning and understanding. 
 
-Otherwise, you should #tatt, providing all the above data and informing the team of your decision with a request for specific people to keep you accountable — this simply means that you will do what you say you’ll do and you’re asking for support in keeping that commitment on track.
+When making decisions, we clearly state if consensus or feedback is required, the expected time to deliver, and then, with enough collective confidence that we can create, we commit to the decision even (and especially) when we may personally disagree. 
 
+We move the fastest and are the most effective **when we are aligned**.
 
 
 
