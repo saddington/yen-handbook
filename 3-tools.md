@@ -11,6 +11,7 @@ Here's a list of the tools and services that we `currently` use as a business, w
 05. Gusto`***` — Payroll
 06. Digital Ocean `***`
 07. Stripe`***` — Payment gateway, ecommerce.
+08. Brex`***` — Corporate credit card
 
 ### Business Tools
 
