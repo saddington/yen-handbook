@@ -141,17 +141,13 @@ John was most recently co-founder of Pinpoint, an engineering analytics company 
 
 Agata wrote her first lines of code when she was 9 years old. Won the Math Olympiad in Poland at the age of 14. Graduated with an MS degree in Computer Science from one of the top technical universities in Poland. Moved to Ireland and eventually settled in the beautiful Pacific Northwest region of the US. 10+ years of professional experience as an engineer, from an employee #50,000 to an employee #5. Worked at Microsoft, Facebook and at various stage startups. On top of engineering experience and a track record of shipping well-founded products, she also has experience interviewing engineers (600+ interviews) and making hiring decisions for a top 5% talent company. In her past life Agata was a licensed skydiver (200+ skydives), amateur photographer and enjoyed flying tiny airplanes with her husband. Currently her favorite pastime is chasing her two little daughters and trying to keep them alive, which she finds more challenging than jumping out of airplanes.
 
-#### Andrew J. Mason - Storytelling - [@AndrewJMason](https://twitter.com/andrewjmason)
-
-Andrew is one of the best audio / video producers you’ve *_never_* heard of. John bought Andrew his first podcasting mic in 2009 and challenged him to give “this new thing called podcasting” a try. Since then, Andrew’s voice and production work has been featured on podcasts for major news outlets like Time, Wired, and Inc.com. He currently hosts & produces one of iTune's Top 100 Business podcasts: The “_Getting Things Done_” (GTD) show for David Allen Company. He also hosts & produces for WisdomDestinations.com. Andrew enjoys spending time with his wife, two boys, and 13 year old Dachsund named Harmony.
-
-#### Eugene Zaretskiy - Engineering - [GitHub](https://github.com/EugeneZ)
-
-Eugene has been programming for a long time (not well for most of it). He got addicted to Javascript after discovering MooTools in 2007. He is fascinated by functional programming but too scared to commit fully to Elm. In his spare time, he plays indie video games (currently addicted to [Slay the Spire](https://www.megacrit.com/)), board games (favorite board game is [Vlaada Chvatil's Mage Knight](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)), and books (favorite author is the late [Gene Wolfe](https://www.goodreads.com/author/show/23069.Gene_Wolfe)).
-
 #### Casey Wilcox - Design - [Twitter](https://twitter.com/ioscasey)
 
 Casey has always had an interest in engineering and design, he believes that great design can build trust in a product and team. He is always learning the latest tools and tricks in the fast paced design/development world. He spends his time at IndieHackers offering feedback, playing competitive video games, and spending time with his family of four.
+
+#### Andrew J. Mason - Storytelling - [@AndrewJMason](https://twitter.com/andrewjmason)
+
+Andrew is one of the best audio / video producers you’ve *_never_* heard of. John bought Andrew his first podcasting mic in 2009 and challenged him to give “this new thing called podcasting” a try. Since then, Andrew’s voice and production work has been featured on podcasts for major news outlets like Time, Wired, and Inc.com. He currently hosts & produces one of iTune's Top 100 Business podcasts: The “_Getting Things Done_” (GTD) show for David Allen Company. He also hosts & produces for WisdomDestinations.com. Andrew enjoys spending time with his wife, two boys, and 13 year old Dachsund named Harmony.
 
 #### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
 
