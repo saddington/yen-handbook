@@ -42,8 +42,9 @@ John // Chief Cartridge Blower
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
 4. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
-5. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
-6. [Tools We Use](https://github.com/yenio/handbook/blob/master/3-tools.md)
+5. [Open Roles](https://github.com/yenio/handbook/blob/master/2-job-openings.md)
+6. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
+7. [Tools We Use](https://github.com/yenio/handbook/blob/master/3-tools.md)
 9. [Policy Changes, Legal Stuff](https://github.com/yenio/handbook#policy-changes-and-legal-stuff)
 
 
