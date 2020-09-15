@@ -4,8 +4,8 @@ Here are a list of current roles that we're looking to fill!
 
 ## Roles
 
-1. [Software Engineer]()
-2. [Chief of Staff]()
+1. [Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#software-engineer)
+2. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#software-engineer)
 
 ## Overview
 
@@ -47,4 +47,6 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 
 - [Email John](mailto:john@yen.io) with anything that would help us get a really good taste of who you are and why this is the right project for you!
 
+### Chief of Staff (or `#majordomo`)
 
+More details [here](https://twitter.com/yenFTW/status/1293192500320931840) — I'm just beginning my search for this important role.
