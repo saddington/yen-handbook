@@ -5,14 +5,16 @@ Here are a list of current roles that we're looking to fill!
 ## Roles
 
 1. [Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#software-engineer)
-2. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#software-engineer)
+2. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
 
-## Overview
+## Quick Overview
 
 **Hi, we're YEN!**
 
 - We're an early-stage, distributed-first, venture-backed company based out of Silicon Valley.
 - We're building a b2b saas platform to help businesses launch & grow their community, fast.
+
+The following are some roles that we're currently looking to fill...
 
 ### Software Engineer
 
