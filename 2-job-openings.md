@@ -2,17 +2,19 @@
 
 Here are a list of current roles that we're looking to fill!
 
-### Roles
+## Roles
 
 1. [Software Engineer]()
 2. [Chief of Staff]()
 
+## Overview
+
 **Hi, we're YEN!**
 
-We're an early-stage, distributed-first, venture-backed company based out of Silicon Valley.
-We're building a b2b saas platform to help businesses launch & grow their community, fast.
+- We're an early-stage, distributed-first, venture-backed company based out of Silicon Valley.
+- We're building a b2b saas platform to help businesses launch & grow their community, fast.
 
-And we're currently looking for a `software engineer` to join our team!
+### Software Engineer
 
 This role will be responsible for helping to build out our early-stage `mvp` with a small team of 3. The ideal candidate enjoys writing and contributing high-performant, scalable code in a distributed, async, high-communication culture. They most likely have extensive knowledge of a variety of languages and technologies including: React, Typescript, Javascript, HTML, CSS, SCSS, Firebase, Mongodb, Node, Nginx, and a variety of well-known APIs / SDKs like Stripe.
 
