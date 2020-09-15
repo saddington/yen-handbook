@@ -23,13 +23,13 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 **Core Responsibilties:**
 
 - Develop & expand on our existing codebase, staying true to our [operating virtues](https://github.com/yenio/handbook#operating-virtues) while adding their own creativity to the mix.
-- Work independently & collaboratively in a [fully-distributed](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999), [async environment](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication), able to create specs and determine operational feasibility.
-- Engage with our community / users to gather and evaluate feedback.
+- Work independently & collaboratively in a [fully-distributed](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999), [async environment](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication).
 - Integrate (existing) software components into a fully functional software system.
 - Develop microservices & restful APIs.
 - Troubleshoot, debug, and upgrade existing systems.
 - Build flowcharts, layouts, and supporting documentation (specifications) to determine feasibility.
 - Comfortable with GitHub, ticketing, issues, and Kanban workflows.
+- Engage with our community / users to gather and evaluate feedback.
 
 **Qualifications / Skills:**
 
