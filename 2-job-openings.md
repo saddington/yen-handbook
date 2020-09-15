@@ -18,24 +18,25 @@ The following are some roles that we're currently looking to fill...
 
 ### Software Engineer
 
-This role will be responsible for helping to build out our early-stage `mvp` with a small team of 3. The ideal candidate enjoys writing and contributing high-performant, scalable code in a distributed, async, high-communication culture. They most likely have extensive knowledge of a variety of languages and technologies including: React, Typescript, Javascript, HTML, CSS, SCSS, Firebase, Mongodb, Node, Nginx, and a variety of well-known APIs / SDKs like Stripe.
+This role will be responsible for helping to build out our early-stage `mvp` with a small team of 3. The ideal candidate enjoys writing and contributing high-performant, scalable code in a distributed, async, high-communication culture. They will more than likely have extensive knowledge of a variety of languages and technologies like: React, Typescript, JavaScript, HTML, CSS, SCSS, Firebase, MongoDB, NodeJS, NGINX, and a variety of well-known APIs / SDKs like Stripe.
 
 **Core Responsibilties:**
 
-- Develop and expand on our existing codebase and features, staying true to our [operating virtues](https://github.com/yenio/handbook#operating-virtues) while adding their own perspective and creativity to the mix.
-- Work independently and collaboritively in a [fully-distributed](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999), [async environment](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication), able to create specs and determine operational feasibility.
+- Develop & expand on our existing codebase, staying true to our [operating virtues](https://github.com/yenio/handbook#operating-virtues) while adding their own creativity to the mix.
+- Work independently & collaboratively in a [fully-distributed](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999), [async environment](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication), able to create specs and determine operational feasibility.
 - Engage with our community / users to gather and evaluate feedback.
 - Integrate (existing) software components into a fully functional software system.
 - Develop microservices & restful APIs.
-- Troubleshoot, debut, and upgrade existing systems.
-- Develop flowcharts, layouts, and documentation to identify requirements and solutions.
+- Troubleshoot, debug, and upgrade existing systems.
+- Build flowcharts, layouts, and supporting documentation (specifications) to determine feasibility.
+- Comfortable with GitHub, ticketing, issues, and Kanban workflows.
 
 **Qualifications / Skills:**
 
-- Bachelor's degree in Computer Science, software engineering, or related field is nice, but, not required.
+- Bachelors degree in Computer Science, Software Engineering, or related field is nice but not required.
 - Minimum of 3-5 years of professional software development experience.
 - Knows how to communicate fluently in a fully distributed, async culture.
-- Knows how to communicate (and enjoys it!) to users to gather feedback and qualify needs into features.
+- Knows how to engage directly (and enjoys it!) with users / community members to gather and qualify feedback into features.
 - Experience with Java, Python, C++ and/or other OO programming languages would be great.
 - Excellent knowledge of relational databases, SQL, and ORM technologies (JPA2, Hibernate).
 - Experience with AWS, Google Cloud, and other public cloud providers, container-ized deployments, Kubernetes, Docker, etc.
@@ -43,7 +44,7 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 **More Company Info:**
 
 - We have an open source `#handbook` that can give you a really good sense of [who we are and what we believe](https://github.com/yenio/handbook).
-- We [tweet](http://twitter.com/yenftw), hang out in [youtube](http://yen.show), and have [an active blog](http://yensquad.com).
+- We [tweet](http://twitter.com/yenftw), hang out in [YouTube](http://yen.show), and have [an active blog](http://yensquad.com).
 
 **How to Apply:**
 
