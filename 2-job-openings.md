@@ -16,16 +16,15 @@ Here are a list of current roles that we're looking to fill!
 
 The following are some roles that we're currently looking to fill...
 
-### Software Engineer
+### Frontend Software Engineer
 
-This role will be responsible for helping to build out our early-stage `mvp` with a small team of 3. The ideal candidate enjoys writing and contributing high-performant, scalable code in a distributed, async, high-communication culture. They will more than likely have extensive knowledge of a variety of languages and technologies like: React, Typescript, JavaScript, HTML, CSS, SCSS, Firebase, MongoDB, NodeJS, NGINX, and a variety of well-known APIs / SDKs like Stripe.
+This role will be responsible for helping to build out our early-stage `mvp` with a small team of 3. The ideal candidate enjoys writing and contributing high-performant, scalable code in a distributed, async, high-communication culture, focusing most of their time on our frontend. They will more than likely have extensive knowledge of a variety of languages and technologies like: React, Typescript, JavaScript, HTML, CSS, SCSS, Firebase, MongoDB, NodeJS, NGINX, and a variety of well-known APIs / SDKs like Stripe.
 
 **Core Responsibilties:**
 
 - Develop & expand on our existing codebase, staying true to our [operating virtues](https://github.com/yenio/handbook#operating-virtues) while adding their own creativity to the mix.
 - Work independently & collaboratively in a [fully-distributed](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999), [async environment](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication).
 - Integrate (existing) software components into a fully functional software system.
-- Develop microservices & restful APIs.
 - Troubleshoot, debug, and upgrade existing systems.
 - Build flowcharts, layouts, and supporting documentation (specifications) to determine feasibility.
 - Comfortable with GitHub, ticketing, issues, and Kanban workflows.
@@ -38,8 +37,9 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 - Knows how to communicate fluently in a fully distributed, async culture.
 - Knows how to engage directly (and enjoys it!) with users / community members to gather and qualify feedback into features.
 - Experience with Java, Python, C++ and/or other OO programming languages would be great.
-- Excellent knowledge of relational databases, SQL, and ORM technologies (JPA2, Hibernate).
 - Experience with AWS, Google Cloud, and other public cloud providers, container-ized deployments, Kubernetes, Docker, etc.
+- Knowledge of relational databases, SQL, and ORM technologies (JPA2, Hibernate) would be a plus (currently using MongoDB).
+- Experience with developing microservices & restful APIs a plus as we get ready for scale (we are currently a more monolithic, REST-ish for our `mvp`).
 
 **More Company Info:**
 
