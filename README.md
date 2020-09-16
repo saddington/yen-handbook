@@ -150,7 +150,7 @@ Casey has always had an interest in engineering and design, he believes that gre
 
 Andrew is one of the best audio / video producers you’ve *_never_* heard of. John bought Andrew his first podcasting mic in 2009 and challenged him to give “this new thing called podcasting” a try. Since then, Andrew’s voice and production work has been featured on podcasts for major news outlets like Time, Wired, and Inc.com. He currently hosts & produces one of iTune's Top 100 Business podcasts: The “_Getting Things Done_” (GTD) show for David Allen Company. He also hosts & produces for WisdomDestinations.com. Andrew enjoys spending time with his wife, two boys, and 13 year old Dachsund named Harmony.
 
-#### The Yenicorn - Mascot - [LinkedIn](https://yenicorn.com/about/)
+#### The Yenicorn - Mascot - [LinkedIn](http://yenicorn.com/)
 
 According to myth and legend, our friend, The Yenicorn, was raised by a herd of Japanese unicorns in a mysterious other worldly… … world. She knows (as prophecy has foretold) that she has a very important part to play in the cryptocurrency community but is understandably a bit nervous and often lacks a bit of self-confidence (thus the helmet)  – but she wants to help people and do her very best!
 
@@ -253,7 +253,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 
 - `Yenizen` - Members of our amazing community
 - `Yeniverse` - What we're building AND how we describe our community
-- `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](https://yenicorn.com))
+- `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](http://yenicorn.com))
 - `yenSTRONG` - When one of our community members does something amazing and supportive of another `yenizen`.
 - `yenSQUAD` - An alternative way / loving way of talking about our community
 - `yenIVERSITY` — Any of our educational courses or [workshops](http://yen.education).
