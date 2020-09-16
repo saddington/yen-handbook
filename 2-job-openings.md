@@ -4,7 +4,7 @@ Here are a list of current roles that we're looking to fill!
 
 ## Roles
 
-1. [Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#software-engineer)
+1. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
 2. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
 
 ## Quick Overview
@@ -15,6 +15,8 @@ Here are a list of current roles that we're looking to fill!
 - We're building a b2b saas platform to help businesses launch & grow their community, fast.
 
 The following are some roles that we're currently looking to fill...
+
+---
 
 ### Frontend Software Engineer
 
@@ -49,6 +51,8 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 **How to Apply:**
 
 - [Email John](mailto:john@yen.io) with anything that would help us get a really good taste of who you are and why this is the right project for you!
+
+---
 
 ### Chief of Staff (or `#majordomo`)
 
