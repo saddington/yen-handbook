@@ -240,7 +240,7 @@ We are currently test-driving the mvp in our own business-building community.
 
 Here are a few things that aren't immediately obvious about us and our team.
 
-**How We Refer To Ourselves**
+### How We Refer To Ourselves:
 
 - Legally, we are `ROFLCOPTER, INC.` But other than legal docs, you’ll rarely see this.
 - Most commonly, we refer to team, project, company as our core product, YEN.
@@ -249,7 +249,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 - If "YEN" is combined with another word, it's not capitalized (e.g. `YenIQ`)
 - You can find our `brand` guidelines [here](https://john.do/brand-2019/). It is outdated, copy-wise, but the colors and other identifying marks are correct.
 
-**Some Terms You'll See Tossed Around:**
+### Some Terms You'll See Tossed Around:
 
 - `Yenizen` - Members of our amazing community
 - `Yeniverse` - What we're building AND how we describe our community
@@ -258,11 +258,11 @@ Here are a few things that aren't immediately obvious about us and our team.
 - `yenSQUAD` - An alternative way / loving way of talking about our community
 - `yenIVERSITY` — Any of our educational courses or [workshops](http://yen.education).
 
-**My Meeting, My Notes:**
+### "My Meeting, My Notes"
 
 - When you call or 'own' the meeting, you are responsible for taking notes and dispersing them along with action items after the meeting so those who weren't able to attend are made aware. We usually just drop those in Slack post-meeting.
 
-**"Team Food Day"**
+### "Team Food Day"
 
 - Until someone on our team comes up with a better name for this... it's just called "Team Food Day"! On `Wednesdays` the company trades one meal of your choice (Breakfast, Lunch, or Dinner... or Second Dinner...) for a picture of it! Feel free to pay for the family too!
 
