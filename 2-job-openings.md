@@ -22,6 +22,11 @@ The following are some roles that we're currently looking to fill...
 
 This role will be responsible for helping to build out our early-stage `mvp` with a small team of 3. The ideal candidate enjoys writing and contributing high-performant, scalable code in a distributed, async, high-communication culture, focusing most of their time on our frontend. They will more than likely have extensive knowledge of a variety of languages and technologies like: React, Typescript, JavaScript, HTML, CSS, SCSS, Firebase, MongoDB, NodeJS, NGINX, and a variety of well-known APIs / SDKs like Stripe.
 
+**Compensation:**
+
+- We're open to contract, part-time, contract-to-hire, and full-time! 
+- We care more about *finding the right person* than the number of hours they have available (we currently employ a mix of FT, PT, and contractors).
+
 **Core Responsibilties:**
 
 - Develop & expand on our existing codebase, staying true to our [operating virtues](https://github.com/yenio/handbook#operating-virtues) while adding their own creativity to the mix.
