@@ -60,14 +60,11 @@ By the end of your first day, we'll make sure you're fully onboarded via Gusto (
 
 Need any gear and/or tech that wasn't covered in your onboarding? Ping John and he'll get it sorted! We want you comfortable and fully-equipped to kick ass.
 
-We currently use a number of different services to get our work done, including (but not limited to):
+We currently use a number of different [tools](https://github.com/yenio/handbook/blob/master/3-tools.md) to get our work done, including (but not limited to):
 
-1. Google Apps: Email and Calendar
-2. Dropbox: Large files, branding docs, and more
-3. Gusto: Payroll and Health Benefits
-4. YEN Chat: Real-time & async communication
-5. GitHub: Building cool stuff
-6. Notion: General documents and Investor Updates
+1. Slack: Team communication
+2. GitHub:: Product management
+3. Gusto: Payroll and health benefits
 
 The goal for `Day Zero` is to give you access to _everything_ you need to get meaningful work done! But, we also  know that the first day can be overwhelming and we may not be able to get to it all—that's entirely okay as the next day is just as good.
 
@@ -81,7 +78,13 @@ Have a fun, relaxing, and enjoyable first day!
 
 We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a few meetings with team and a walkthrough of how the business operates currently, especially as we're still very small.
 
-We will also establish a `Weekly 1:1` which is a place for the employees to share their thoughts with leadership (@John). We follow [this model](https://a16z.com/2012/08/30/one-on-one/) closely — if you like providing an agenda, great! If not, no worries. 
+Here are a few scheduled events that we'll want to calendar in:
+
+1. **Weekly 1:1:** Also known as the `#OoO`, this is a safe and protected time between John and you. We follow [this model](https://a16z.com/2012/08/30/one-on-one/) closely — if you like providing an agenda, great! If not, no worries. But, this is **your** time to share how things are going! We try to schedule these on Fridays. More examples of what we'll chat about below...
+2. **Check-Ins with Team:** Please connect and schedule four (4), 30-minute check-in with each member of the team for your first 4 weeks of work. Use these meetings as an opportunity to get to know your colleagues as well as knowledge-share. After the first month, we expect team members to connect with each other *at least* twice (2) a month.
+3. **Wednesdays Product Meeting:** We spend 60-90 minutes on Wednesdays to talk through our product, the roadmap, and the work being done. We often do "show-and-tells" as well as get feedback on `blockers` and other critical decisions. We don't leave until folks have a clear picture of the next week's work and everyone's participation.
+
+Our hope is that we can give you as much information as you can handle so that you can get started in the best way possible without overwhelming you! Please give us feedback along the way so we can improve our onboarding workflow(s)!
 
 Here is what the first few 1-on-1's will look like (and the most important question that I'm going to ask!):
 - Week 1: Is everything beginning to settle? What is missing from your work environment that isn't "working"? How do you feel about the process so far?
@@ -92,8 +95,6 @@ Here is what the first few 1-on-1's will look like (and the most important quest
 - Week 6: It's time to start thinking about taking a bit of time off! It's been a very full month of work and onboarding into a new organization is hard, _always_. So, let's talk about taking a break, shall we? For you and the team!
 - Week 7: Let's take another opportunity to talk about the gap between what you expected and how it matches up with our [operating virtues](https://github.com/yenio/handbook#operating-virtues). Are we aligned or off the mark? Let's chat about that!
 - Week 8: We've gotten to know each other and it's my hope that you trust us enough to tell us how you feel. So, how's it been and what areas do we need to improve? Hit us with the really-real.
-- Week 9:
-- Week 10:
 
 (Hopefully these are helpful conversation topics / starters for us!)
 
