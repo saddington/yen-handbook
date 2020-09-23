@@ -901,13 +901,13 @@ The current workflow looks like this:
 
 - **3rd TP:** Casey with schedule a 30-45 minute chat to assess cultural fit, team dynamics, and background. Casey will also provide John a retrospective with a `go / no-go` qualification *within 24 hours* of interview.
 
-- **4th TP:** Casey will also respond to `email intro` via 2TP letting the candidate know that John will notify them *within 24 hours* whether or not we will continue with the hiring process. 
+- **4th TP:** Casey will also respond to the original `email intro` letting the candidate know that John will notify them *within 24 hours* whether or not we will continue with the hiring process. 
 
 - **5th TP:** John will then email the candidate a notice that the process is ending or do a new `email intro` to Agata.
 
 - **6th TP:** Agata will respond to the email *within 24 hours* to schedule a 60 minute interview comprised of 2 parts: A 40-min technical review and 20-min Q and A session (and general cultural fit assessment). Agata will provide the candidate a high-level overview via email of the technical challenge and expectations for their time together.
 
-- **7th TP:** Agata will perform interview and post-interview will reply to the `existing email thread` letting them know that John will get back to them *within 24 hours*. Agata will provide John with a retrospective with qualification.
+- **7th TP:** Agata will perform interview and post-interview will reply to the `existing email thread` letting them know that John will get back to them *within 24 hours*. Agata will provide John a comprehensive retrospective and a `go / no-go` qualification.
 
 - **8th TP:** John will email the candidate letting them know the process is ending or schedule a final call to answer any final questions as well as logistics (e.g. Start Date, Compensation, etc.).
 
