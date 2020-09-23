@@ -20,6 +20,7 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 13. [Distributed-First Culture, Async Team Communication](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication)
 14. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/yenio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
 15. [Leaving the Company](https://github.com/yenio/handbook/blob/master/1-employment.md#leaving-the-company)
+16. [Interview and Hiring Workflow]()
 
 
 
@@ -447,7 +448,7 @@ Currently, YEN is too small to have an internal group or department that can ind
 
 Currently we do not have a physical home office! This means that we fully trust you to do a kickass job, regardless of where you are physically. :fire: :bomb: :thumbsup:
 
-We wrote a [longer blog post](https://blog.yen.io/distributed-first/) about being a `Distributed-First` type of company.
+We wrote a [longer blog post](https://www.indiehackers.com/post/what-we-mean-when-we-say-we-are-a-distributed-first-team-0226d2f999) about being a `Distributed-First` type of company.
 
 
 
@@ -700,15 +701,15 @@ No, it’s a $5,000 cap per employee during the lifetime of employment.
 
 
 
-## Reasonable Work Schedule (45-Hours per Week)
+## Reasonable Work Schedule (45 Hours per Week)
 
 We believe that the way to be most productive (and happy!) is with a reasonable, balanced work schedule. Working long hours for long periods of time results in mental exhaustion and shoddy work that needs to be fixed later. For programmers, working long hours does not necessarily translate to more code written. 
 
-Consequently, we believe that **45-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. As an example, if you join as a "full-time" member of our team we will compensate you for 45-hours of work a week. We won't (secretly) expect more than that as we believe this also minimizes the chance of burnout.
+Consequently, we believe that **45-hours per week** is more than enough to perform the work necessary to create meaningful and impactful software for our community. As an example, if you join as a "full-time" member of our team we will compensate you for 45-hours of work a week. And, we won't (secretly) expect more than that "because we're a startup" or any bullshit like that. We mean what we say.
 
-And remember: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at YEN should design their own schedule around their own balance of work and life. It should be sustainable, reasonable, and enjoyable.
+But don't forget: Different people have different ways of being productive. Some people get more done in the morning and prefer to get an early start. Maybe you get a lot done in the wee hours of the night, but you have trouble starting work before lunch. Either way, as long as you're getting your work done, team members at YEN should design their own schedule around their own balance of work and life. It should be sustainable, reasonable, and enjoyable.
 
-When we have a "crunch period", usually around ship dates, you should be well-rested and caught up on your errands, so if you need to work longer days than usual for a week or two so that a release can get out the door on time, you won't be exhausted. If we do our jobs right, we should minimize the number of times that we have to, collectively, experience these moments. Life (and shit) happens, so, we all know that sometimes this is unavoidable. My (John) commitment as your leader is to ensure that this isn't chronic or a systemic issue.
+When we have a "crunch period", usually around ship dates, you should be well-rested and caught up on your errands, so if you need to work longer days than usual for a week or two so that a release can get out the door on time, you won't be exhausted. If we do our jobs right, we should minimize the number of times that we have to, collectively, experience these moments. Life (and shit) happens, so, we all know that sometimes this is unavoidable. My (John) commitment as your leader is to ensure that this isn't chronic or a systemic issue. In fact, the hope is that this is generally avoidable.
 
 Regardless, make regular time for your family and friends throughout the year so that crunch periods don't become a habit making work feel like a "death march". Feel free to rearrange your weekly schedule, for example, working slightly longer on Monday through Thursday and taking Friday afternoons off during the summer.
 
@@ -882,3 +883,34 @@ If you have options or restricted stock grants, please speak to John as soon as 
 
 
 
+
+
+## Interview and Hiring Workflow
+
+Our current interview and hiring process is, by-design, light and focused on *speed*, especially because our most important consideration behind the question of whether this person is the right `fit` is that we **respect the candidate**, their time, and their overall experience with us. Remember, each candidate's experience with us *starts* the moment that they apply and every interaction from that moment on needs to be precise. 
+
+Practically-speaking, we want to provide a clear and concise hiring workflow that kills ambiguity and guarantees that we can give our final & official position quickly so as to not let our candidates wait unnecessarily.
+
+`NB:` Make sure to ask for permission when recording an interview!
+
+The current workflow looks like this:
+
+- **1st Touchpoint:** John will do an initial screening call, typically 30 minutes. John will be assessing overall "fitness" for the role including a high-level overview of our company, the state of our project, our technology stack, the people involved, as well as answer many of the high-level questions that they might have. 
+
+- **2nd TP:** If they are a "pass" John will email the candidate *within 24 hours* of the initial screening call and let them know that we're not going to move forward at the present time. Otherwise, John will create an `email intro` to Casey *within 24 hours* with any supporting documentation, link to their portfolio / LinkedIn, and any other important material to review.
+
+- **3rd TP:** Casey with schedule a 30-45 minute chat to assess cultural fit, team dynamics, and background. Casey will also provide John a retrospective with a `go / no-go` qualification *within 24 hours* of interview.
+
+- **4th TP:** Casey will also respond to `email intro` via 2TP letting the candidate know that John will notify them *within 24 hours* whether or not we will continue with the hiring process. 
+
+- **5th TP:** John will then email the candidate a notice that the process is ending or do a new `email intro` to Agata.
+
+- **6th TP:** Agata will respond to the email *within 24 hours* to schedule a 60 minute interview comprised of 2 parts: A 40-min technical review and 20-min Q and A session (and general cultural fit assessment). Agata will provide the candidate a high-level overview via email of the technical challenge and expectations for their time together.
+
+- **7th TP:** Agata will perform interview and post-interview will reply to the `existing email thread` letting them know that John will get back to them *within 24 hours*. Agata will provide John with a retrospective with qualification.
+
+- **8th TP:** John will email the candidate letting them know the process is ending or schedule a final call to answer any final questions as well as logistics (e.g. Start Date, Compensation, etc.).
+
+- **9th TP:** John will conduct the `final call` and present a verbal offer to the candidate.
+
+- **10th TP:** John will email *within 24 hours* candidate a written confirmation of offer as well as supporting material. Hurray!
