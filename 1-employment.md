@@ -887,9 +887,9 @@ If you have options or restricted stock grants, please speak to John as soon as 
 
 ## Interview and Hiring Workflow
 
-Our current interview and hiring process is, by-design, light and focused on *speed*, especially because our most important consideration behind the question of whether this person is the right `fit` is that we **respect the candidate**, their time, and their overall experience with us. Remember, each candidate's experience with us *starts* the moment that they apply and every interaction from that moment on needs to be precise. 
+Our current interview and hiring process is, by-design, light and focused on *speed*, especially because our most important consideration behind the question of whether this person is the right `fit` is that we **respect the candidate and their commitment time with us**. Remember, each a candidate's experience *starts* the moment that they apply and every interaction from that moment on needs to be precise and timely. 
 
-Practically-speaking, we want to provide a clear and concise hiring workflow that kills ambiguity and guarantees that we can give our final & official position quickly so as to not let our candidates wait unnecessarily.
+Practically-speaking, we want to provide a clear and concise hiring workflow that removes ambiguity and guarantees that we can give our final & official position quickly so that no one is waiting around unnecessarily!
 
 `NB:` Make sure to ask for permission when recording an interview!
 
@@ -914,3 +914,5 @@ The current workflow looks like this:
 - **9th TP:** John will conduct the `final call` and present a verbal offer to the candidate.
 
 - **10th TP:** John will email *within 24 hours* candidate a written confirmation of offer as well as supporting material. Hurray!
+
+We have been able to historically work through this entire process in just one week, assuming schedules are open and we've got a little luck on timing. 10 touchpoints total.
