@@ -20,7 +20,7 @@ Here you'll find more info on working @ YEN. Questions? Ping [John](mailto:john@
 13. [Distributed-First Culture, Async Team Communication](https://github.com/yenio/handbook/blob/master/1-employment.md#distributed-first-async-team-communication)
 14. [Growth (Evaluations, Promotions, Adjustments)](https://github.com/yenio/handbook/blob/master/1-employment.md#growth-evaluations-promotions-adjustments)
 15. [Leaving the Company](https://github.com/yenio/handbook/blob/master/1-employment.md#leaving-the-company)
-16. [Interview and Hiring Workflow]()
+16. [Interview and Hiring Workflow](https://github.com/yenio/handbook/blob/master/1-employment.md#interview-and-hiring-workflow)
 
 
 
