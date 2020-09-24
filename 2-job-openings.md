@@ -25,7 +25,7 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 **Compensation:**
 
 - We're open to contract, part-time, contract-to-hire, and full-time! 
-- We care more about *finding the right person* than the number of hours they have available (we currently employ a mix of FT, PT, and contractors).
+- We care more about **who** than the exact # of hours available.
 
 **Core Responsibilties:**
 
