@@ -43,10 +43,10 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 - Minimum of 3-5 years of professional software development experience.
 - Knows how to communicate fluently in a fully distributed, async culture.
 - Knows how to engage directly (and enjoys it!) with users / community members to gather and qualify feedback into features.
-- Experience with Java, Python, C++ and/or other OO programming languages would be great.
-- Experience with AWS, Google Cloud, and other public cloud providers, container-ized deployments, Kubernetes, Docker, etc.
-- Knowledge of relational databases, SQL, and ORM technologies (JPA2, Hibernate) would be a plus (currently using MongoDB).
-- Experience with developing microservices & restful APIs a plus as we get ready for scale (we are currently a more monolithic, REST-ish for our `mvp`).
+- Experience with Java, Python, C++ and/or other OO programming languages *would be great*.
+- Experience with AWS, Google Cloud, and other cloud providers, container-ized deployments, Kubernetes, Docker, *would be cool*.
+- Knowledge of relational databases, SQL, and ORM technologies (JPA2, Hibernate) would be *a plus* (currently using MongoDB).
+- Experience developing microservices & restful APIs would be *a plus* (currently monolithic-ish / REST-ish for our `mvp`).
 
 **More Company Info:**
 
