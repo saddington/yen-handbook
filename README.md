@@ -5,20 +5,18 @@ This `handbook` has gone through a number of changes over the years and this ver
 
 This repository serves these purposes:
 
-1. Gives a high-level overview of who we are, what we do, and why we do what we do
-2. Our compensation, benefits, and employment policies for our staff and team
-3. A cultural glossary of practices, principles, and operating virtues
-4. And anything else we might think of...
+1. Gives a high-level overview of who we are, what we do, and why we do what we do...
+2. Our compensation, benefits, and employment policies for our staff and team...
+3. A cultural glossary of practices, quirks, principles, and operating virtues...
+4. An assortment of other organization-centric things to know about...
 
-It's a work-in-progress, something designed to be touched by anyone in our community. I'm particularly interested in getting feedback from new community members as you all will see things that the current team may unintentionally (and intentionally) ignore! Please help us identify our blindspots and **question everything**—[kaizen](https://en.wikipedia.org/wiki/Kaizen)!
+It's a work-in-progress, something designed to be touched by anyone in our community. If you have thoughts, I'd [love to hear them](mailto:john@yen.io)!
 
-I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the YEN community! You're here because success isn't possible without you.
+Finally, I'm grateful that you're here and that you've decided to commit a season of your life helping to build a _meaningful_ and _impactful_ software product for our amazing community — their success (and ours) wouldn't be possible without you.
 
-To infinity (and bitcoin).
+To infinity & community,
 
 John // Chief Cartridge Blower
-
-[Feel free to [email me](mailto:john@yen.io) at any time!]
 
 
 
@@ -106,8 +104,12 @@ We move the fastest and are the most effective **when we are aligned**.
 
 
 
+### 3. Kaizen — `#kaizen`
+When our team executes the first two `operating virtues` with excellence it allows us to build a culture of `continuous improvement`, both corporately and independently. We seek to do this in everything that we do. Consequently, everything in our business is dynamic, not static; a real-life work-in-progress.
 
+We look for opportunities to not only grow but also to share our learnings with the other folks on our team — this is part of `#tatt`! Much has been written about the history and application of [kaizen](https://en.wikipedia.org/wiki/Kaizen) and it's worth developing your own personal philosophy and practice.
 
+As a team, we invest in ourselves and one another through continual education: Reading, attending (virtual) conferences, and even taking educational courses to level-up as humans. Feel free use your monthly budget to invest in yourself.
 
 
 
