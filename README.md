@@ -109,7 +109,7 @@ When our team executes the first two `operating virtues` with excellence it allo
 
 We look for opportunities to not only grow but also to share our learnings with the other folks on our team — this is part of `#tatt`! Much has been written about the history and application of [kaizen](https://en.wikipedia.org/wiki/Kaizen) and it's worth developing your own personal philosophy and practice.
 
-As a team, we invest in ourselves and one another through continual education: Reading, attending (virtual) conferences, and even taking educational courses to level-up as humans. Feel free use your monthly budget to invest in yourself.
+As a team we intentionally find opportunities to invest in ourselves and one another through continual education — reading, attending (virtual) conferences, and even taking educational courses to level-up as humans. Feel free use your monthly budget to invest in yourself!
 
 
 
