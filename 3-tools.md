@@ -39,6 +39,5 @@ Here's a list of the tools and services that we `currently` use as a business, w
 22. Beam — Our dental / vision provider.
 23. Shopify — Swag store
 24. Epidemic Sound — Background music for vlogs
-25. 1Password
-26. Canva — Simple online graphic tool for thumbnails and other collateral.
+25. Canva — Simple online graphic tool for thumbnails and other collateral.
 
