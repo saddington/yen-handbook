@@ -64,7 +64,7 @@ Need any gear and/or tech that wasn't covered in your onboarding? Ping John and 
 We currently use a number of different [tools](https://github.com/yenio/handbook/blob/master/3-tools.md) to get our work done, including (but not limited to):
 
 1. Slack: Team communication
-2. GitHub:: Product management
+2. GitHub: Product management
 3. Gusto: Payroll and health benefits
 
 The goal for `Day Zero` is to give you access to _everything_ you need to get meaningful work done! But, we also  know that the first day can be overwhelming and we may not be able to get to it all—that's entirely okay as the next day is just as good.
@@ -79,7 +79,18 @@ Have a fun, relaxing, and enjoyable first day!
 
 We want your first week to feel as comfortable as possible making sure that you have everything that you need to be successful. This most likely will include a few meetings with team and a walkthrough of how the business operates currently, especially as we're still very small.
 
-Here are a few scheduled events that we'll want to calendar in:
+In the first few days, you'll connect with John and talk through the following topics:
+
+- Org Structure, Roles, Responsibilities, Expectations
+- Vision, Mission
+- Operating Virtues, Cultural Quirks
+- Daily, Weekly, Monthly Cadence
+- Asynchronous Communication
+- Product Walkthrough, GitHub
+- Go-To-Market Strategy
+- And more!!
+
+Here are a few scheduled, `recurring` events that we will also calendar in:
 
 1. **Weekly 1:1:** Also known as the `#OoO`, this is a safe and protected time between John and you. We follow [this model](https://a16z.com/2012/08/30/one-on-one/) closely — if you like providing an agenda, great! If not, no worries. But, this is **your** time to share how things are going! We try to schedule these on Fridays. More examples of what we'll chat about below...
 2. **Check-Ins with Team:** Please connect and schedule four (4), 30-minute check-in with each member of the team for your first 4 weeks of work. Use these meetings as an opportunity to get to know your colleagues as well as knowledge-share. After the first month, we expect team members to connect with each other *at least* twice (2) a month.
