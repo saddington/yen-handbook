@@ -126,7 +126,7 @@ It's okay to give yourself the time necessary to get your bearings and get settl
 
 #### We'd Love Your Feedback
 
-Finally, we'd love some feedback on the onboarding experience! Please email [John](mailto:john@yen.io) after the first 30, 60, and 90 days with any and all feedback! Let's make this the best experience possible for our new team members!
+Finally, we'd love some feedback on the onboarding experience! Please email [John](mailto:john@yen.io) at any time — let's make this the best experience possible for our new team members!
 
 
 
