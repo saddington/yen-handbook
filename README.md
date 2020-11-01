@@ -198,15 +198,9 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 ## Our Story
 
-Born out of the ashes of two pivots over two+ years, YEN's story begins anew in 2020 as we double-down on our mission to solve an existential problem for all startup founders: **Survival**.
+Born out of the ashes of two pivots over 2+ years, we restarted YEN's story in early-2020 as we caught a vision for an exciting and inevitable future — a `vision` of a future where there's a "community on every website" and how we do that is through our `mission` to "democratize community building" for everyone, everywhere.
 
-More specifically, business builders must quickly build a `community` around their project before it dies from lack of attention and revenue (customers)! And, without a community, founders won't have the necessary feedback that they need to build and iterate on their product as they march towards product-market fit.
-
-Simply put, `founders need community around their new project, fast`. 
-
-That's what we're building... that's our mission: **YEN helps founders launch a branded community platform in just a few clicks.**
-
-Unlike other solutions that can take a lot of time to properly setup and install, we bring your community to you, right on your own website, zero configuration required.
+For starters, it looks like a simple b2b saas platform that helps businesses launch, manage, and grow a community right on their own website. Unlike other solutions that can take a lot of time to properly setup and install, we bring the community right to the business, maximizing their efforts and marketing ROI.
 
 Built for speed, we help creators connect with their customers, monetize their projects and know-how, and build a community they can be super-proud of.
 
