@@ -144,9 +144,6 @@ John was most recently co-founder of Pinpoint, an engineering analytics company 
 
 Agata wrote her first lines of code when she was 9 years old. Won the Math Olympiad in Poland at the age of 14. Graduated with an MS degree in Computer Science from one of the top technical universities in Poland. Moved to Ireland and eventually settled in the beautiful Pacific Northwest region of the US. 10+ years of professional experience as an engineer, from an employee #50,000 to an employee #5. Worked at Microsoft, Facebook and at various stage startups. On top of engineering experience and a track record of shipping well-founded products, she also has experience interviewing engineers (600+ interviews) and making hiring decisions for a top 5% talent company. In her past life Agata was a licensed skydiver (200+ skydives), amateur photographer and enjoyed flying tiny airplanes with her husband. Currently her favorite pastime is chasing her two little daughters and trying to keep them alive, which she finds more challenging than jumping out of airplanes.
 
-#### Casey Wilcox - Design - [Twitter](https://twitter.com/ioscasey)
-
-Casey has always had an interest in engineering and design, he believes that great design can build trust in a product and team. He is always learning the latest tools and tricks in the fast paced design/development world. He spends his time at IndieHackers offering feedback, playing competitive video games, and spending time with his family of four.
 
 #### Andrew J. Mason - Storytelling - [@AndrewJMason](https://twitter.com/andrewjmason)
 
