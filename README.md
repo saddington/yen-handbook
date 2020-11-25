@@ -1,9 +1,9 @@
 # Our Company Handbook
 *A Collaborative Handbook for our Team & Community*
 
-This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only a few pages to review (and update...)!
+This `handbook` has gone through a number of changes over the years and this version is no exception! 
 
-This repository serves these purposes:
+This repo does the following:
 
 1. Gives a high-level overview of who we are, what we do, and why we do what we do...
 2. Our compensation, benefits, and employment policies for our staff and team...
@@ -197,7 +197,7 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 Born out of the ashes of two pivots over 2+ years, we restarted YEN's story in early-2020 as we caught a vision for an exciting and inevitable future — a `vision` of a future where there's a "community on every website" and how we do that is through our `mission` to "democratize community building" for everyone, everywhere.
 
-For starters, it looks like a simple b2b saas platform that helps businesses launch, manage, and grow a community right on their own website. Unlike other solutions that can take a lot of time to properly setup and install, we bring the community right to the business, maximizing their efforts and marketing ROI.
+For starters, it looks like a simple `b2b` `saas` platform that helps businesses launch, manage, and grow a community right on their own website. Unlike other solutions that can take a lot of time to properly setup and install, we bring the community right to the business, maximizing their efforts and marketing ROI.
 
 Built for speed, we help creators connect with their customers, monetize their projects and know-how, and build a community they can be super-proud of.
 
@@ -236,20 +236,20 @@ Here are a few things that aren't immediately obvious about us and our team.
 ### How We Refer To Ourselves:
 
 - Legally, we are `ROFLCOPTER, INC.` But other than legal docs, you’ll rarely see this.
-- Most commonly, we refer to team, project, company as our core product, YEN.
+- Most commonly, we refer to the team, project, company as our core product, YEN.
 - YEN (all caps) is not an acronym.
 - You’ll also see accounts under [yen.io](http://yen.io) or `yenio` or `yenFTW` or `yen_io` (sometimes we couldn’t get just YEN)
-- If "YEN" is combined with another word, it's not capitalized (e.g. `YenIQ`)
-- You can find our `brand` guidelines [here](https://john.do/brand-2019/). It is outdated, copy-wise, but the colors and other identifying marks are correct.
+- If "YEN" is combined with another "full" word, it's not capitalized (e.g. `YenIQ`)
+- You can find our `brand` guidelines [here](https://john.do/brand-2019/). The colors and identifying marks are correct but most of the copy is not currently correct as we aren't in the `#defi` / `crypto` space anymore.
 
 ### Some Terms You'll See Tossed Around:
 
-- `Yenizen` - Members of our amazing community
+- `Yenizen` - Members of our amazing community ([here's our definition](http://yeniverse.com)
 - `Yeniverse` - What we're building AND how we describe our community
 - `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](http://yenicorn.com))
 - `yenSTRONG` - When one of our community members does something amazing and supportive of another `yenizen`.
 - `yenSQUAD` - An alternative way / loving way of talking about our community
-- `yenIVERSITY` — Any of our educational courses or [workshops](http://yen.education).
+- `yenED` — Any of our educational courses or [workshops](http://yen.education).
 
 ### "My Meeting, My Notes"
 
@@ -259,7 +259,9 @@ Here are a few things that aren't immediately obvious about us and our team.
 
 - Until someone on our team comes up with a better name for this... it's just called "Team Food Day"! On `Wednesdays` the company trades one meal of your choice (Breakfast, Lunch, or Dinner... or Second Dinner...) for a picture of it! Feel free to pay for the family too!
 
+### We Like Systems of 3
 
+- 3 letters in our domain name, 3 operating virtues, the "3 E's" that make up a `yenizen`... easy to remember too.
 
 
 
