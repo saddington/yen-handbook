@@ -255,9 +255,13 @@ Here are a few things that aren't immediately obvious about us and our team.
 
 - When you call or 'own' the meeting, you are responsible for taking notes and dispersing them along with action items after the meeting so those who weren't able to attend are made aware. We usually just drop those in Slack post-meeting.
 
-### "Team Food Day"
+### "`DELEBRATE` ALL THE THINGS!"
 
-- Until someone on our team comes up with a better name for this... it's just called "Team Food Day"! On `Wednesdays` the company trades one meal of your choice (Breakfast, Lunch, or Dinner... or Second Dinner...) for a picture of it! Feel free to pay for the family too!
+- At YEN we love to "decentralize celebration" and take time to celebrate individual and collective wins as often as we can! Anytime we **hit a goal** or complete a major milestone, we try to do something special for ourselves, our team, and our family(ies). Use the Brex card.
+
+### Wednesday Team Lunch
+
+- Until someone on our team comes up with a better name for this... it's just called "Team Food Day"! On `Wednesdays` the company trades one meal of your choice (Breakfast, Lunch, or Dinner... or Second Dinner...) for a picture of it! Feel free to pay for the family too! Use the Brex card.
 
 ### We Like Systems of 3
 
