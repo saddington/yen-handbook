@@ -4,7 +4,7 @@ Here are a list of current roles that we're looking to fill!
 
 ## Roles
 
-1. [Community and Content Intern]( 
+1. [Community and Content Intern](https://github.com/yenio/handbook/blob/master/2-job-openings.md#community-and-content-intern) 
 2. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
 3. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
 
