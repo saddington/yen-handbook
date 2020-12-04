@@ -4,17 +4,31 @@ Here are a list of current roles that we're looking to fill!
 
 ## Roles
 
-1. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
-2. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
+1. [Community and Content Intern]( 
+2. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
+3. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
 
 ## Quick Overview
 
 **Hi, we're YEN!**
 
 - We're an early-stage, distributed-first, venture-backed company based out of Silicon Valley.
-- We're building a b2b saas platform to help businesses launch & grow their community, fast.
+- We're building a b2b saas platform to help businesses launch, grow, and monetize their community.
 
 The following are some roles that we're currently looking to fill...
+
+---
+
+### Community and Content Intern
+
+More details [here]() — We are currently looking for one or two folks to join from now until May of 2021.
+
+
+
+
+
+
+
 
 ---
 
@@ -56,6 +70,13 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 **How to Apply:**
 
 - [Email John](mailto:john@yen.io) with anything that would help us get a really good taste of who you are and why this is the right project for you!
+
+
+
+
+
+
+
 
 ---
 
