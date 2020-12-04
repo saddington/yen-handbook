@@ -21,7 +21,7 @@ The following are some roles that we're currently looking to fill...
 
 ### Community and Content Intern
 
-More details [here]() — We are currently looking for one or two folks to join from now until May of 2021.
+More details [here](https://twitter.com/yenFTW/status/1335003091406471170) — We are currently looking for one or two folks to join from now until May of 2021.
 
 
 
