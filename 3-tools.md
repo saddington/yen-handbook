@@ -41,4 +41,6 @@ Here's a list of the tools and services that we `currently` use as a business, w
 23. Shopify — Swag store
 24. Epidemic Sound — Background music for vlogs
 25. Canva — Simple online graphic tool for thumbnails and other collateral.
+26. Loom
+27. Cloudflare for `workers` (Notion doc URLs)
 
