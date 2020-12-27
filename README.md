@@ -132,7 +132,8 @@ As a team we intentionally find opportunities to invest in ourselves and one ano
 
 
 
-
+![](https://pbs.twimg.com/media/Ep8r2OQUUAA-bsR?format=jpg)
+[We love building](https://twitter.com/yenFTW/status/1341839785107673089) for our `yenizens`!
 
 ## Our Team
 
