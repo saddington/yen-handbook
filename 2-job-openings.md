@@ -5,8 +5,9 @@ Here are a list of current roles that we're looking to fill!
 ## Roles
 
 1. [Community and Content Intern](https://github.com/yenio/handbook/blob/master/2-job-openings.md#community-and-content-intern) 
-2. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
-3. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
+2. [UI / UX Designer](#)
+3. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
+4. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
 
 ## Quick Overview
 
@@ -21,11 +22,34 @@ The following are some roles that we're currently looking to fill...
 
 ### Community and Content Intern
 
-More details [here](https://twitter.com/yenFTW/status/1335003091406471170) — We are currently looking for one or two folks to join from now until May of 2021.
+More details [here](https://twitter.com/yenFTW/status/1335003091406471170) — We are currently looking for one more person to join from now until May of 2021.
 
 
 
 
+---
+
+### UI / UX Designer
+
+We're looking for a contract designer who can help us take [our](https://www.indiehackers.com/product/yen/a-quick-visual-update--MJiEOsQ8O8fbQ97vBUM) [initial](https://www.indiehackers.com/product/yen/a-few-animated-gifs--MExkTE12jGIn5DdI0Oe) [designs](https://www.indiehackers.com/product/yen/good-artists-copy--MFrFbk4F61COCakqCNC) and make them even better — give us your magic touch because we literally don't have any designers on the team right now. 
+
+This is pretty cool gig because:
+
+- We have real (and amazing!) [users](https://twitter.com/yenFTW/status/1340163010409627650)! You get to work on a product that has real demand and real, daily use. You'll see your work (and impact) immediately.
+- We're a pretty cool [team](https://github.com/yenio/handbook#our-team) and have an even cooler [community](http://yeniverse.com). 
+- Our [culture](https://github.com/yenio/handbook#operating-virtues) is everything; we live out our `operating virtues`. 
+- Our mission is important: `Democratize community building`. 
+
+It would probably make sense if:
+
+- You had a portfolio of work we could check out and review.
+- You love online community and understand its fundamental importance in our lives.
+
+It would be super-cool (but not a must-have):
+
+- You knew how to take your design and convert it into into `.html` / `.css` / `.scss` and maybe even `react` components...?
+
+Sound interesting? Hit us up on [Twitter](http://twitter.com/yenftw/) or [email](mailto:john@yen.io). 
 
 
 
