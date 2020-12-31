@@ -279,7 +279,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 
 ### `#LATEJAR`
 
-You'll donate `$10` for `every minute` that you're late for a team and/or customer meeting. All proceeds will be donated to charity at the end of the year. The reason we do this is because every minute that we waste is less time for our community and we are the most community-centric company on the planet. They are worth our entire business.
+You'll donate `$10` for `every minute` that you're late for a team and/or customer meeting. All proceeds will be donated to charity at the end of the year. Our logic is simple: **We lose** when we waste time that could have been used to **serve our community** and customers.
 
 - Dec 31 — John — $30
 
