@@ -277,7 +277,11 @@ Here are a few things that aren't immediately obvious about us and our team.
 - 3 letters in our domain name, 3 operating virtues, the "3 E's" that make up a `yenizen`... easy to remember too.
 
 
+### `#LATEJAR`
 
+You will be billed $10 per minute anytime you're late for a team meeting / customer meeting. We'll donate all proceeds to charity every quarter.
+
+- Dec 31 — John — $30
 
 
 
