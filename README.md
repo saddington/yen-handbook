@@ -39,7 +39,7 @@ John // Chief Cartridge Blower
 1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
-4. [Our Community]()
+4. [Our Community](https://github.com/yenio/handbook#our-community)
 5. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
 6. [Open Roles](https://github.com/yenio/handbook/blob/master/2-job-openings.md)
 7. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
@@ -228,6 +228,7 @@ We are currently test-driving the mvp in our own business-building community.
 
 
 
+<img width="1596" alt="Screen Shot 2021-01-04 at 8 46 52 PM" src="https://user-images.githubusercontent.com/1309181/103607531-fcb64d00-4ecd-11eb-9da1-e264b5a4a4d5.png">
 
 
 ## Our Community
