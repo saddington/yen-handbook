@@ -43,4 +43,5 @@ Here's a list of the tools and services that we `currently` use as a business, w
 25. Canva — Simple online graphic tool for thumbnails and other collateral.
 26. Loom
 27. Cloudflare for `workers` (Notion doc URLs)
+28. TransferWise — International payments
 
