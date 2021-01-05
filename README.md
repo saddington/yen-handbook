@@ -39,10 +39,11 @@ John // Chief Cartridge Blower
 1. [Operating Virtues](https://github.com/yenio/handbook#operating-virtues)
 2. [Our Team](https://github.com/yenio/handbook#our-team)
 3. [Our Story](https://github.com/yenio/handbook#our-story)
-4. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
-5. [Open Roles](https://github.com/yenio/handbook/blob/master/2-job-openings.md)
-6. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
-7. [Tools We Use](https://github.com/yenio/handbook/blob/master/3-tools.md)
+4. [Our Community]()
+5. [Employment (Compensation and Benefits)](https://github.com/yenio/handbook/blob/master/1-employment.md)
+6. [Open Roles](https://github.com/yenio/handbook/blob/master/2-job-openings.md)
+7. [Cultural Quirks](https://github.com/yenio/handbook#cultural-quirks)
+8. [Tools We Use](https://github.com/yenio/handbook/blob/master/3-tools.md)
 9. [Policy Changes, Legal Stuff](https://github.com/yenio/handbook#policy-changes-and-legal-stuff)
 
 
@@ -202,6 +203,11 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 
 
+
+
+
+
+
 ## Our Story
 
 Born out of the ashes of two pivots over 2+ years, we restarted YEN's story in early-2020 as we caught a vision for an exciting and inevitable future — a `vision` of a future where there's a "community on every website" and how we do that is through our `mission` to "democratize community building" for everyone, everywhere.
@@ -219,6 +225,14 @@ We are currently test-driving the mvp in our own business-building community.
 
 
 
+
+
+
+
+
+## Our Community
+
+Our community is called `The YENIVERSE` and the citizens of our world are called `yenizens`. You can learn much more about our kick-ass community & culture here in our official **[YIKI](https://github.com/yenio/handbook/wiki)**!
 
 
 
@@ -248,16 +262,16 @@ Here are a few things that aren't immediately obvious about us and our team.
 - Most commonly, we refer to the team, project, company as our core product, YEN.
 - YEN (all caps) is not an acronym.
 - You’ll also see accounts under [yen.io](http://yen.io) or `yenio` or `yenFTW` or `yen_io` (sometimes we couldn’t get just YEN)
-- If "YEN" is combined with another "full" word, it's not capitalized (e.g. `YenIQ`)
+- If "YEN" is combined with another "full" word, it is **not** capitalized (e.g. `YenIQ`)
 - You can find our `brand` guidelines [here](https://john.do/brand-2019/). The colors and identifying marks are correct but most of the copy is not currently correct as we aren't in the `#defi` / `crypto` space anymore.
 
 ### Some Terms You'll See Tossed Around:
 
-- `Yenizen` - Members of our amazing community ([here's our definition](http://yeniverse.com)
-- `Yeniverse` - What we're building AND how we describe our community
-- `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](http://yenicorn.com))
+- `Yenizen` - Members of our amazing community! ([Learn more](https://github.com/yenio/handbook/wiki).
+- `Yeniverse` - What we're building AND how we describe our community!
+- `Yeni` or `Yenni` (what community members named the company mascot, the [Yenicorn](http://yenicorn.com)).
 - `yenSTRONG` - When one of our community members does something amazing and supportive of another `yenizen`.
-- `yenSQUAD` - An alternative way / loving way of talking about our community
+- `yenSQUAD` - An alternative way / loving way of talking about our community.
 - `yenED` — Any of our educational courses or [workshops](http://yen.education).
 
 ### "My Meeting, My Notes"
