@@ -220,22 +220,22 @@ We use Gusto for Payroll and as a part of your onboarding process, will walk you
 
 If we have any questions or need anything specific, we will ping you!
 
-#### Observed Holiday List for 2020
+#### Observed Holiday List for 2021
 
 These may change (we may add more!) as the year progresses.
 
 
-- Jan 1 - Wednesday - New Year's Day	
-- Jan 20 - Monday - Martin Luther King Jr. Day
-- Feb 17 - Monday - Presidents' Day
-- May 25 - Monday - Memorial Day
-- Jul 3 - Friday - Independence Day
-- Jul 4 - Saturday - Independence Day
-- Sep 7 - Monday - Labor Day
-- Oct 12 - Monday - Columbus Day
-- Nov 11 - Wednesday - Veterans Day
-- Nov 26 - Thursday - Thanksgiving Day
-- Dec 25 - Friday	- Christmas Day
+- Jan 1 - Friday - New Year's Day	
+- Jan 18 - Monday - Martin Luther King Jr. Day
+- Feb 15 - Monday - Presidents' Day
+- May 31 - Monday - Memorial Day
+- Jul 4 - Sunday - Independence Day
+- Jul 5 - Monday - Independence Day *observed
+- Sep 6 - Monday - Labor Day
+- Oct 11 - Monday - Columbus Day
+- Nov 11 - Thursday - Veterans Day
+- Nov 25 - Thursday - Thanksgiving Day
+- Dec 24 - Friday	- Christmas Day *observed
 
 
 If a holiday falls on a weekend, we’ll let you know when the holiday will be observed. Usually, if a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday.
