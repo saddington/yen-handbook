@@ -176,7 +176,7 @@ Keeping you one-hundred (or as close as we can).
 
 1. [Healthcare and Disability Insurance](https://github.com/yenio/handbook/blob/master/1-employment.md#healthcare-and-disability-insurance)
 2. [Payroll](https://github.com/yenio/handbook/blob/master/1-employment.md#payroll-ie-getting-paid)
-3. [Observed Holiday List](https://github.com/yenio/handbook/blob/master/1-employment.md#observed-holiday-list-for-2020)
+3. [Observed Holiday List](https://github.com/yenio/handbook/blob/master/1-employment.md#observed-holiday-list-for-2021)
 4. [Vacation and Sick Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#vacation-and-sick-leave)
 5. [Paid Family, Parent Leave](https://github.com/yenio/handbook/blob/master/1-employment.md#pregnancy-disability-leave)
 6. [Other Protected Absences](https://github.com/yenio/handbook/blob/master/1-employment.md#other-protected-absences)
