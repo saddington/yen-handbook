@@ -298,6 +298,8 @@ Here are a few things that aren't immediately obvious about us and our team.
 You'll donate `$10` for `every minute` that you're late for a team and/or customer meeting. All proceeds will be donated to charity at the end of the year. Our logic is simple: **We lose** when we waste time that could have been used to **serve our community** and customers.
 
 * Dec 31, 2020 — John — $30
+* Jan 20, 2021 — Aga — $250
+
 
 
 
