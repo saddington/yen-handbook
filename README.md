@@ -299,6 +299,7 @@ You'll donate `$10` for `every minute` that you're late for a team and/or custom
 
 * Dec 31, 2020 — John — $30
 * Jan 20, 2021 — Aga — $250
+* Jan 22, 2021 — John — $100
 
 
 
