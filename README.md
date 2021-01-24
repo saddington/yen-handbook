@@ -265,7 +265,7 @@ Our community is called `The YENIVERSE` and the citizens of our world are called
 
 Here are a few things that aren't immediately obvious about us and our team.
 
-### How We Refer To Ourselves:
+**How We Refer To Ourselves:**
 
 - Legally, we are `ROFLCOPTER, INC.` But other than legal docs, you’ll rarely see this.
 - Most commonly, we refer to the team, project, company as our core product, YEN.
@@ -274,7 +274,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 - If "YEN" is combined with another "full" word, it is **not** capitalized (e.g. `YenIQ`)
 - You can find our `brand` guidelines [here](https://john.do/brand-2019/). The colors and identifying marks are correct but most of the copy is not currently correct as we aren't in the `#defi` / `crypto` space anymore.
 
-### Some Terms You'll See Tossed Around:
+**Some Terms You'll See Tossed Around:**
 
 - `Yenizen` - Members of our amazing community! ([Learn more](https://github.com/yenio/handbook/wiki).
 - `Yeniverse` - What we're building AND how we describe our community!
@@ -283,24 +283,25 @@ Here are a few things that aren't immediately obvious about us and our team.
 - `yenSQUAD` - An alternative way / loving way of talking about our community.
 - `yenED` — Any of our educational courses or [workshops](http://yen.education).
 
-### "My Meeting, My Notes"
+**"My Meeting, My Notes"**
 
 - When you call or 'own' the meeting, you are responsible for taking notes and dispersing them along with action items after the meeting so those who weren't able to attend are made aware. We usually just drop those in Slack post-meeting.
 
-### "`DELEBRATE` ALL THE THINGS!"
+**"`DELEBRATE` ALL THE THINGS!"**
 
 - At YEN we love to "decentralize celebration" and take time to celebrate individual and collective wins as often as we can! Anytime we **hit a goal** or complete a major milestone, we try to do something special for ourselves, our team, and our family(ies). Use the Brex card.
 
-### Wednesday Team Lunch
+**Wednesday Team Lunch**
 
 - Until someone on our team comes up with a better name for this... it's just called "Team Food Day"! On `Wednesdays` the company trades one meal of your choice (Breakfast, Lunch, or Dinner... or Second Dinner...) for a picture of it! Feel free to pay for the family too! Use the Brex card.
 
-### We Like Systems of 3
+**We Like Systems of 3**
 
 - 3 letters in our domain name, 3 operating virtues, the "3 E's" that make up a `yenizen`... easy to remember too.
+- It's clear that John has a personal fetish with the number 3. It's all his fault.
 
 
-### `#LATEJAR`
+**`#LATEJAR`**
 
 You'll donate `$10` for `every minute` that you're late for a team and/or customer meeting. All proceeds will be donated to charity at the end of the year. Our logic is simple: **We lose** when we waste time that could have been used to **serve our community** and customers.
 
@@ -308,7 +309,7 @@ You'll donate `$10` for `every minute` that you're late for a team and/or custom
 * Jan 20, 2021 — Aga — $250
 * Jan 22, 2021 — John — $100
 
-
+We stole this idea from [a16z](https://www.indiehackers.com/product/yen/the-latejar--MQgw6i-VIBXXGQDZ8jx). 
 
 
 
