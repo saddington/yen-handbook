@@ -239,11 +239,12 @@ We are currently test-driving the mvp in our own business-building community.
 
 ## Our Community
 
-Our community is called `The YENIVERSE` and the citizens of our world are called `yenizens`. You can learn much more about our kick-ass community & culture here in our official **[YIKI](https://github.com/yenio/handbook/wiki)**!
+Our community is called `The YENIVERSE` and the citizens of our world are called `yenizens`. 
 
 
 <img width="1596" alt="Screen Shot 2021-01-04 at 8 46 52 PM" src="https://user-images.githubusercontent.com/1309181/103607531-fcb64d00-4ecd-11eb-9da1-e264b5a4a4d5.png">
 
+You can learn much more about our kick-ass community & culture here in our official **[YIKI](https://github.com/yenio/handbook/wiki)**!
 
 
 
