@@ -6,17 +6,23 @@ This `handbook` has gone through a number of changes over the years and this ver
 This repo does the following:
 
 1. Gives a high-level overview of who we are, what we do, and why we do what we do...
-2. Our compensation, benefits, and employment policies for our staff and team...
-3. A cultural glossary of practices, quirks, principles, and operating virtues...
-4. An assortment of other organization-centric things to know about...
+2. Our compensation, benefits, and employment policies for our staff...
+3. A glossary of cultural practices, quirks, operating virtues...
+4. An assortment of other things that you should know about us...
 
-It's a work-in-progress, something designed to be touched by anyone in our community. If you have thoughts, I'd [love to hear them](mailto:john@yen.io)!
+It's definitely a `WIP` (work-in-progress); something designed to change as we change. If you have thoughts, I'd [love to hear them](mailto:john@yen.io)!
 
-Finally, I'm grateful that you're here and that you've decided to commit a season of your life helping to build a _meaningful_ and _impactful_ software product for our amazing community — their success (and ours) wouldn't be possible without you.
+Most importantly, I'm grateful that you're here and that you've decided to commit a season of your life helping to build a _meaningful_ and _impactful_ software product for our amazing community and stakeholders! Our community's success (and ours!) wouldn't be possible without you.
 
 To infinity & community,
 
 John // Chief Cartridge Blower
+
+
+
+
+
+
 
 
 
@@ -79,11 +85,11 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 >
 >The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
 
-Consequently, here are our current `operating virtues` (taken from our [blog](https://john.do/day-one/)):
+Consequently, here are our current `operating virtues` (via this blog [post](https://john.do/day-one/)):
 
 
 ### 1. Table All The Things — `#tatt`
-Or, in other words, we “put everything out on the table” — the good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished ideas in prose.
+At YEN we “put everything out on the table”: The good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished ideas in our updates.
 
 [Candor](https://www.indiehackers.com/post/candor-the-secret-to-startup-success-de93cf7ace) is our weapon of choice — both a strategy and tactic.
 
@@ -95,22 +101,23 @@ Our **table is strong** when **trust is the foundation**.
 
 
 ### 2. Speed of Decision Making — `#sodm`
-No bullshit: We are in a fight for our survival and every single day we make business-altering decisions. And sometimes theese decisions are made without all of the data. Regardless, we agree with General Patton when he said “*A good plan, violently executed **now**, is better than a perfect plan next week.*” 
+We won't pull any punches here: As an early-stage startup we are in a fight for survival and we make business-altering decisions every day, even and especially without complete data sets. Regardless, we agree with General Patton when he said “*A good plan, violently executed **now**, is better than a perfect plan **next week**.*” 
 
-That “plan” is our first operating virtue, `#tatt`, because our team has mastered the art of communicating with [candor](https://www.indiehackers.com/post/candor-the-secret-to-startup-success-de93cf7ace): We are open, honest, and we keep things simple to maximize meaning and understanding. 
+That “plan” is exhibited via our first operating virtue — `#tatt` — and our open, honest, and timely updates keep things simple to maximize meaning and understanding. 
 
-When making decisions, we clearly state if consensus or feedback is required, the expected time to deliver, and then, with enough collective confidence that we can create, we commit to the decision even (and especially) when we may personally disagree. 
+We will oftentimes frame our work in this way:
+> I intend to do X, by Y time, with Z results.
 
-We move the fastest and are the most effective **when we are aligned**.
+This helps quickly let the team know what's happening, who's involved, and any needs or blockers. Remember: We move the fastest and are the most effective **when we are aligned**.
 
 
 
 ### 3. Kaizen — `#kaizen`
-When our team executes the first two `operating virtues` with excellence it allows us to build a culture of `continuous improvement`, both corporately and independently. We seek to do this in everything that we do. Consequently, everything in our business is dynamic, not static; a real-life work-in-progress.
+When our team executes the first two `operating virtues` with excellence it allows us to build a culture of `continuous improvement` throughout our entire organizational stack. Everything in our business is dynamic, not static; a real-life work-in-progress, just like this `#handbook`!
 
-We look for opportunities to not only grow but also to share our learnings with the other folks on our team — this is part of `#tatt`! Much has been written about the history and application of [kaizen](https://en.wikipedia.org/wiki/Kaizen) and it's worth developing your own personal philosophy and practice.
+We look for opportunities to share everything we know with our teammates and community — this is part of `#tatt`! Much has been written about the history and application of [kaizen](https://en.wikipedia.org/wiki/Kaizen) and it's worth developing your own personal philosophy and practice.
 
-As a team we intentionally find opportunities to invest in ourselves and one another through continual education — reading, attending (virtual) conferences, and even taking educational courses to level-up as humans. Feel free use your monthly budget to invest in yourself!
+As a team we intentionally find opportunities to invest in ourselves and one another through continual education — reading, attending (virtual) conferences, and even taking time for "independent study" to level-up as humans. Feel free use your monthly budget to invest in yourself!
 
 
 
