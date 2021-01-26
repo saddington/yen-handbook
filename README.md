@@ -310,8 +310,9 @@ You'll donate `$10` for `every minute` that you're late for a team and/or custom
 * Dec 31, 2020 — $30
 * Jan 20, 2021 — $250
 * Jan 22, 2021 — $100
+* Jan 26, 2021 - $160
 
-Current total: $380
+Current total: $540
 
 We stole this idea from [a16z](https://www.indiehackers.com/product/yen/the-latejar--MQgw6i-VIBXXGQDZ8jx). 
 
