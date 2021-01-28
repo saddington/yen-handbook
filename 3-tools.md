@@ -13,6 +13,7 @@ Here's a list of the tools and services that we `currently` use as a business, w
 07. Stripe`***` — Payment gateway, ecommerce.
 08. Brex`***` — Corporate credit card
 09. Figma`***` — Design Tool
+10. Sentry.io `***` — Error monitoring
 
 ### Business Tools
 
