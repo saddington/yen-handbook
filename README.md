@@ -108,7 +108,7 @@ That “plan” is exhibited via our first operating virtue — `#tatt` — and 
 We will oftentimes frame our work in this way:
 > I intend to do X, by Y time, with Z results.
 
-This helps quickly let the team know what's happening, who's involved, and any needs or blockers. Remember: We move the fastest and are the most effective **when we are aligned**.
+This helps quickly let the team know what's happening, who's involved, and any needs or blockers. Remember: We move the fastest and are the most effective **when we are aligned**. This includes being **on time** for meetings as `timeliness` is a sister virtue of `#sodm`.
 
 
 
@@ -302,19 +302,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 - It's clear that John has a personal fetish with the number 3. It's all his fault.
 
 
-**`#LATEJAR`**
 
-You'll donate `$10` for `every minute` that you're late for a team and/or customer meeting. All proceeds will be donated to charity at the end of the year. Our logic is simple: **We lose** when we waste time that could have been used to **serve our community** and customers.
-
-
-* Dec 31, 2020 — $30
-* Jan 20, 2021 — $250
-* Jan 22, 2021 — $100
-* Jan 26, 2021 - $160
-
-Current total: $540
-
-We stole this idea from [a16z](https://www.indiehackers.com/product/yen/the-latejar--MQgw6i-VIBXXGQDZ8jx). 
 
 
 
