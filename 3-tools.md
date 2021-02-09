@@ -15,6 +15,7 @@ Here's a list of the tools and services that we `currently` use as a business, w
 08. Brex`***` — Corporate credit card
 09. Figma`***` — Design Tool
 10. Sentry.io `***` — Error monitoring
+11. Browerstack `***`
 
 ### Business Tools
 
