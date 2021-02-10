@@ -283,6 +283,9 @@ Here are a few things that aren't immediately obvious about us and our team.
 - `yenSTRONG` - When one of our community members does something amazing and supportive of another `yenizen`.
 - `yenSQUAD` - An alternative way / loving way of talking about our community.
 - `yenED` — Any of our educational courses or [workshops](http://yen.education).
+- `yenSTORM` — A creative brainstorm session with other `yenizens`.
+- `yenSTORIAN` - Our first historian on the team.
+- `yenDEALER ` — Our first swag distributor.
 
 **"My Meeting, My Notes"**
 
@@ -299,7 +302,7 @@ Here are a few things that aren't immediately obvious about us and our team.
 **We Like Systems of 3**
 
 - 3 letters in our domain name, 3 operating virtues, the "3 E's" that make up a `yenizen`... easy to remember too.
-- It's clear that John has a personal fetish with the number 3. It's all his fault.
+- It's clear that John has a personal fetish with the number 3. It is all his fault. Blame him.
 
 
 
