@@ -128,9 +128,6 @@ As a team we intentionally find opportunities to invest in ourselves and one ano
 
 
 
-![](https://pbs.twimg.com/media/Ep8r2OQUUAA-bsR?format=jpg)
-[We love building](https://twitter.com/yenFTW/status/1341839785107673089) for our `yenizens`!
-
 
 
 
@@ -142,6 +139,12 @@ As a team we intentionally find opportunities to invest in ourselves and one ano
 
 
 ## Our Team
+
+We are a distributed-first, async team with a mix of full-time & part-time folks from all around the world! We are committed to creating a "safe" and "default" environment for team.
+
+![](https://pbs.twimg.com/media/Ep8r2OQUUAA-bsR?format=jpg)
+[We love building](https://twitter.com/yenFTW/status/1341839785107673089) for our `yenizens`!
+
 
 #### John Saddington - Community - [@yenFTW](https://twitter.com/yenFTW)
 
