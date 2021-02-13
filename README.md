@@ -140,7 +140,7 @@ As a team we intentionally find opportunities to invest in ourselves and one ano
 
 ## Our Team
 
-We are a distributed-first, async team with a mix of full-time & part-time folks from all around the world! We are committed to creating a "safe" and "default" environment for team.
+We are a distributed-first, async team with a mix of full-time & part-time folks from all around the world! Diversity of thought, expression, and experience is something we specifically look for when selecting future team members.
 
 ![](https://pbs.twimg.com/media/Ep8r2OQUUAA-bsR?format=jpg)
 [We love building](https://twitter.com/yenFTW/status/1341839785107673089) for our `yenizens`!
@@ -148,7 +148,7 @@ We are a distributed-first, async team with a mix of full-time & part-time folks
 
 #### John Saddington - Community - [@yenFTW](https://twitter.com/yenFTW)
 
-John was most recently co-founder of Pinpoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC (Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, Social Capital, and [more](https://john.do/pinpoint/)). Previously, he was a co-founder of The Iron Yard, the largest coding bootcamp before it was acquired by Apollo Global (Fortune 500). Through his love of open source he founded 8BIT, which was both an open source product (acquired by WooThemes) and a content company (acquired by WPEngine). He's [a](https://ceobrain.substack.com/) [writer](https://john.do), dad, and amateur [filmmaker](http://yen.show).
+John was most recently co-founder of Pinpoint, an engineering analytics company in Silicon Valley backed by some of the top names in VC: Bessemer, Storm Ventures, BoldStart, BloombergBeta, Slack Fund, and Social Capital. [Previously](https://yenfm.substack.com/p/-the-inevitable-pivot-thoughts-on), he was a co-founder of The Iron Yard, the largest coding bootcamp before it was acquired by Apollo Global (Fortune 500). [He](http://john.do/about)'s an educator, writer, and dad to 3 amazing humans.
 
 #### Agata Bergstrom - Engineering - [LinkedIn](https://www.linkedin.com/in/agatabergstrom)
 
@@ -181,7 +181,7 @@ We're fortunate to have the financial support from the following (repeat!) ventu
 4. [Sterling Road VC](https://www.sterlingroad.com/)
 5. [Service Provider Capital](http://www.serviceprovidercapital.com/)
 
-We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
+We also have a top-flight group of Angel Investors consisting of advisors and close friends.
 
 
 
@@ -215,13 +215,18 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 ## Our Story
 
-Born out of the ashes of two pivots over 2+ years, we restarted YEN's story in early-2020 as we caught a vision for an exciting and inevitable future — a `vision` of a future where there's a "community on every website" and how we do that is through our `mission` to "democratize community building" for everyone, everywhere.
+YEN's story began in early-2020 as we caught a vision for an exciting and inevitable future: `Community on every website`.
 
-For starters, it looks like a simple `b2b` `saas` platform that helps businesses launch, manage, and grow a community right on their own website. Unlike other solutions that can take a lot of time to properly setup and install, we bring the community right to the business, maximizing their efforts and marketing ROI.
+Practically-speaking, it's what we call a [CommSaaS](http://commsaas.org); a community-centric `b2b` `saas` platform that helps creators launch, manage, grow, and monetize a community right on their own website.
 
-Built for speed, we help creators connect with their customers, monetize their projects and know-how, and build a community they can be super-proud of.
+Unlike other solutions that a lot of time to properly setup and install, we bring the community right to the business (and they "hang out" there!) which maximizes business ROI up and down the entire stack.
 
-We are currently test-driving the mvp in our own business-building community.
+Built for speed, we help creators connect with their audience fast, giving them powerful management and monetization tools in just a few clicks. 
+
+Consequently, customers of YEN build profitable, community-centric businesses and revenue-generating communities! We are currently test-driving the mvp in our own business-building [community](https://github.com/yenio/handbook/wiki).
+
+
+
 
 
 
@@ -388,15 +393,14 @@ We want all of our policies to be living documents which can improve and change 
 
 Right now, we use the following tools to discuss the Handbook:
 
-1. **GitHub** - The canonical resource. Feel free to open a pull request with context!
-
-2. **In Person Meetings** - Our hope is that as we grow and scale, we'll have more opportunities to gather in-person and virtually to discuss the #handbook openly.
+1. **GitHub** - The canonical resource. Feel free to open a pull request with context.
+2. **YAPP** - Feel free to open a topic in `#yenTEAM` or `#yeniverse` channel; we'll talk it through.
 
 
 
 #### Handbook Use, Policy
 
-This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This Handbook is not a contract, express or implied, guaranteeing employment for any specific duration.
+This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This andbook is not a contract, express or implied, guaranteeing employment for any specific duration.
 
 This Handbook is designed to familiarize employees with the employment policies of YEN. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by YEN to benefit its employees.
 
