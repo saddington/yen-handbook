@@ -1,13 +1,13 @@
 # Our Company Handbook
-*Operations & Culture Handbook for our Community*
+*Operations & Culture Handbook for our Team & Community*
 
 This repo provides the following information:
 
-1. An overview of who we are, what we do, and why we do what we do.
-2. How we operate & compensate our team, like health benefits, employment policies, and more.
-3. A glossary of cultural practices, quirks, and `Operating Virtues`.
+1. An overview of who we are, what we do, and why we do what we do
+2. How we operate & compensate (health benefits, employment policies, etc.)
+3. A glossary of cultural practices, quirks, and `Operating Virtues`
 
-It's a `WIP` (work-in-progress); something designed to evolve and change as we evolve and change. I'd [love any / all feedback](mailto:john@yen.io)!
+It's a `WIP` (work-in-progress); something designed to evolve as we evolve. I'd [love any / all feedback](mailto:john@yen.io)!
 
 Finally, I'm grateful that you're here and reading this; and if you've decided to commit a season of your life to YEN it is my mission to serve you as best as I can! I'm going to need your help to create a company culture that we're all super-proud of. None of this would be possible without you.
 
