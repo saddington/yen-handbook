@@ -1,22 +1,19 @@
 # Our Company Handbook
-*A Collaborative Handbook for our Team & Community*
+*Operations & Culture Handbook for our Community*
 
-This `handbook` has gone through a number of changes over the years and this version is no exception! 
+This repo provides the following information:
 
-This repo does the following:
+1. An overview of who we are, what we do, and why we do what we do.
+2. How we operate & compensate our team, like health benefits, employment policies, and more.
+3. A glossary of cultural practices, quirks, and `Operating Virtues`.
 
-1. Gives a high-level overview of who we are, what we do, and why we do what we do...
-2. Our compensation, benefits, and employment policies for our staff...
-3. A glossary of cultural practices, quirks, operating virtues...
-4. An assortment of other things that you should know about us...
+It's a `WIP` (work-in-progress); something designed to evolve and change as we evolve and change. I'd [love any / all feedback](mailto:john@yen.io)!
 
-It's definitely a `WIP` (work-in-progress); something designed to change as we change. If you have thoughts, I'd [love to hear them](mailto:john@yen.io)!
-
-Most importantly, I'm grateful that you're here and that you've decided to commit a season of your life helping to build a _meaningful_ and _impactful_ software product for our amazing community and stakeholders! Our community's success (and ours!) wouldn't be possible without you.
+Finally, I'm grateful that you're here and reading this; and if you've decided to commit a season of your life to YEN it is my mission to serve you as best as I can! I'm going to need your help to create a company culture that we're all super-proud of. None of this would be possible without you.
 
 To infinity & community,
 
-John // Chief Cartridge Blower
+John // Yenizen Zero & Chief Cartridge Blower
 
 
 
