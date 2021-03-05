@@ -4,10 +4,11 @@ Here are a list of current roles that we're looking to fill!
 
 ## Roles
 
-1. [Community and Content Intern](https://github.com/yenio/handbook/blob/master/2-job-openings.md#community-and-content-intern) 
+1. [Community and Content Intern](https://twitter.com/yenFTW/status/1335003091406471170) 
 2. [UI / UX Designer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#ui--ux-designer)
 3. [FE Software Engineer](https://github.com/yenio/handbook/blob/master/2-job-openings.md#frontend-software-engineer)
-4. [Chief of Staff](https://github.com/yenio/handbook/blob/master/2-job-openings.md#chief-of-staff-or-majordomo)
+4. [Chief of Staff / Major Domo](https://twitter.com/yenFTW/status/1293192500320931840)
+5. [Product Manager](https://twitter.com/yenFTW/status/1367935966464200706)
 
 ## Quick Overview
 
@@ -17,15 +18,6 @@ Here are a list of current roles that we're looking to fill!
 - We're building a b2b saas platform to help businesses launch, grow, and monetize their community.
 
 The following are some roles that we're currently looking to fill...
-
----
-
-### Community and Content Intern
-
-More details [here](https://twitter.com/yenFTW/status/1335003091406471170) — We are currently looking for one more person to join from now until May of 2021.
-
-
-
 
 ---
 
@@ -97,13 +89,3 @@ This role will be responsible for helping to build out our early-stage `mvp` wit
 
 
 
-
-
-
-
-
----
-
-### Chief of Staff (or `#majordomo`)
-
-More details [here](https://twitter.com/yenFTW/status/1293192500320931840) — I'm just beginning my search for this important role.
