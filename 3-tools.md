@@ -40,4 +40,7 @@ Apps, tools, services that we `currently` use.
 30. Canva — GFX tool for thumbnails, art
 31. Loom — Screen recording
 32. TransferWise — International payments
+33. Webflow
+34. IndieHackers.com
+35. Substack
 
