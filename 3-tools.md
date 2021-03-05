@@ -6,45 +6,38 @@ Here's a list of the tools and services that we `currently` use as a business, w
 
 00. YAPP `***` — A superior communications device for building modern businesses and communities.
 01. Firebase`***` — Cloud, DB, Store, Auth... and more.
-02. Stream`***` — API / SDK
-03. Slack`***`
-04. GitHub`***`
-05. Gusto`***` — Payroll
-06. Digital Ocean `***`
-07. Stripe`***` — Payment gateway, ecommerce.
-08. Brex`***` — Corporate credit card
-09. Figma`***` — Design Tool
-10. Sentry.io `***` — Error monitoring
-11. Browerstack `***`
+02. GitHub`***`
+03. Gusto`***` — Payroll
+04. Digital Ocean `***`
+05. Stripe`***` — Payment gateway, ecommerce.
+06. Brex`***` — Corporate credit card
+07. Sentry.io `***` — Error monitoring
+08. Browerstack `***`
 
 ### Business Tools
 
-01. Google Suite (Gmail, Calendar) — `@yen.io` address is optional.
-02. Notion — Primarily for Venture Capital updates.
-03. QuickBooks
-04. Anytime Mailbox — Local, "virtual" corporate address.
-05. Adobe Systems — Adobe Premier and video editing.
-06. 
-07. PayPal
-08. Product Hunt SHIP
-09. CTCorporation
-10. DocSend — For slide decks.
-11. iwantmyname — Domain registration
-12. 
-13. 
-14. YouTube — YEN.SHOW
-15. Twitter - @yenFTW
-16. Zoom
-17. SavvyCal
-18. Silicon Valley Bank
-19. Mercury Bank
-20. Gumroad — Use to sell access to `#yenCAMP`
-21. Anthem — Our healthcare provider, broker.
-22. Beam — Our dental / vision provider.
-23. Shopify — Swag store
-24. Epidemic Sound — Background music for vlogs
-25. Canva — Simple online graphic tool for thumbnails and other collateral.
-26. Loom
-27. 
-28. TransferWise — International payments
+09. Google Suite (Gmail, Calendar) — `@yen.io` address is optional
+10. Notion — Primarily for Venture Capital updates
+11. QuickBooks
+12. Anytime Mailbox — Local, "virtual" corporate address
+13. Adobe Systems — Adobe Premier and video editing
+14. iwantmyname — Domain registration
+15. PayPal
+16. Product Hunt SHIP
+17. CTCorporation
+18. DocSend — For slide decks
+19. YouTube — YEN.SHOW
+20. Twitter - @yenFTW
+21. Zoom
+22. SavvyCal
+23. Silicon Valley Bank
+24. Mercury Bank
+25. Gumroad — Sell product, workshops
+26. Anthem — Our healthcare provider, broker
+27. Beam — Our dental / vision provider
+28. Shopify — Swag store
+29. Epidemic Sound — Music for vlogs
+30. Canva — GFX tool for thumbnails, art
+31. Loom — Screen recording
+32. TransferWise — International payments
 
