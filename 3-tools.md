@@ -1,18 +1,18 @@
 # The Tools We Use
 
-Here's a list of the tools and services that we `currently` use as a business, where `***` represents tools that team members need access to.
+Apps, tools, services that we `currently` use.
 
 ### Shared Tools
 
-00. YAPP `***` — A superior communications device for building modern businesses and communities.
-01. Firebase`***` — Cloud, DB, Store, Auth... and more.
-02. GitHub`***`
-03. Gusto`***` — Payroll
-04. Digital Ocean `***`
-05. Stripe`***` — Payment gateway, ecommerce.
-06. Brex`***` — Corporate credit card
-07. Sentry.io `***` — Error monitoring
-08. Browerstack `***`
+00. YAPP  — Communication device for the modern business
+01. Firebase — All the things
+02. GitHub
+03. Gusto — Payroll
+04. Digital Ocean
+05. Stripe — Payment gateway, ecommerce
+06. Brex — Corporate credit card
+07. Sentry.io  — Error monitoring
+08. Browerstack — Browser testing
 
 ### Business Tools
 
