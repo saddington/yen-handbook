@@ -1,6 +1,6 @@
 # We're Hiring!
 
-Here are a list of current roles that we're looking to fill!
+Here are a list of current roles that we're looking to fill! Also, this [tweetstorm](https://twitter.com/yenFTW/status/1369341014469607425) might be a useful read re: skills & qualifications.
 
 ## Roles
 
